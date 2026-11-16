@@ -1,0 +1,1403 @@
+Predicted,Actual,Start,Duration,Score,Session,Confidence
+No Smoking,No Smoking,0.0,5.04,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990686
+No Smoking,No Smoking,1.007,5.041,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986126
+No Smoking,No Smoking,2.014,5.0420003,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9978871
+No Smoking,No Smoking,3.021,5.043,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99719155
+No Smoking,No Smoking,4.028,5.0439997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99754274
+No Smoking,No Smoking,5.04,5.0410004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9980161
+No Smoking,No Smoking,6.048,5.0400004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983767
+No Smoking,No Smoking,7.056,4.9239993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99867713
+No Smoking,No Smoking,8.064,4.924,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988263
+No Smoking,No Smoking,9.072,4.9240007,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988187
+No Smoking,No Smoking,10.081,4.9229994,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987812
+No Smoking,No Smoking,11.088,4.923999,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988112
+No Smoking,No Smoking,11.98,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99879456
+No Smoking,No Smoking,12.988,5.045001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988526
+No Smoking,No Smoking,13.996,5.045,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99908054
+No Smoking,No Smoking,15.004,5.045,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9992838
+No Smoking,No Smoking,16.012,5.0460014,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99942625
+No Smoking,No Smoking,17.02,5.045,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9995162
+No Smoking,No Smoking,18.033,5.039999,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9994835
+No Smoking,No Smoking,19.041,5.045,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99944055
+No Smoking,No Smoking,20.049,5.045,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9993797
+No Smoking,No Smoking,21.058,5.0439987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9993256
+No Smoking,No Smoking,22.065,5.0459995,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99930453
+No Smoking,No Smoking,23.073,5.045,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9992764
+No Smoking,No Smoking,24.085999,5.039999,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9992496
+No Smoking,No Smoking,25.093998,5.045,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991841
+No Smoking,No Smoking,26.101997,5.045,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99912643
+No Smoking,No Smoking,27.111002,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990483
+No Smoking,No Smoking,28.118,5.0460014,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99894816
+No Smoking,No Smoking,29.126,5.045002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988219
+No Smoking,No Smoking,30.138998,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986954
+No Smoking,No Smoking,31.146997,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985481
+No Smoking,No Smoking,32.156,5.0440025,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984381
+No Smoking,No Smoking,33.164,5.0439987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983925
+No Smoking,No Smoking,34.171,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9980147
+No Smoking,No Smoking,35.179,5.0459976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99954337
+No Smoking,No Smoking,36.187,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9998779
+No Smoking,No Smoking,37.2,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9910422
+No Smoking,No Smoking,38.208,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9994734
+No Smoking,No Smoking,39.216,5.045002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99974024
+No Smoking,No Smoking,40.225,4.9230003,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99973273
+No Smoking,No Smoking,41.232,4.924,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99972427
+No Smoking,No Smoking,42.24,4.924,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99971485
+No Smoking,No Smoking,43.253,4.9190025,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9997026
+No Smoking,No Smoking,44.261,4.924,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9996892
+No Smoking,No Smoking,45.148,5.045002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99965537
+No Smoking,No Smoking,46.156002,5.045002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9996082
+No Smoking,No Smoking,47.164,5.0439987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9995406
+No Smoking,No Smoking,48.171997,5.0439987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99947184
+No Smoking,No Smoking,49.184998,5.0389977,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9993899
+No Smoking,No Smoking,50.193,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99929404
+No Smoking,No Smoking,51.200996,5.0439987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991454
+No Smoking,No Smoking,52.208,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99893755
+No Smoking,No Smoking,53.216,5.0460014,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986813
+No Smoking,No Smoking,54.224,5.045002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99836814
+No Smoking,No Smoking,55.238,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99800766
+No Smoking,No Smoking,56.244995,5.045002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99768114
+No Smoking,No Smoking,57.253,5.045002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9972852
+No Smoking,No Smoking,58.261997,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99667
+No Smoking,No Smoking,59.269,5.045002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9962336
+No Smoking,No Smoking,60.277,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9958057
+No Smoking,No Smoking,61.29,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9956176
+No Smoking,No Smoking,62.298,5.045002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99538195
+No Smoking,No Smoking,63.306995,5.0439987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9951945
+No Smoking,No Smoking,64.314,5.0459976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9949048
+No Smoking,No Smoking,65.322,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9952201
+No Smoking,No Smoking,66.33,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99562514
+No Smoking,No Smoking,67.343,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9964621
+No Smoking,No Smoking,68.351,5.045006,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9971053
+No Smoking,No Smoking,69.36,5.0439987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9973923
+No Smoking,No Smoking,70.367,5.0460052,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9976454
+No Smoking,No Smoking,71.375,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9978928
+No Smoking,No Smoking,72.383,5.0439987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9980252
+No Smoking,No Smoking,73.396,5.038994,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99816346
+No Smoking,No Smoking,74.404,5.0439987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982308
+No Smoking,No Smoking,75.413,4.921997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998351
+No Smoking,No Smoking,76.42,4.923004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984034
+No Smoking,No Smoking,77.427,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984343
+No Smoking,No Smoking,78.435,4.9240036,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984995
+No Smoking,No Smoking,79.448,4.9189987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99849045
+No Smoking,No Smoking,80.335,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984417
+No Smoking,No Smoking,81.343,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99846333
+No Smoking,No Smoking,82.351,5.045006,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984036
+No Smoking,No Smoking,83.359,5.0459976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984481
+No Smoking,No Smoking,84.367,5.045006,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99840647
+No Smoking,No Smoking,85.375,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984762
+No Smoking,No Smoking,86.388,5.0410004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984355
+No Smoking,No Smoking,87.396,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99842167
+No Smoking,No Smoking,88.405,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984059
+No Smoking,No Smoking,89.412,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983748
+No Smoking,No Smoking,90.420006,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99841523
+No Smoking,No Smoking,91.429,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982965
+No Smoking,No Smoking,92.441,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99826163
+No Smoking,No Smoking,93.45,5.045006,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99833316
+No Smoking,No Smoking,94.457,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982958
+No Smoking,No Smoking,95.465004,5.045006,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99836314
+No Smoking,No Smoking,96.474,5.0439987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983317
+No Smoking,No Smoking,97.481,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99834317
+No Smoking,No Smoking,98.495,5.038994,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99829197
+No Smoking,No Smoking,99.502,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983298
+No Smoking,No Smoking,100.509995,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983679
+No Smoking,No Smoking,101.518,5.0460052,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983836
+No Smoking,No Smoking,102.526,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983987
+No Smoking,No Smoking,103.534,5.045006,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984054
+No Smoking,No Smoking,104.547,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984047
+No Smoking,No Smoking,105.55499,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99846
+No Smoking,No Smoking,106.564,5.0439987,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984257
+No Smoking,No Smoking,107.571,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984073
+No Smoking,No Smoking,108.57901,5.0459976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99839014
+No Smoking,No Smoking,109.587006,5.045006,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984329
+No Smoking,No Smoking,110.600006,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983309
+No Smoking,No Smoking,111.608,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982996
+No Smoking,No Smoking,112.616,4.9240036,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983479
+No Smoking,No Smoking,113.625,4.9240036,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99830246
+No Smoking,No Smoking,114.632,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998334
+No Smoking,No Smoking,115.64,4.9240036,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998257
+No Smoking,No Smoking,116.532,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99826914
+No Smoking,No Smoking,117.54001,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982046
+No Smoking,No Smoking,118.549,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982577
+No Smoking,No Smoking,119.556,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982822
+No Smoking,No Smoking,120.564,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983259
+No Smoking,No Smoking,121.572,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99834836
+No Smoking,No Smoking,122.585,5.040001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99829316
+No Smoking,No Smoking,123.593994,5.045006,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99832505
+No Smoking,No Smoking,124.601,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99840003
+No Smoking,No Smoking,125.609,5.045006,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99835217
+No Smoking,No Smoking,126.617,5.0459976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99839455
+No Smoking,No Smoking,127.62499,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984072
+No Smoking,No Smoking,128.639,5.038986,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99834466
+No Smoking,No Smoking,129.646,5.0410004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984405
+No Smoking,No Smoking,130.654,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983962
+No Smoking,No Smoking,131.663,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983998
+No Smoking,No Smoking,132.67,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99840456
+No Smoking,No Smoking,133.678,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983296
+No Smoking,No Smoking,134.687,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983698
+No Smoking,No Smoking,135.699,5.0399933,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983807
+No Smoking,No Smoking,136.708,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998393
+No Smoking,No Smoking,137.715,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984636
+No Smoking,No Smoking,138.723,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984103
+No Smoking,No Smoking,139.732,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998441
+No Smoking,No Smoking,140.739,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984699
+No Smoking,No Smoking,141.753,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99847215
+No Smoking,No Smoking,142.76,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99850905
+No Smoking,No Smoking,143.768,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985776
+No Smoking,No Smoking,144.777,4.923004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986063
+No Smoking,No Smoking,145.784,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985532
+No Smoking,No Smoking,146.792,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99857783
+No Smoking,No Smoking,147.805,4.9200134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985883
+No Smoking,No Smoking,148.692,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985926
+No Smoking,No Smoking,149.7,5.0460052,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998597
+No Smoking,No Smoking,150.708,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99860096
+No Smoking,No Smoking,151.716,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99865323
+No Smoking,No Smoking,152.725,5.043991,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998669
+No Smoking,No Smoking,153.737,5.0399933,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99872273
+No Smoking,No Smoking,154.746,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99874
+No Smoking,No Smoking,155.753,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987268
+No Smoking,No Smoking,156.761,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99873334
+No Smoking,No Smoking,157.769,5.0460052,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99867344
+No Smoking,No Smoking,158.777,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987475
+No Smoking,No Smoking,159.791,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99878144
+No Smoking,No Smoking,160.798,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99878526
+No Smoking,No Smoking,161.806,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99879384
+No Smoking,No Smoking,162.815,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987869
+No Smoking,No Smoking,163.822,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988368
+No Smoking,No Smoking,164.83,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987974
+No Smoking,No Smoking,165.843,5.0410004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987788
+No Smoking,No Smoking,166.851,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99872965
+No Smoking,No Smoking,167.86,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99870276
+No Smoking,No Smoking,168.867,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987158
+No Smoking,No Smoking,169.875,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99871343
+No Smoking,No Smoking,170.884,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987232
+No Smoking,No Smoking,171.891,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987232
+No Smoking,No Smoking,172.905,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987232
+No Smoking,No Smoking,173.912,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987232
+No Smoking,No Smoking,174.92,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987232
+No Smoking,No Smoking,175.929,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987286
+No Smoking,No Smoking,176.936,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987094
+No Smoking,No Smoking,177.944,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987018
+No Smoking,No Smoking,178.957,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986194
+No Smoking,No Smoking,179.965,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985951
+No Smoking,No Smoking,180.973,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99857974
+No Smoking,No Smoking,181.86,5.0460052,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99857914
+No Smoking,No Smoking,182.868,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99858356
+No Smoking,No Smoking,183.876,5.043991,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99852854
+No Smoking,No Smoking,184.889,5.038986,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985117
+No Smoking,No Smoking,185.897,5.0429993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984525
+No Smoking,No Smoking,186.906,5.0410004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984381
+No Smoking,No Smoking,187.913,5.0410004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99844646
+No Smoking,No Smoking,188.92,5.0410004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984455
+No Smoking,No Smoking,189.92798,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99845475
+No Smoking,No Smoking,190.94,5.0350037,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99845475
+No Smoking,No Smoking,191.947,5.054001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984588
+No Smoking,No Smoking,192.95401,5.054001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99851644
+No Smoking,No Smoking,193.961,5.054001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985295
+No Smoking,No Smoking,194.968,5.054001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99853057
+No Smoking,No Smoking,195.97499,5.054001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99853116
+No Smoking,No Smoking,197.001,5.0349884,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985264
+No Smoking,No Smoking,198.008,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99858165
+No Smoking,No Smoking,199.015,5.0410004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99859405
+No Smoking,No Smoking,200.022,5.0429993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986176
+No Smoking,No Smoking,201.02902,5.0429993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986469
+No Smoking,No Smoking,202.036,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986621
+No Smoking,No Smoking,203.04799,5.0410004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986813
+No Smoking,No Smoking,204.056,5.0399933,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986787
+No Smoking,No Smoking,205.065,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986775
+No Smoking,No Smoking,206.07202,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986801
+No Smoking,No Smoking,207.08,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99873513
+No Smoking,No Smoking,208.08899,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986874
+No Smoking,No Smoking,209.096,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986752
+No Smoking,No Smoking,210.11,4.916992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986165
+No Smoking,No Smoking,211.11702,4.922989,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985901
+No Smoking,No Smoking,212.125,4.923004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99860156
+No Smoking,No Smoking,213.13399,4.921997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998598
+No Smoking,No Smoking,214.141,4.922989,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99860984
+No Smoking,No Smoking,215.02701,5.0460052,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99860984
+No Smoking,No Smoking,216.04,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99860984
+No Smoking,No Smoking,217.048,5.04599,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986075
+No Smoking,No Smoking,218.056,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99854153
+No Smoking,No Smoking,219.064,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985284
+No Smoking,No Smoking,220.07301,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99847287
+No Smoking,No Smoking,221.08,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984467
+No Smoking,No Smoking,222.09401,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984589
+No Smoking,No Smoking,223.101,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984267
+No Smoking,No Smoking,224.109,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984312
+No Smoking,No Smoking,225.11801,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984845
+No Smoking,No Smoking,226.125,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99849474
+No Smoking,No Smoking,227.133,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99855584
+No Smoking,No Smoking,228.146,5.0410004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985671
+No Smoking,No Smoking,229.154,5.075989,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985526
+No Smoking,No Smoking,230.16199,5.076004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99855655
+No Smoking,No Smoking,231.17,5.076004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99854404
+No Smoking,No Smoking,232.178,5.076004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99854404
+No Smoking,No Smoking,233.187,5.076004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985464
+No Smoking,No Smoking,234.23,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99850595
+No Smoking,No Smoking,235.238,4.924988,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984888
+No Smoking,No Smoking,236.246,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985081
+No Smoking,No Smoking,237.254,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985038
+No Smoking,No Smoking,238.26302,4.923996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984993
+No Smoking,No Smoking,239.149,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985627
+No Smoking,No Smoking,240.163,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985641
+No Smoking,No Smoking,241.17,5.0410004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986256
+No Smoking,No Smoking,242.17801,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985764
+No Smoking,No Smoking,243.187,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99855417
+No Smoking,No Smoking,244.194,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99849284
+No Smoking,No Smoking,245.202,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984736
+No Smoking,No Smoking,246.211,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998478
+No Smoking,No Smoking,247.22299,5.0399933,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984767
+No Smoking,No Smoking,248.232,5.0429993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99848664
+No Smoking,No Smoking,249.239,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99848664
+No Smoking,No Smoking,250.247,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984907
+No Smoking,No Smoking,251.256,5.0430145,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99855036
+No Smoking,No Smoking,252.263,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99856174
+No Smoking,No Smoking,253.275,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99856234
+No Smoking,No Smoking,254.283,5.0460052,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99856555
+No Smoking,No Smoking,255.29102,5.044998,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985537
+No Smoking,No Smoking,256.299,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985537
+No Smoking,No Smoking,257.307,5.04599,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985537
+No Smoking,No Smoking,258.315,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985537
+No Smoking,No Smoking,259.329,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985537
+No Smoking,No Smoking,260.336,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985537
+No Smoking,No Smoking,261.344,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985537
+No Smoking,No Smoking,262.353,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985537
+No Smoking,No Smoking,263.36,5.0470276,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985537
+No Smoking,No Smoking,264.368,5.046997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99855787
+No Smoking,No Smoking,265.381,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99861723
+No Smoking,No Smoking,266.389,4.925995,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985582
+No Smoking,No Smoking,267.398,4.924988,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99849474
+No Smoking,No Smoking,268.407,4.9239807,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99845344
+No Smoking,No Smoking,269.415,4.924988,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99836767
+No Smoking,No Smoking,270.423,4.9239807,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983593
+No Smoking,No Smoking,271.315,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99833757
+No Smoking,No Smoking,272.323,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99833757
+No Smoking,No Smoking,273.331,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99833757
+No Smoking,No Smoking,274.34,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983436
+No Smoking,No Smoking,275.347,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99841124
+No Smoking,No Smoking,276.355,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984207
+No Smoking,No Smoking,277.368,5.040985,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984319
+No Smoking,No Smoking,278.376,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984964
+No Smoking,No Smoking,279.385,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984988
+No Smoking,No Smoking,280.392,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99855787
+No Smoking,No Smoking,281.4,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99850786
+No Smoking,No Smoking,282.409,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984914
+No Smoking,No Smoking,283.416,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984876
+No Smoking,No Smoking,284.43,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99847454
+No Smoking,No Smoking,285.437,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99848664
+No Smoking,No Smoking,286.445,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984957
+No Smoking,No Smoking,287.454,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998505
+No Smoking,No Smoking,288.461,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985197
+No Smoking,No Smoking,289.469,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985185
+No Smoking,No Smoking,290.482,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985771
+No Smoking,No Smoking,291.49,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985826
+No Smoking,No Smoking,292.499,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99859214
+No Smoking,No Smoking,293.506,5.04599,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99864477
+No Smoking,No Smoking,294.514,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99864656
+No Smoking,No Smoking,295.522,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986505
+No Smoking,No Smoking,296.535,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986467
+No Smoking,No Smoking,297.543,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986381
+No Smoking,No Smoking,298.552,4.923004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986432
+No Smoking,No Smoking,299.559,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986998
+No Smoking,No Smoking,300.567,4.9250183,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987125
+No Smoking,No Smoking,301.575,4.9239807,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987127
+No Smoking,No Smoking,302.467,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99871093
+No Smoking,No Smoking,303.475,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987006
+No Smoking,No Smoking,304.483,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986967
+No Smoking,No Smoking,305.492,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986401
+No Smoking,No Smoking,306.499,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986295
+No Smoking,No Smoking,307.507,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986256
+No Smoking,No Smoking,308.52,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986295
+No Smoking,No Smoking,309.528,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986381
+No Smoking,No Smoking,310.537,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986381
+No Smoking,No Smoking,311.544,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986381
+No Smoking,No Smoking,312.552,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986381
+No Smoking,No Smoking,313.56,5.04599,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986432
+No Smoking,No Smoking,314.573,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986998
+No Smoking,No Smoking,315.581,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987125
+No Smoking,No Smoking,316.589,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987127
+No Smoking,No Smoking,317.597,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99869835
+No Smoking,No Smoking,318.606,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99868333
+No Smoking,No Smoking,319.613,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99867153
+No Smoking,No Smoking,320.621,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986733
+No Smoking,No Smoking,321.634,5.040985,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99867487
+No Smoking,No Smoking,322.642,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99868
+No Smoking,No Smoking,323.651,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99867415
+No Smoking,No Smoking,324.658,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99862057
+No Smoking,No Smoking,325.666,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99861246
+No Smoking,No Smoking,326.675,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986086
+No Smoking,No Smoking,327.687,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99860847
+No Smoking,No Smoking,328.696,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998619
+No Smoking,No Smoking,329.703,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998619
+No Smoking,No Smoking,330.711,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998619
+No Smoking,No Smoking,331.72,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998619
+No Smoking,No Smoking,332.727,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986246
+No Smoking,No Smoking,333.619,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99867725
+No Smoking,No Smoking,334.627,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986862
+No Smoking,No Smoking,335.635,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986894
+No Smoking,No Smoking,336.644,5.043976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99868846
+No Smoking,No Smoking,337.651,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99868
+No Smoking,No Smoking,338.659,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99868
+No Smoking,No Smoking,339.672,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99868
+No Smoking,No Smoking,340.68,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99868
+No Smoking,No Smoking,341.688,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99868
+No Smoking,No Smoking,342.696,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99868
+No Smoking,No Smoking,343.704,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99868
+No Smoking,No Smoking,344.713,5.043976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99868834
+No Smoking,No Smoking,345.725,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987004
+No Smoking,No Smoking,346.734,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987657
+No Smoking,No Smoking,347.741,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987829
+No Smoking,No Smoking,348.749,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99883443
+No Smoking,No Smoking,349.757,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99884087
+No Smoking,No Smoking,350.765,5.043976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988337
+No Smoking,No Smoking,351.779,5.0379944,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988319
+No Smoking,No Smoking,352.786,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988236
+No Smoking,No Smoking,353.794,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988236
+No Smoking,No Smoking,354.801,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988236
+No Smoking,No Smoking,355.809,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988236
+No Smoking,No Smoking,356.817,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988273
+No Smoking,No Smoking,357.825,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99887764
+No Smoking,No Smoking,358.839,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988886
+No Smoking,No Smoking,359.846,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988774
+No Smoking,No Smoking,360.854,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988667
+No Smoking,No Smoking,361.863,4.923004,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988503
+No Smoking,No Smoking,362.86996,4.9250183,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988972
+No Smoking,No Smoking,363.878,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998908
+No Smoking,No Smoking,364.89096,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989132
+No Smoking,No Smoking,365.778,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989567
+No Smoking,No Smoking,366.786,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99896383
+No Smoking,No Smoking,367.795,5.043976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99900645
+No Smoking,No Smoking,368.802,5.04599,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99901396
+No Smoking,No Smoking,369.81,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99900717
+No Smoking,No Smoking,370.823,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990055
+No Smoking,No Smoking,371.831,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,372.839,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,373.848,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,374.855,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,375.86304,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,376.876,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,377.88403,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,378.892,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,379.9,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,380.908,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,381.91595,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,382.929,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,383.937,5.043976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,384.94498,5.0429993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,385.95303,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999
+No Smoking,No Smoking,386.961,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989988
+No Smoking,No Smoking,387.969,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989557
+No Smoking,No Smoking,388.98096,5.034027,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99894255
+No Smoking,No Smoking,389.988,5.0329895,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988972
+No Smoking,No Smoking,390.99503,5.052002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988879
+No Smoking,No Smoking,392.001,5.0529785,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988948
+No Smoking,No Smoking,393.00797,5.053009,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988965
+No Smoking,No Smoking,394.015,4.9329834,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,395.021,4.9339905,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,396.047,4.9150085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,397.05402,4.9200134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,398.061,4.92099,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,398.948,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,399.955,5.0429993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,400.962,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,401.97397,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,402.982,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,403.99,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,404.998,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,406.007,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989026
+No Smoking,No Smoking,407.014,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99890786
+No Smoking,No Smoking,408.02603,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989612
+No Smoking,No Smoking,409.034,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989884
+No Smoking,No Smoking,410.042,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990292
+No Smoking,No Smoking,411.051,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99904364
+No Smoking,No Smoking,412.058,5.04599,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990958
+No Smoking,No Smoking,413.06598,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99910295
+No Smoking,No Smoking,414.079,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999105
+No Smoking,No Smoking,415.08698,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991398
+No Smoking,No Smoking,416.095,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991416
+No Smoking,No Smoking,417.10397,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99914217
+No Smoking,No Smoking,418.111,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991406
+No Smoking,No Smoking,419.11896,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999136
+No Smoking,No Smoking,420.132,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99913526
+No Smoking,No Smoking,421.14,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99920315
+No Smoking,No Smoking,422.149,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99916214
+No Smoking,No Smoking,423.15604,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991482
+No Smoking,No Smoking,424.164,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991039
+No Smoking,No Smoking,425.17297,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99908924
+No Smoking,No Smoking,426.185,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999094
+No Smoking,No Smoking,427.193,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909544
+No Smoking,No Smoking,428.201,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99910045
+No Smoking,No Smoking,429.209,4.9239807,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99910045
+No Smoking,No Smoking,430.217,4.9239807,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991021
+No Smoking,No Smoking,431.22504,4.924988,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991393
+No Smoking,No Smoking,432.233,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990666
+No Smoking,No Smoking,433.125,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99907744
+No Smoking,No Smoking,434.13297,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999084
+No Smoking,No Smoking,435.141,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990876
+No Smoking,No Smoking,436.14996,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,437.157,5.04599,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,438.165,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,439.178,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,440.186,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,441.194,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,442.203,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,443.21,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,444.218,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,445.231,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,446.239,5.043976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,447.24802,5.0429993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,448.255,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909675
+No Smoking,No Smoking,449.262,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99909854
+No Smoking,No Smoking,450.27,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999135
+No Smoking,No Smoking,451.283,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991416
+No Smoking,No Smoking,452.291,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99914217
+No Smoking,No Smoking,453.3,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991406
+No Smoking,No Smoking,454.307,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99913764
+No Smoking,No Smoking,455.31503,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99916965
+No Smoking,No Smoking,456.324,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99914217
+No Smoking,No Smoking,457.33597,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991362
+No Smoking,No Smoking,458.344,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99913454
+No Smoking,No Smoking,459.352,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991312
+No Smoking,No Smoking,460.36,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999136
+No Smoking,No Smoking,461.369,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999136
+No Smoking,No Smoking,462.376,4.9239807,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999136
+No Smoking,No Smoking,463.39005,4.9179993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999136
+No Smoking,No Smoking,464.397,4.919983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999136
+No Smoking,No Smoking,465.40503,4.9400024,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999136
+No Smoking,No Smoking,466.414,4.9389954,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999136
+No Smoking,No Smoking,467.3,5.0620117,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999136
+No Smoking,No Smoking,468.30804,5.060974,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999136
+No Smoking,No Smoking,469.31702,5.060028,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99913764
+No Smoking,No Smoking,470.345,5.040985,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99916965
+No Smoking,No Smoking,471.353,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99914217
+No Smoking,No Smoking,472.362,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9991344
+No Smoking,No Smoking,473.36902,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990921
+No Smoking,No Smoking,474.37704,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990372
+No Smoking,No Smoking,475.38602,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99901503
+No Smoking,No Smoking,476.39804,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989299
+No Smoking,No Smoking,477.407,5.0429993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989075
+No Smoking,No Smoking,478.414,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99884313
+No Smoking,No Smoking,479.422,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988299
+No Smoking,No Smoking,480.431,5.0429993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987869
+No Smoking,No Smoking,481.438,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987805
+No Smoking,No Smoking,482.45,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99878407
+No Smoking,No Smoking,483.45898,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987879
+No Smoking,No Smoking,484.466,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987886
+No Smoking,No Smoking,485.47397,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99874145
+No Smoking,No Smoking,486.483,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99873096
+No Smoking,No Smoking,487.49,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99872786
+No Smoking,No Smoking,488.504,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987318
+No Smoking,No Smoking,489.511,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99873775
+No Smoking,No Smoking,490.519,4.9239807,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99873775
+No Smoking,No Smoking,491.52798,4.9239807,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99874204
+No Smoking,No Smoking,492.535,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99878883
+No Smoking,No Smoking,493.54297,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99880403
+No Smoking,No Smoking,494.435,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988543
+No Smoking,No Smoking,495.443,5.0400085,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988638
+No Smoking,No Smoking,496.452,5.037018,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988626
+No Smoking,No Smoking,497.459,5.038971,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99891657
+No Smoking,No Smoking,498.46698,5.0379944,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99894005
+No Smoking,No Smoking,499.476,5.03598,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989841
+No Smoking,No Smoking,500.483,5.0379944,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99899745
+No Smoking,No Smoking,501.489,5.040985,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990116
+No Smoking,No Smoking,502.498,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990116
+No Smoking,No Smoking,503.50497,5.04599,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990116
+No Smoking,No Smoking,504.512,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990098
+No Smoking,No Smoking,505.521,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989667
+No Smoking,No Smoking,506.53003,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99895716
+No Smoking,No Smoking,507.542,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99895763
+No Smoking,No Smoking,508.55103,5.043976,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99895644
+No Smoking,No Smoking,509.558,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99891716
+No Smoking,No Smoking,510.566,5.0450134,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99890643
+No Smoking,No Smoking,511.57397,5.04599,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989069
+No Smoking,No Smoking,512.582,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989086
+No Smoking,No Smoking,513.595,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99891466
+No Smoking,No Smoking,514.603,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99891466
+No Smoking,No Smoking,515.611,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99891466
+No Smoking,No Smoking,516.62,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99891466
+No Smoking,No Smoking,517.627,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99891466
+No Smoking,No Smoking,518.635,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99891466
+No Smoking,No Smoking,519.648,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99891466
+No Smoking,No Smoking,520.656,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989175
+No Smoking,No Smoking,521.664,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99896264
+No Smoking,No Smoking,522.673,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989743
+No Smoking,No Smoking,523.68,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990173
+No Smoking,No Smoking,524.688,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99902385
+No Smoking,No Smoking,525.701,4.919983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99901885
+No Smoking,No Smoking,526.709,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990172
+No Smoking,No Smoking,527.718,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990116
+No Smoking,No Smoking,528.604,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990098
+No Smoking,No Smoking,529.612,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989667
+No Smoking,No Smoking,530.621,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989543
+No Smoking,No Smoking,531.633,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989093
+No Smoking,No Smoking,532.642,5.037964,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989003
+No Smoking,No Smoking,533.649,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989069
+No Smoking,No Smoking,534.657,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989086
+No Smoking,No Smoking,535.666,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99891466
+No Smoking,No Smoking,536.673,5.04303,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989067
+No Smoking,No Smoking,537.68,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990068
+No Smoking,No Smoking,538.694,5.038025,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99901277
+No Smoking,No Smoking,539.701,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99902076
+No Smoking,No Smoking,540.708,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989741
+No Smoking,No Smoking,541.716,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989398
+No Smoking,No Smoking,542.724,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99887097
+No Smoking,No Smoking,543.732,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988355
+No Smoking,No Smoking,544.745,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987967
+No Smoking,No Smoking,545.753,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99873215
+No Smoking,No Smoking,546.762,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987412
+No Smoking,No Smoking,547.769,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99879503
+No Smoking,No Smoking,548.777,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99876523
+No Smoking,No Smoking,549.786,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99876165
+No Smoking,No Smoking,550.798,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99876654
+No Smoking,No Smoking,551.807,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987213
+No Smoking,No Smoking,552.814,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99875337
+No Smoking,No Smoking,553.822,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987145
+No Smoking,No Smoking,554.83,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987095
+No Smoking,No Smoking,555.839,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99870735
+No Smoking,No Smoking,556.851,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987114
+No Smoking,No Smoking,557.86,4.9230347,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99871343
+No Smoking,No Smoking,558.867,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986608
+No Smoking,No Smoking,559.875,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99864775
+No Smoking,No Smoking,560.884,4.922058,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987029
+No Smoking,No Smoking,561.891,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986832
+No Smoking,No Smoking,562.783,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987224
+No Smoking,No Smoking,563.791,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985808
+No Smoking,No Smoking,564.798,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985703
+No Smoking,No Smoking,565.806,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984775
+No Smoking,No Smoking,566.815,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984686
+No Smoking,No Smoking,567.822,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9985234
+No Smoking,No Smoking,568.835,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986121
+No Smoking,No Smoking,569.844,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99855965
+No Smoking,No Smoking,570.851,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986609
+No Smoking,No Smoking,571.859,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986721
+No Smoking,No Smoking,572.868,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99873906
+No Smoking,No Smoking,573.875,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99878025
+No Smoking,No Smoking,574.889,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99880075
+No Smoking,No Smoking,575.896,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99888647
+No Smoking,No Smoking,576.904,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989403
+No Smoking,No Smoking,577.912,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988532
+No Smoking,No Smoking,578.92,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988051
+No Smoking,No Smoking,579.929,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998849
+No Smoking,No Smoking,580.936,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998796
+No Smoking,No Smoking,581.948,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99883276
+No Smoking,No Smoking,582.956,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99884945
+No Smoking,No Smoking,583.965,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99883157
+No Smoking,No Smoking,584.972,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988051
+No Smoking,No Smoking,585.98,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998772
+No Smoking,No Smoking,586.989,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987113
+No Smoking,No Smoking,588.0,5.034973,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99862725
+No Smoking,No Smoking,589.007,4.9329834,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99855727
+No Smoking,No Smoking,590.014,4.9330444,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99843764
+No Smoking,No Smoking,591.021,4.9329834,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983579
+No Smoking,No Smoking,592.028,4.93396,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982479
+No Smoking,No Smoking,593.035,4.934021,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982658
+No Smoking,No Smoking,593.94,5.0360107,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982404
+No Smoking,No Smoking,594.947,5.0409546,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982539
+No Smoking,No Smoking,595.954,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982664
+No Smoking,No Smoking,596.962,5.042053,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99818534
+No Smoking,No Smoking,597.969,5.04303,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9980761
+No Smoking,No Smoking,598.976,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99810284
+No Smoking,No Smoking,599.988,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982295
+No Smoking,No Smoking,600.996,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983486
+No Smoking,No Smoking,602.004,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99854356
+No Smoking,No Smoking,603.012,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99862117
+No Smoking,No Smoking,604.02,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9987343
+No Smoking,No Smoking,605.028,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9988936
+No Smoking,No Smoking,606.042,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990062
+No Smoking,No Smoking,607.049,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99945605
+No Smoking,No Smoking,608.057,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99957305
+No Smoking,No Smoking,609.066,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9996402
+No Smoking,No Smoking,610.073,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99964917
+No Smoking,No Smoking,611.081,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99960107
+No Smoking,No Smoking,612.094,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9995267
+No Smoking,No Smoking,613.102,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99943554
+No Smoking,No Smoking,614.11,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9993362
+No Smoking,No Smoking,615.118,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9992269
+No Smoking,No Smoking,616.126,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99903363
+No Smoking,No Smoking,617.134,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986103
+No Smoking,No Smoking,618.147,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983379
+No Smoking,No Smoking,619.155,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99786794
+No Smoking,No Smoking,620.163,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99741477
+No Smoking,No Smoking,621.172,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9975313
+No Smoking,No Smoking,622.179,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9979062
+No Smoking,No Smoking,623.187,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99790215
+No Smoking,No Smoking,624.2,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9978722
+No Smoking,No Smoking,625.208,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99749327
+No Smoking,No Smoking,626.095,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9958082
+No Smoking,No Smoking,627.103,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99137133
+No Smoking,No Smoking,628.111,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9861266
+No Smoking,No Smoking,629.119,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.97891784
+No Smoking,No Smoking,630.132,5.0409546,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9746527
+No Smoking,No Smoking,631.14,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9731177
+No Smoking,No Smoking,632.149,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9712167
+No Smoking,No Smoking,633.156,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.96995556
+No Smoking,No Smoking,634.164,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.96946925
+No Smoking,No Smoking,635.173,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.96885806
+No Smoking,No Smoking,636.185,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9681612
+No Smoking,No Smoking,637.194,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9677768
+No Smoking,No Smoking,638.201,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9674201
+No Smoking,No Smoking,639.209,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.967235
+No Smoking,No Smoking,640.218,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.96705204
+No Smoking,No Smoking,641.225,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9667317
+No Smoking,No Smoking,642.239,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9677191
+No Smoking,No Smoking,643.246,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9704422
+No Smoking,No Smoking,644.254,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9739389
+No Smoking,No Smoking,645.262,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9780077
+No Smoking,No Smoking,646.27,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98058975
+No Smoking,No Smoking,647.278,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9831486
+No Smoking,No Smoking,648.292,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98484623
+No Smoking,No Smoking,649.299,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9865747
+No Smoking,No Smoking,650.307,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98787576
+No Smoking,No Smoking,651.316,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9892296
+No Smoking,No Smoking,652.323,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99027544
+No Smoking,No Smoking,653.331,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9912847
+No Smoking,No Smoking,654.344,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9921669
+No Smoking,No Smoking,655.352,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9911046
+No Smoking,No Smoking,656.361,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98786706
+No Smoking,No Smoking,657.368,4.925049,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9854594
+No Smoking,No Smoking,658.376,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9821233
+No Smoking,No Smoking,659.263,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98405784
+No Smoking,No Smoking,660.276,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98825556
+No Smoking,No Smoking,661.284,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99029857
+No Smoking,No Smoking,662.293,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99242264
+No Smoking,No Smoking,663.3,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9931595
+No Smoking,No Smoking,664.308,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9937434
+No Smoking,No Smoking,665.317,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.994112
+No Smoking,No Smoking,666.329,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9943603
+No Smoking,No Smoking,667.338,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99466383
+No Smoking,No Smoking,668.345,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9946999
+No Smoking,No Smoking,669.353,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99427336
+No Smoking,No Smoking,670.361,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99354583
+No Smoking,No Smoking,671.369,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9932492
+No Smoking,No Smoking,672.383,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9922083
+No Smoking,No Smoking,673.39,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99160033
+No Smoking,No Smoking,674.398,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99100035
+No Smoking,No Smoking,675.406,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99036455
+No Smoking,No Smoking,676.415,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98937804
+No Smoking,No Smoking,677.422,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98804
+No Smoking,No Smoking,678.435,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9867628
+No Smoking,No Smoking,679.444,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98281187
+No Smoking,No Smoking,680.451,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.97753793
+No Smoking,No Smoking,681.459,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.97074914
+No Smoking,No Smoking,682.468,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9612822
+No Smoking,No Smoking,683.475,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95110923
+No Smoking,No Smoking,684.489,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.94328165
+No Smoking,No Smoking,685.496,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9335617
+No Smoking,No Smoking,686.504,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.92415947
+No Smoking,No Smoking,687.512,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9108408
+No Smoking,No Smoking,688.52,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8990501
+No Smoking,No Smoking,689.533,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9008842
+No Smoking,No Smoking,690.42,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9140988
+No Smoking,No Smoking,691.428,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.93109906
+No Smoking,No Smoking,692.436,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9427663
+No Smoking,No Smoking,693.444,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9481584
+No Smoking,No Smoking,694.452,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.94874144
+No Smoking,No Smoking,695.466,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9500266
+No Smoking,No Smoking,696.473,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9505654
+No Smoking,No Smoking,697.481,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9514269
+No Smoking,No Smoking,698.489,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9458262
+No Smoking,No Smoking,699.497,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.93668705
+No Smoking,No Smoking,700.505,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.93079585
+No Smoking,No Smoking,701.518,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9158966
+No Smoking,No Smoking,702.526,5.534973,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.90872204
+No Smoking,No Smoking,703.534,5.2630005,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8925716
+No Smoking,No Smoking,704.542,5.020996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8663129
+No Smoking,No Smoking,705.55,5.020996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.83951956
+No Smoking,No Smoking,706.558,5.020996,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8154756
+No Smoking,No Smoking,708.061,4.526001,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.778858
+No Smoking,No Smoking,708.797,4.8029785,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78767097
+No Smoking,,709.563,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8395966
+No Smoking,,710.571,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.86836356
+No Smoking,,711.579,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.89059323
+No Smoking,,712.587,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8949084
+No Smoking,Smoking,713.6,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8927364
+No Smoking,Smoking,714.608,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8826423
+No Smoking,Smoking,715.617,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8787157
+No Smoking,Smoking,716.624,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.87179345
+No Smoking,Smoking,717.632,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8733247
+No Smoking,Smoking,718.641,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8708475
+No Smoking,Smoking,719.653,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8642796
+No Smoking,Smoking,720.662,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8621857
+No Smoking,Smoking,721.669,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8578327
+No Smoking,Smoking,722.67706,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.84076035
+No Smoking,Smoking,723.68604,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.82298815
+No Smoking,Smoking,724.693,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.81173295
+No Smoking,Smoking,725.707,4.91803,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.79576886
+No Smoking,Smoking,726.714,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.79322296
+No Smoking,Smoking,727.722,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7815301
+No Smoking,Smoking,728.7311,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.754868
+No Smoking,Smoking,729.617,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.74595934
+No Smoking,Smoking,730.62494,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.72431946
+No Smoking,Smoking,731.638,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7135165
+No Smoking,Smoking,732.646,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7256155
+No Smoking,Smoking,733.6551,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7352572
+No Smoking,Smoking,734.662,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7540404
+No Smoking,Smoking,735.67,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.770651
+No Smoking,Smoking,736.67896,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.64875114
+Smoking,Smoking,737.691,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9065752
+Smoking,Smoking,738.7,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.97978216
+Smoking,Smoking,739.70807,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9951091
+Smoking,Smoking,740.716,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9983199
+Smoking,Smoking,741.724,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9981286
+Smoking,Smoking,742.73193,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9978663
+Smoking,Smoking,743.745,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9970674
+Smoking,Smoking,744.753,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9973785
+Smoking,Smoking,745.76105,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99817854
+Smoking,Smoking,746.769,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9972574
+Smoking,Smoking,747.777,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9981709
+Smoking,Smoking,748.7849,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99783283
+Smoking,Smoking,749.798,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9971467
+Smoking,Smoking,750.8061,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99688953
+Smoking,Smoking,751.81506,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99558556
+Smoking,Smoking,752.822,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9949832
+Smoking,Smoking,753.82996,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99470407
+Smoking,Smoking,754.8389,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99527365
+Smoking,Smoking,755.851,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9958096
+Smoking,Smoking,756.8591,4.921997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9958148
+Smoking,Smoking,757.8679,4.9210205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9961443
+Smoking,Smoking,758.875,4.921997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9960542
+Smoking,Smoking,759.883,4.921997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99646926
+Smoking,Smoking,760.8901,4.921997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99626106
+Smoking,Smoking,761.781,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9962593
+Smoking,Smoking,762.789,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99577093
+Smoking,Smoking,763.797,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99553764
+Smoking,Smoking,764.805,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99484223
+Smoking,Smoking,765.812,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9944093
+Smoking,Smoking,766.82,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9941619
+Smoking,Smoking,767.833,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9945635
+Smoking,Smoking,768.842,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99460405
+Smoking,Smoking,769.849,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9952549
+Smoking,Smoking,770.85706,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9950482
+Smoking,Smoking,771.866,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99465704
+Smoking,Smoking,772.873,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9934165
+Smoking,Smoking,773.887,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98989713
+Smoking,Smoking,774.894,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98841244
+Smoking,Smoking,775.902,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9865371
+Smoking,Smoking,776.9111,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98503965
+Smoking,Smoking,777.918,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9879488
+Smoking,Smoking,778.92596,5.0409546,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98924726
+Smoking,Smoking,779.93494,5.038025,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9895891
+Smoking,Smoking,780.946,5.03302,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9905263
+Smoking,Smoking,781.953,5.052002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9876057
+Smoking,Smoking,782.96,5.052002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9877472
+Smoking,Smoking,783.967,5.052002,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.986405
+Smoking,Smoking,784.973,5.0529785,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9862227
+Smoking,Smoking,785.979,5.054016,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9858793
+Smoking,Smoking,787.005,5.034973,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9846835
+Smoking,Smoking,788.012,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9820821
+Smoking,Smoking,789.019,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9795038
+Smoking,Smoking,790.026,4.9210205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9739809
+Smoking,Smoking,791.03296,4.921997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.973208
+Smoking,Smoking,792.04,4.9230347,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9710398
+Smoking,Smoking,793.05194,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9709293
+Smoking,Smoking,794.06,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.97107136
+Smoking,Smoking,794.947,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9713086
+Smoking,Smoking,795.955,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9734962
+Smoking,Smoking,796.9631,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9765198
+Smoking,Smoking,797.971,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9795378
+Smoking,Smoking,798.984,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.981302
+Smoking,Smoking,799.992,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98284537
+Smoking,Smoking,801.001,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.983174
+Smoking,Smoking,802.008,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9841951
+Smoking,Smoking,803.01605,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9860312
+Smoking,Smoking,804.025,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9855832
+Smoking,Smoking,805.037,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9862135
+Smoking,Smoking,806.04504,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9840936
+Smoking,Smoking,807.054,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9849086
+Smoking,Smoking,808.061,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9847494
+Smoking,Smoking,809.0689,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.984622
+Smoking,Smoking,810.078,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9855614
+Smoking,Smoking,811.09,5.0409546,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9865932
+Smoking,Smoking,812.098,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9880189
+Smoking,Smoking,813.107,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9886543
+Smoking,Smoking,814.11395,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98936164
+Smoking,Smoking,815.122,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98919815
+Smoking,Smoking,816.131,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9895738
+Smoking,Smoking,817.14307,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98979723
+Smoking,Smoking,818.151,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9897993
+Smoking,Smoking,819.16,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9901771
+Smoking,Smoking,820.16693,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9905771
+Smoking,Smoking,821.175,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98968256
+Smoking,Smoking,822.183,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98928535
+Smoking,Smoking,823.19604,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.988101
+Smoking,Smoking,824.204,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9874302
+Smoking,Smoking,825.212,4.9230347,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9869308
+Smoking,Smoking,826.22095,4.921997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9862143
+Smoking,Smoking,827.228,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98718876
+Smoking,Smoking,828.115,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.988144
+Smoking,Smoking,829.128,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98926544
+Smoking,Smoking,830.13495,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9891466
+Smoking,Smoking,831.143,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9902957
+Smoking,Smoking,832.151,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.990261
+Smoking,Smoking,833.159,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99096113
+Smoking,Smoking,834.168,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99115384
+Smoking,Smoking,835.18,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9910346
+Smoking,Smoking,836.18896,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.991812
+Smoking,Smoking,837.196,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99124944
+Smoking,Smoking,838.20404,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9914741
+Smoking,Smoking,839.213,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.991456
+Smoking,Smoking,840.22,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9908944
+Smoking,Smoking,841.228,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9910097
+Smoking,Smoking,842.241,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9908934
+Smoking,Smoking,843.2491,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9906556
+Smoking,Smoking,844.257,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99064523
+Smoking,Smoking,845.265,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9901867
+Smoking,Smoking,846.274,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99014515
+Smoking,Smoking,847.281,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98981446
+Smoking,Smoking,848.295,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98966485
+Smoking,Smoking,849.30206,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98943007
+Smoking,Smoking,850.31,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9889418
+Smoking,Smoking,851.319,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98886913
+Smoking,Smoking,852.3259,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9886998
+Smoking,Smoking,853.334,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9881567
+Smoking,Smoking,854.347,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9880891
+Smoking,Smoking,855.35504,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98778063
+Smoking,Smoking,856.363,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9879162
+Smoking,Smoking,857.372,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9873837
+Smoking,Smoking,858.379,4.924988,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9873589
+Smoking,Smoking,859.387,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98652273
+Smoking,Smoking,860.396,4.921997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9856691
+Smoking,Smoking,861.287,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98420435
+Smoking,Smoking,862.295,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9793021
+Smoking,Smoking,863.30396,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9685548
+Smoking,Smoking,864.311,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.94705266
+Smoking,Smoking,865.318,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.91537637
+Smoking,Smoking,866.326,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8538075
+Smoking,Smoking,867.339,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.80302054
+Smoking,Smoking,868.34796,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.73606014
+Smoking,Smoking,869.355,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6803624
+Smoking,Smoking,870.36304,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.67840624
+Smoking,Smoking,871.371,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6762929
+Smoking,Smoking,872.3791,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6871623
+Smoking,Smoking,873.39197,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.68553895
+Smoking,Smoking,874.4,5.0409546,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6981386
+Smoking,Smoking,875.4081,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7186264
+Smoking,Smoking,876.41705,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7473962
+Smoking,Smoking,877.424,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7737673
+Smoking,Smoking,878.43195,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.82066166
+Smoking,Smoking,879.4409,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.860092
+Smoking,Smoking,880.453,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8924494
+Smoking,Smoking,881.462,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8970272
+Smoking,Smoking,882.469,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.90201926
+Smoking,Smoking,883.477,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9181625
+Smoking,Smoking,884.4849,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9148753
+Smoking,Smoking,885.494,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.91650707
+Smoking,Smoking,886.506,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9226504
+Smoking,Smoking,887.5151,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.929533
+Smoking,Smoking,888.522,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9401708
+Smoking,Smoking,889.52997,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.94698787
+Smoking,Smoking,890.538,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95072675
+Smoking,Smoking,891.547,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9510041
+Smoking,Smoking,892.5591,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9515679
+Smoking,Smoking,893.56805,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.955272
+Smoking,Smoking,894.454,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95801854
+Smoking,Smoking,895.4619,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9606874
+Smoking,Smoking,896.47,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9625829
+Smoking,Smoking,897.478,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.96206117
+Smoking,Smoking,898.49207,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9600837
+Smoking,Smoking,899.499,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95201164
+Smoking,Smoking,900.50696,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9383845
+Smoking,Smoking,901.515,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.93021226
+Smoking,Smoking,902.524,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.93506813
+Smoking,Smoking,903.531,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.94013846
+Smoking,Smoking,904.539,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9420845
+Smoking,Smoking,905.552,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9508184
+Smoking,Smoking,906.55994,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9540381
+Smoking,Smoking,907.568,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9583551
+Smoking,Smoking,908.577,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9599836
+Smoking,Smoking,909.584,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9641962
+Smoking,Smoking,910.592,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.96080595
+Smoking,Smoking,911.605,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95675355
+Smoking,Smoking,912.613,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95176584
+Smoking,Smoking,913.622,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.950649
+Smoking,Smoking,914.629,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9539802
+Smoking,Smoking,915.637,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95373017
+Smoking,Smoking,916.646,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9569349
+Smoking,Smoking,917.65796,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95912784
+Smoking,Smoking,918.667,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9592276
+Smoking,Smoking,919.6741,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.96111804
+Smoking,Smoking,920.682,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9596117
+Smoking,Smoking,921.691,4.9230347,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9608436
+Smoking,Smoking,922.69794,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9571025
+Smoking,Smoking,923.712,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9543917
+Smoking,Smoking,924.719,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95463765
+Smoking,Smoking,925.72705,4.924988,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95609444
+Smoking,Smoking,926.614,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95855063
+Smoking,Smoking,927.62195,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9606684
+Smoking,Smoking,928.6309,5.04303,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9620233
+Smoking,Smoking,929.643,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9617247
+Smoking,Smoking,930.652,5.038025,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.96437454
+Smoking,Smoking,931.659,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9655035
+Smoking,Smoking,932.66595,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.96658725
+Smoking,Smoking,933.674,5.0459595,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.96715385
+Smoking,Smoking,934.682,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9689335
+Smoking,Smoking,935.69,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9701384
+Smoking,Smoking,936.703,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9707549
+Smoking,Smoking,937.711,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9684286
+Smoking,Smoking,938.72,5.0740356,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9688419
+Smoking,Smoking,939.727,5.075012,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9667474
+Smoking,Smoking,940.73505,5.075012,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9631442
+Smoking,Smoking,941.744,5.0739746,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.96109676
+Smoking,Smoking,942.756,5.0700073,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9587648
+Smoking,Smoking,943.794,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95746547
+Smoking,Smoking,944.802,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95383567
+Smoking,Smoking,945.81006,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95181996
+Smoking,Smoking,946.818,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9543222
+Smoking,Smoking,947.826,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9563613
+Smoking,Smoking,948.83905,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9575184
+Smoking,Smoking,949.847,4.9190063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9569493
+Smoking,Smoking,950.7341,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9572212
+Smoking,Smoking,951.742,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95681036
+Smoking,Smoking,952.75,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9563109
+Smoking,Smoking,953.75793,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9535021
+Smoking,Smoking,954.766,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.95099676
+Smoking,Smoking,955.78,5.0389404,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.94153506
+Smoking,Smoking,956.78705,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9296778
+Smoking,Smoking,957.795,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.90440935
+Smoking,Smoking,958.804,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8795574
+Smoking,Smoking,959.811,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.86437106
+Smoking,Smoking,960.819,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8681304
+Smoking,Smoking,961.832,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8582807
+Smoking,Smoking,962.84,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8588459
+Smoking,Smoking,963.849,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8582973
+Smoking,Smoking,964.85596,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.85286176
+Smoking,Smoking,965.864,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8316331
+Smoking,Smoking,966.873,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.81519175
+Smoking,Smoking,967.88495,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7943013
+Smoking,Smoking,968.8939,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7618176
+Smoking,Smoking,969.901,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7205827
+Smoking,Smoking,970.909,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6812558
+Smoking,Smoking,971.917,5.046997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6479361
+Smoking,Smoking,972.92505,5.046997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.61286855
+Smoking,Smoking,973.934,5.046997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.56970704
+Smoking,Smoking,974.946,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.52521247
+No Smoking,Smoking,975.955,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.51526064
+No Smoking,Smoking,976.964,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5539368
+No Smoking,Smoking,977.972,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.55102503
+No Smoking,Smoking,978.981,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.58280784
+No Smoking,Smoking,979.98804,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.57711
+No Smoking,Smoking,980.999,5.034973,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5812499
+No Smoking,Smoking,982.006,4.9330444,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5868928
+No Smoking,Smoking,983.01294,4.9329834,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.61225224
+No Smoking,Smoking,984.021,4.932007,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6688759
+No Smoking,Smoking,985.027,4.9330444,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7041707
+No Smoking,Smoking,986.03406,4.9329834,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7255177
+No Smoking,Smoking,986.93896,5.0359497,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7373767
+No Smoking,Smoking,987.946,5.0360107,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7313003
+No Smoking,Smoking,988.953,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7443693
+No Smoking,Smoking,989.95996,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7356843
+No Smoking,Smoking,990.967,5.04303,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7214487
+No Smoking,Smoking,991.97504,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.69899684
+No Smoking,Smoking,992.982,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6862374
+No Smoking,Smoking,993.99396,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6828296
+No Smoking,Smoking,995.002,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.66807866
+No Smoking,Smoking,996.0101,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6528133
+No Smoking,Smoking,997.01904,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6564172
+No Smoking,Smoking,998.026,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6393749
+No Smoking,Smoking,999.03394,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.642316
+No Smoking,Smoking,1000.047,5.0390015,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6574199
+No Smoking,Smoking,1001.055,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.66615677
+No Smoking,Smoking,1002.06305,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6646783
+No Smoking,Smoking,1003.072,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.64265835
+No Smoking,Smoking,1004.079,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6667469
+No Smoking,Smoking,1005.086,5.0440063,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.65426475
+No Smoking,Smoking,1006.099,5.038025,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.66048664
+No Smoking,Smoking,1007.10693,5.04303,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6699258
+No Smoking,Smoking,1008.116,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.67867774
+No Smoking,Smoking,1009.123,5.04303,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.69863856
+No Smoking,Smoking,1010.13,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.67936003
+No Smoking,Smoking,1011.137,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6806506
+No Smoking,Smoking,1012.15,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.66222775
+No Smoking,Smoking,1013.158,5.0409546,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.63400567
+No Smoking,Smoking,1014.166,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.66560394
+No Smoking,Smoking,1015.175,4.9230347,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.62736994
+No Smoking,Smoking,1016.18207,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.64849746
+No Smoking,Smoking,1017.19,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.62155885
+No Smoking,Smoking,1018.199,4.924011,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.61360496
+No Smoking,Smoking,1019.09,5.039978,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5618454
+No Smoking,Smoking,1020.098,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5230022
+Smoking,Smoking,1021.1061,5.044983,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.51048917
+Smoking,Smoking,1022.114,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.57154137
+Smoking,Smoking,1023.123,5.04303,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.59712505
+Smoking,Smoking,1024.13,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.62475383
+Smoking,Smoking,1025.144,5.037964,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6459449
+Smoking,Smoking,1026.151,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.65104014
+Smoking,Smoking,1027.158,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6743751
+Smoking,Smoking,1028.166,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.70634496
+Smoking,Smoking,1029.175,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7231569
+Smoking,Smoking,1030.182,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.73560655
+Smoking,Smoking,1031.194,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7549232
+Smoking,Smoking,1032.202,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.766815
+Smoking,Smoking,1033.21,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7613564
+Smoking,Smoking,1034.218,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.74807733
+Smoking,Smoking,1035.227,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7561365
+Smoking,Smoking,1036.234,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7327193
+Smoking,Smoking,1037.248,5.037964,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7249477
+Smoking,Smoking,1038.255,5.0389404,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6973306
+Smoking,Smoking,1039.263,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6532415
+Smoking,Smoking,1040.271,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.61778784
+Smoking,Smoking,1041.278,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.58981615
+Smoking,Smoking,1042.286,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.54749894
+Smoking,Smoking,1043.294,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.52666205
+Smoking,Smoking,1044.308,5.037964,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5362386
+Smoking,Smoking,1045.315,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.56121826
+Smoking,Smoking,1046.323,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5788531
+Smoking,Smoking,1047.332,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6095728
+Smoking,Smoking,1048.339,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6473435
+Smoking,Smoking,1049.346,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.65998656
+Smoking,Smoking,1050.359,5.0389404,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6934825
+Smoking,Smoking,1051.367,4.9230957,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7199291
+Smoking,Smoking,1052.375,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7169983
+Smoking,Smoking,1053.383,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.74310184
+Smoking,Smoking,1054.39,4.9249268,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7438457
+Smoking,Smoking,1055.398,4.9240723,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.74933815
+Smoking,Smoking,1056.29,5.039917,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76196504
+Smoking,Smoking,1057.298,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.75037783
+Smoking,Smoking,1058.306,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76342547
+Smoking,Smoking,1059.315,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76191163
+Smoking,Smoking,1060.322,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.77107465
+Smoking,Smoking,1061.33,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78503525
+Smoking,Smoking,1062.343,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7896415
+Smoking,Smoking,1063.351,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.80168325
+Smoking,Smoking,1064.36,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.80111843
+Smoking,Smoking,1065.367,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.80752176
+Smoking,Smoking,1066.375,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8096617
+Smoking,Smoking,1067.384,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8061007
+Smoking,Smoking,1068.396,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8041529
+Smoking,Smoking,1069.404,5.0408936,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8135483
+Smoking,Smoking,1070.412,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.80580133
+Smoking,Smoking,1071.421,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.81376225
+Smoking,Smoking,1072.428,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8170912
+Smoking,Smoking,1073.436,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.817796
+Smoking,Smoking,1074.445,5.043091,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.81972814
+Smoking,Smoking,1075.457,5.039917,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.820231
+Smoking,Smoking,1076.465,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8199973
+Smoking,Smoking,1077.473,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.81800824
+Smoking,Smoking,1078.48,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.83133847
+Smoking,Smoking,1079.488,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.83520734
+Smoking,Smoking,1080.497,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8434881
+Smoking,Smoking,1081.509,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.85140014
+Smoking,Smoking,1082.517,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8502236
+Smoking,Smoking,1083.526,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8370661
+Smoking,Smoking,1084.533,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.82794774
+Smoking,Smoking,1085.541,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.81350994
+Smoking,Smoking,1086.55,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7860976
+Smoking,Smoking,1087.562,4.9189453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.75468284
+Smoking,Smoking,1088.571,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.74463797
+Smoking,Smoking,1089.578,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.71970975
+Smoking,Smoking,1090.465,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.680744
+Smoking,Smoking,1091.474,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6088208
+Smoking,Smoking,1092.481,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.53587055
+No Smoking,Smoking,1093.495,5.0390625,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.56868786
+No Smoking,Smoking,1094.502,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6391687
+No Smoking,Smoking,1095.51,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6719122
+No Smoking,Smoking,1096.519,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.70982677
+No Smoking,Smoking,1097.526,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7445049
+No Smoking,Smoking,1098.534,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76948017
+No Smoking,Smoking,1099.547,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7874161
+No Smoking,Smoking,1100.555,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.80169
+No Smoking,Smoking,1101.564,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8098175
+No Smoking,Smoking,1102.571,5.0458984,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8124377
+No Smoking,Smoking,1103.579,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.81264275
+No Smoking,Smoking,1104.587,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.80785567
+No Smoking,Smoking,1105.6,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.80089885
+No Smoking,Smoking,1106.608,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.808079
+No Smoking,Smoking,1107.617,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.80939186
+No Smoking,Smoking,1108.624,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8111325
+No Smoking,Smoking,1109.632,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.811753
+No Smoking,Smoking,1110.641,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8038004
+No Smoking,Smoking,1111.653,5.0390625,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7947954
+No Smoking,Smoking,1112.662,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7703536
+No Smoking,Smoking,1113.669,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.74866384
+No Smoking,Smoking,1114.676,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7275895
+No Smoking,Smoking,1115.684,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7140066
+No Smoking,Smoking,1116.692,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7120169
+No Smoking,Smoking,1117.705,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.72913975
+No Smoking,Smoking,1118.713,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.75277
+No Smoking,Smoking,1119.722,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7673497
+No Smoking,Smoking,1120.729,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7797397
+No Smoking,Smoking,1121.737,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78859335
+No Smoking,Smoking,1122.746,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.787615
+No Smoking,Smoking,1123.637,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78378016
+No Smoking,Smoking,1124.645,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7653414
+No Smoking,Smoking,1125.653,5.038086,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76369864
+No Smoking,Smoking,1126.661,5.037964,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7424986
+No Smoking,Smoking,1127.669,5.0390625,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.73244995
+No Smoking,Smoking,1128.677,5.037964,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.71589315
+No Smoking,Smoking,1129.685,5.037964,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7070594
+No Smoking,Smoking,1130.691,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.69697094
+No Smoking,Smoking,1131.699,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6715604
+No Smoking,Smoking,1132.708,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6668953
+No Smoking,Smoking,1133.715,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6305216
+No Smoking,Smoking,1134.723,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6121449
+No Smoking,Smoking,1135.732,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5739257
+No Smoking,Smoking,1136.744,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.56871575
+No Smoking,Smoking,1137.753,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.53145504
+No Smoking,Smoking,1138.76,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.50661415
+Smoking,Smoking,1139.768,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5013587
+Smoking,Smoking,1140.777,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5392485
+Smoking,Smoking,1141.784,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5464177
+Smoking,Smoking,1142.798,5.038086,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5683096
+Smoking,Smoking,1143.805,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6151585
+Smoking,Smoking,1144.812,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6110646
+Smoking,Smoking,1145.82,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.62969023
+Smoking,Smoking,1146.828,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6175763
+Smoking,Smoking,1147.836,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6337931
+Smoking,Smoking,1148.849,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.65721166
+Smoking,Smoking,1149.857,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.65030295
+Smoking,Smoking,1150.866,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6719317
+Smoking,Smoking,1151.873,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6842929
+Smoking,Smoking,1152.881,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6829395
+Smoking,Smoking,1153.89,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.69179636
+Smoking,Smoking,1154.902,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6861638
+Smoking,Smoking,1155.911,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6843005
+Smoking,Smoking,1156.918,4.9240723,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6790542
+Smoking,Smoking,1157.926,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6760818
+Smoking,Smoking,1158.935,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6760818
+Smoking,Smoking,1159.942,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.67289215
+Smoking,Smoking,1160.834,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.67611444
+Smoking,Smoking,1161.842,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6726706
+Smoking,Smoking,1162.85,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.651992
+Smoking,Smoking,1163.859,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5768952
+No Smoking,Smoking,1164.866,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.49609646
+No Smoking,Smoking,1165.874,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6053488
+No Smoking,Smoking,1166.887,5.0390625,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.67813694
+No Smoking,Smoking,1167.895,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.73981524
+No Smoking,Smoking,1168.904,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.77362484
+No Smoking,Smoking,1169.911,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8099957
+No Smoking,Smoking,1170.918,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.83214194
+No Smoking,Smoking,1171.926,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8549668
+No Smoking,Smoking,1172.939,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.86738247
+No Smoking,Smoking,1173.947,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8727351
+No Smoking,Smoking,1174.956,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.87454206
+No Smoking,Smoking,1175.963,5.05896,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8772082
+No Smoking,Smoking,1176.971,5.057007,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8797026
+No Smoking,Smoking,1177.98,5.0550537,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8837363
+No Smoking,Smoking,1178.991,5.050049,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8916322
+No Smoking,Smoking,1179.998,5.067993,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8939994
+No Smoking,Smoking,1181.022,5.0510254,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9085444
+No Smoking,Smoking,1182.028,5.0531006,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.91487575
+No Smoking,Smoking,1183.035,5.0529785,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.925025
+No Smoking,Smoking,1184.041,4.9329834,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9338799
+No Smoking,Smoking,1185.066,4.914917,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.93948364
+No Smoking,Smoking,1186.073,4.920044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.941143
+No Smoking,Smoking,1187.081,4.919922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.94305927
+No Smoking,Smoking,1188.088,4.921997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.942906
+No Smoking,Smoking,1188.974,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9413433
+No Smoking,Smoking,1189.981,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9394565
+No Smoking,Smoking,1190.993,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9384373
+No Smoking,Smoking,1192.001,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.93439686
+No Smoking,Smoking,1193.01,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.92945534
+No Smoking,Smoking,1194.017,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9229749
+No Smoking,Smoking,1195.025,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9166356
+No Smoking,Smoking,1196.034,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9089463
+No Smoking,Smoking,1197.041,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9034688
+No Smoking,Smoking,1198.055,5.0389404,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8907439
+No Smoking,Smoking,1199.062,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8805996
+No Smoking,Smoking,1200.07,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.86432064
+No Smoking,Smoking,1201.079,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8476849
+No Smoking,Smoking,1202.086,5.0458984,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8288242
+No Smoking,Smoking,1203.094,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8144096
+No Smoking,Smoking,1204.107,5.039917,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8019823
+No Smoking,Smoking,1205.115,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7861963
+No Smoking,Smoking,1206.123,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76710343
+No Smoking,Smoking,1207.132,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.75365347
+No Smoking,Smoking,1208.139,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.73107624
+No Smoking,Smoking,1209.147,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.71962893
+No Smoking,Smoking,1210.16,5.039917,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.71273434
+No Smoking,Smoking,1211.168,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7019121
+No Smoking,Smoking,1212.176,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.65957886
+No Smoking,Smoking,1213.185,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6470902
+No Smoking,Smoking,1214.193,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.63333887
+No Smoking,Smoking,1215.2,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.59756273
+No Smoking,Smoking,1216.213,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5849185
+No Smoking,Smoking,1217.22,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.53608716
+No Smoking,Smoking,1218.228,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.53486866
+No Smoking,Smoking,1219.236,4.9240723,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.52842915
+No Smoking,Smoking,1220.244,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.50862294
+Smoking,Smoking,1221.253,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5007584
+Smoking,Smoking,1222.265,4.9189453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5153165
+Smoking,Smoking,1223.274,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5257991
+Smoking,Smoking,1224.16,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.54567575
+Smoking,Smoking,1225.168,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5647114
+Smoking,Smoking,1226.177,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5591048
+Smoking,Smoking,1227.184,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.58449316
+Smoking,Smoking,1228.198,5.0390625,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5860124
+Smoking,Smoking,1229.205,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5984041
+No Smoking,Smoking,1230.213,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7163008
+Smoking,,1231.221,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.69018906
+No Smoking,,1232.229,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.46063355
+No Smoking,No Smoking,1233.237,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5391074
+Smoking,,1234.25,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.44536617
+Smoking,Smoking,1235.258,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.627355
+Smoking,,1236.267,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.66958904
+Smoking,No Smoking,1237.274,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.70121145
+Smoking,,1238.282,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7371152
+Smoking,,1239.291,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7572492
+Smoking,Smoking,1240.303,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7105388
+Smoking,,1241.311,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6363367
+Smoking,,1242.319,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5532361
+Smoking,,1243.327,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.448684
+No Smoking,,1244.335,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5793561
+No Smoking,No Smoking,1245.343,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.70065236
+No Smoking,No Smoking,1246.357,5.037964,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.79571944
+No Smoking,No Smoking,1247.364,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8261016
+No Smoking,No Smoking,1248.372,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8304664
+No Smoking,No Smoking,1249.381,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8272717
+No Smoking,No Smoking,1250.388,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8228671
+No Smoking,No Smoking,1251.395,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.81763417
+No Smoking,No Smoking,1252.408,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8126852
+No Smoking,No Smoking,1253.416,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.80628014
+No Smoking,No Smoking,1254.425,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.80080855
+No Smoking,No Smoking,1255.432,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7931515
+No Smoking,No Smoking,1256.44,4.9240723,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7827276
+No Smoking,No Smoking,1257.449,4.9240723,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7720328
+No Smoking,No Smoking,1258.34,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7586411
+No Smoking,No Smoking,1259.348,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7490271
+No Smoking,No Smoking,1260.356,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7358991
+No Smoking,No Smoking,1261.364,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7273527
+No Smoking,No Smoking,1262.373,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7119759
+No Smoking,No Smoking,1263.38,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6993477
+No Smoking,No Smoking,1264.393,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6832827
+No Smoking,No Smoking,1265.401,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.66839933
+No Smoking,No Smoking,1266.41,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6520937
+No Smoking,No Smoking,1267.417,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.63810605
+No Smoking,No Smoking,1268.425,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6306251
+No Smoking,No Smoking,1269.434,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.61642575
+No Smoking,No Smoking,1270.446,5.039917,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5997822
+No Smoking,No Smoking,1271.455,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.58404005
+No Smoking,No Smoking,1272.462,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5730759
+No Smoking,No Smoking,1273.47,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5540296
+No Smoking,No Smoking,1274.479,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.53903264
+No Smoking,No Smoking,1275.486,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.52553
+No Smoking,No Smoking,1276.5,5.0389404,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5058694
+No Smoking,No Smoking,1277.507,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.4952885
+Smoking,No Smoking,1278.515,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.49119392
+Smoking,No Smoking,1279.524,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5060717
+Smoking,No Smoking,1280.531,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5455636
+Smoking,No Smoking,1281.539,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5641027
+Smoking,No Smoking,1282.552,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.58752537
+Smoking,No Smoking,1283.56,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6151569
+Smoking,No Smoking,1284.569,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6297284
+Smoking,No Smoking,1285.576,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6521228
+Smoking,No Smoking,1286.584,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6544498
+Smoking,No Smoking,1287.597,4.9189453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.67640555
+Smoking,No Smoking,1288.605,4.9240723,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.66692823
+Smoking,No Smoking,1289.614,4.9229736,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6841614
+Smoking,No Smoking,1290.621,4.925049,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7020032
+Smoking,No Smoking,1291.629,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7109556
+Smoking,No Smoking,1292.516,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.71217984
+Smoking,No Smoking,1293.529,5.0408936,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.722559
+Smoking,No Smoking,1294.537,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7395462
+Smoking,No Smoking,1295.546,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7410667
+Smoking,No Smoking,1296.553,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.74030197
+Smoking,No Smoking,1297.561,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7539089
+Smoking,No Smoking,1298.57,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7615889
+Smoking,No Smoking,1299.582,5.039917,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.772926
+Smoking,No Smoking,1300.591,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76551604
+Smoking,No Smoking,1301.598,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.77467555
+Smoking,No Smoking,1302.606,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7741267
+Smoking,No Smoking,1303.615,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7791593
+Smoking,No Smoking,1304.622,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7890133
+Smoking,No Smoking,1305.636,5.0390625,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7863355
+Smoking,No Smoking,1306.643,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7865279
+Smoking,No Smoking,1307.651,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7869036
+Smoking,No Smoking,1308.66,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78593194
+Smoking,No Smoking,1309.667,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78475785
+Smoking,No Smoking,1310.675,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7737601
+Smoking,No Smoking,1311.688,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7650151
+Smoking,No Smoking,1312.696,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76632774
+Smoking,No Smoking,1313.705,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7688538
+Smoking,No Smoking,1314.712,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.77868307
+Smoking,No Smoking,1315.72,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7813182
+Smoking,No Smoking,1316.729,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.77857566
+Smoking,No Smoking,1317.741,5.0390625,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78242725
+Smoking,No Smoking,1318.749,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78737295
+Smoking,No Smoking,1319.757,4.9230957,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7852038
+Smoking,No Smoking,1320.766,4.921997,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78466094
+Smoking,No Smoking,1321.773,4.9230957,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78266054
+Smoking,No Smoking,1322.78,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7795273
+Smoking,No Smoking,1323.793,4.920044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78484935
+Smoking,No Smoking,1324.68,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.78039646
+Smoking,No Smoking,1325.688,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.77911973
+Smoking,No Smoking,1326.696,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.77261674
+Smoking,No Smoking,1327.704,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76604855
+Smoking,No Smoking,1328.713,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76473904
+Smoking,No Smoking,1329.725,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76062566
+Smoking,No Smoking,1330.734,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.760244
+Smoking,No Smoking,1331.741,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.76394665
+Smoking,No Smoking,1332.749,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7410619
+Smoking,No Smoking,1333.758,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.68804955
+Smoking,No Smoking,1334.765,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.6064193
+No Smoking,No Smoking,1335.777,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.5685472
+No Smoking,No Smoking,1336.785,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.7377301
+No Smoking,No Smoking,1337.793,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8042052
+No Smoking,No Smoking,1338.802,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.86312646
+No Smoking,No Smoking,1339.809,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.8869087
+No Smoking,No Smoking,1340.817,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.88851804
+No Smoking,No Smoking,1341.83,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9316045
+No Smoking,No Smoking,1342.838,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.966538
+No Smoking,No Smoking,1343.846,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98529345
+No Smoking,No Smoking,1344.855,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99208647
+No Smoking,No Smoking,1345.862,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9933074
+No Smoking,No Smoking,1346.87,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99355483
+No Smoking,No Smoking,1347.883,5.0408936,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9929048
+No Smoking,No Smoking,1348.891,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99295115
+No Smoking,No Smoking,1349.9,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9953986
+No Smoking,No Smoking,1350.907,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9964427
+No Smoking,No Smoking,1351.915,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99616677
+No Smoking,No Smoking,1352.924,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.996618
+No Smoking,No Smoking,1353.936,5.039917,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99690294
+No Smoking,No Smoking,1354.945,4.9230957,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9975051
+No Smoking,No Smoking,1355.952,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9982773
+No Smoking,No Smoking,1356.96,4.9240723,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99895597
+No Smoking,No Smoking,1357.969,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99924994
+No Smoking,No Smoking,1358.976,4.9240723,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99942434
+No Smoking,No Smoking,1359.868,5.039917,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99948615
+No Smoking,No Smoking,1360.876,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99938375
+No Smoking,No Smoking,1361.884,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9989779
+No Smoking,No Smoking,1362.893,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984952
+No Smoking,No Smoking,1363.9,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99795735
+No Smoking,No Smoking,1364.908,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9977988
+No Smoking,No Smoking,1365.921,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9979839
+No Smoking,No Smoking,1366.929,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.998237
+No Smoking,No Smoking,1367.937,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99824697
+No Smoking,No Smoking,1368.946,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99819356
+No Smoking,No Smoking,1369.953,5.0410156,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99799854
+No Smoking,No Smoking,1370.961,5.039917,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.997039
+No Smoking,No Smoking,1371.973,5.0339355,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9942951
+No Smoking,No Smoking,1372.98,5.0529785,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9925478
+No Smoking,No Smoking,1373.987,5.0529785,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99031246
+No Smoking,No Smoking,1374.994,5.053955,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98913574
+No Smoking,No Smoking,1376.001,5.054077,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98915505
+No Smoking,No Smoking,1377.007,5.0550537,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.989348
+No Smoking,No Smoking,1378.033,5.0369873,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98961186
+No Smoking,No Smoking,1379.04,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98994213
+No Smoking,No Smoking,1380.048,5.041992,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98985714
+No Smoking,No Smoking,1381.055,5.0429688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.98984134
+No Smoking,No Smoking,1382.062,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9900803
+No Smoking,No Smoking,1383.07,5.0440674,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99035096
+No Smoking,No Smoking,1384.082,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9904569
+No Smoking,No Smoking,1385.09,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99073637
+No Smoking,No Smoking,1386.098,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9908645
+No Smoking,No Smoking,1387.107,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9914763
+No Smoking,No Smoking,1388.114,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9928468
+No Smoking,No Smoking,1389.128,4.9179688,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99366516
+No Smoking,No Smoking,1390.135,4.92395,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99482906
+No Smoking,No Smoking,1391.143,4.9240723,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99514395
+No Smoking,No Smoking,1392.152,4.9240723,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9955697
+No Smoking,No Smoking,1393.038,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9957411
+No Smoking,No Smoking,1394.046,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9960403
+No Smoking,No Smoking,1395.059,5.040039,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9961887
+No Smoking,No Smoking,1396.067,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9962015
+No Smoking,No Smoking,1397.076,5.0439453,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9965664
+No Smoking,No Smoking,1398.083,5.0460205,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9968984
+No Smoking,No Smoking,1399.091,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99733394
+No Smoking,No Smoking,1400.099,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9978196
+No Smoking,No Smoking,1401.112,5.0408936,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9981937
+No Smoking,No Smoking,1402.12,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9984369
+No Smoking,No Smoking,1403.129,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9986758
+No Smoking,No Smoking,1404.136,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99883384
+No Smoking,No Smoking,1405.144,5.044922,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99892384
+No Smoking,No Smoking,1406.153,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.9990148
+No Smoking,No Smoking,1407.165,5.039917,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.999079
+No Smoking,No Smoking,1408.174,5.045044,1,51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18:session_014,0.99914193

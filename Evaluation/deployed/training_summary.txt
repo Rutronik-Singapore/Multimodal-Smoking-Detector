@@ -1,0 +1,271 @@
+Source folder: C:\Users\Lab\Documents\SENSIRION\SEN66\csv_log\new
+Output folder: C:\Users\Lab\Documents\SENSIRION\SEN66\model_updates
+Raw CSV files included: 12
+Excluded generated CSV: merged_log.CSV
+Dropped columns: elapsed_time, buzzer_label, predicted_label
+
+0807_530pm_2lot.CSV: 588 rows, labels={'smoking': 354, 'no smoking': 234}
+0907_10am_3lot.CSV: 4,814 rows, labels={'no smoking': 4333, 'smoking': 481}
+0907_12pm_2lot.CSV: 1,554 rows, labels={'smoking': 869, 'no smoking': 685}
+0907_530pm_tree_3m.CSV: 2,084 rows, labels={'no smoking': 1554, 'smoking': 530}
+1007_10am_tree_2m.CSV: 2,470 rows, labels={'no smoking': 2008, 'smoking': 462}
+1007_3pm_2lot.CSV: 1,628 rows, labels={'no smoking': 1107, 'smoking': 521}
+1007_8am_tree_3m.CSV: 690 rows, labels={'smoking': 513, 'no smoking': 177}
+1307_4pm_1.5m.CSV: 875 rows, labels={'smoking': 469, 'no smoking': 406}
+1407_530pm_1m.CSV: 698 rows, labels={'smoking': 381, 'no smoking': 317}
+1507_1pm_2m_noWarmup.CSV: 659 rows, labels={'smoking': 431, 'no smoking': 228}
+1507_4pm_3m.CSV: 1,106 rows, labels={'no smoking': 628, 'smoking': 478}
+1507_8am_1m.CSV: 652 rows, labels={'smoking': 396, 'no smoking': 256}
+
+Merged CSV: C:\Users\Lab\Documents\SENSIRION\SEN66\model_updates\merged_log.CSV
+Merged shape: 17,818 rows x 10 columns
+Merged columns: uptime_ms, pm1_0, pm2_5, pm4_0, pm10_0, voc_index, nox_index, co2_ppm, label, source_file
+Merged labels:
+label
+no smoking    11933
+smoking        5885
+
+
+=== time_tree.py output ===
+Loaded rows: 17,818
+
+Rows by source file:
+source_file
+0907_10am_3lot.CSV          4814
+1007_10am_tree_2m.CSV       2470
+0907_530pm_tree_3m.CSV      2084
+1007_3pm_2lot.CSV           1628
+0907_12pm_2lot.CSV          1554
+1507_4pm_3m.CSV             1106
+1307_4pm_1.5m.CSV            875
+1407_530pm_1m.CSV            698
+1007_8am_tree_3m.CSV         690
+1507_1pm_2m_noWarmup.CSV     659
+1507_8am_1m.CSV              652
+0807_530pm_2lot.CSV          588
+
+Rows by label:
+label
+no smoking    11933
+smoking        5885
+
+Rows after startup/sentinel cleanup: 17,818
+Feature count: 43
+
+=== File holdout evaluation ===
+
+Holdout: 0807_530pm_2lot.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking              181            53
+true smoking                  21           333
+
+Classification report
+label         precision    recall        f1   support
+no smoking       0.896     0.774     0.830       234
+smoking          0.863     0.941     0.900       354
+
+accuracy: 0.874
+
+Holdout: 0907_10am_3lot.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking             4295            38
+true smoking                  34           447
+
+Classification report
+label         precision    recall        f1   support
+no smoking       0.992     0.991     0.992      4333
+smoking          0.922     0.929     0.925       481
+
+accuracy: 0.985
+
+Holdout: 0907_12pm_2lot.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking              474           211
+true smoking                 291           578
+
+Classification report
+label         precision    recall        f1   support
+no smoking       0.620     0.692     0.654       685
+smoking          0.733     0.665     0.697       869
+
+accuracy: 0.677
+
+Holdout: 0907_530pm_tree_3m.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking             1196           358
+true smoking                  16           514
+
+Classification report
+label         precision    recall        f1   support
+no smoking       0.987     0.770     0.865      1554
+smoking          0.589     0.970     0.733       530
+
+accuracy: 0.821
+
+Holdout: 1007_10am_tree_2m.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking             1830           178
+true smoking                   0           462
+
+Classification report
+label         precision    recall        f1   support
+no smoking       1.000     0.911     0.954      2008
+smoking          0.722     1.000     0.838       462
+
+accuracy: 0.928
+
+Holdout: 1007_3pm_2lot.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking              851           256
+true smoking                  19           502
+
+Classification report
+label         precision    recall        f1   support
+no smoking       0.978     0.769     0.861      1107
+smoking          0.662     0.964     0.785       521
+
+accuracy: 0.831
+
+Holdout: 1007_8am_tree_3m.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking              164            13
+true smoking                 183           330
+
+Classification report
+label         precision    recall        f1   support
+no smoking       0.473     0.927     0.626       177
+smoking          0.962     0.643     0.771       513
+
+accuracy: 0.716
+
+Holdout: 1307_4pm_1.5m.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking              303           103
+true smoking                   0           469
+
+Classification report
+label         precision    recall        f1   support
+no smoking       1.000     0.746     0.855       406
+smoking          0.820     1.000     0.901       469
+
+accuracy: 0.882
+
+Holdout: 1407_530pm_1m.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking              243            74
+true smoking                   0           381
+
+Classification report
+label         precision    recall        f1   support
+no smoking       1.000     0.767     0.868       317
+smoking          0.837     1.000     0.911       381
+
+accuracy: 0.894
+
+Holdout: 1507_1pm_2m_noWarmup.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking               84           144
+true smoking                 118           313
+
+Classification report
+label         precision    recall        f1   support
+no smoking       0.416     0.368     0.391       228
+smoking          0.685     0.726     0.705       431
+
+accuracy: 0.602
+
+Holdout: 1507_4pm_3m.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking              492           136
+true smoking                   0           478
+
+Classification report
+label         precision    recall        f1   support
+no smoking       1.000     0.783     0.879       628
+smoking          0.779     1.000     0.875       478
+
+accuracy: 0.877
+
+Holdout: 1507_8am_1m.CSV
+Confusion matrix, rows=true, columns=predicted
+              pred no smoking  pred smoking
+true no smoking              126           130
+true smoking                  70           326
+
+Classification report
+label         precision    recall        f1   support
+no smoking       0.643     0.492     0.558       256
+smoking          0.715     0.823     0.765       396
+
+accuracy: 0.693
+
+=== Training final tree on all cleaned rows ===
+|--- pm2_5_mean_5 <= 9.095145
+|   |--- co2_ppm_max_30 <= 431.000000
+|   |   |--- co2_ppm_max_30 <= 430.500000
+|   |   |   |--- voc_index_delta_5 <= -0.500000
+|   |   |   |   class: no smoking
+|   |   |   |--- voc_index_delta_5 >  -0.500000
+|   |   |   |   class: no smoking
+|   |   |--- co2_ppm_max_30 >  430.500000
+|   |   |   class: smoking
+|   |--- co2_ppm_max_30 >  431.000000
+|   |   |--- pm1_0 <= 0.050000
+|   |   |   class: no smoking
+|   |   |--- pm1_0 >  0.050000
+|   |   |   class: no smoking
+|--- pm2_5_mean_5 >  9.095145
+|   |--- co2_ppm_max_30 <= 589.000000
+|   |   |--- co2_ppm_delta_30 <= 4.500000
+|   |   |   |--- pm1_0 <= 4.800000
+|   |   |   |   class: no smoking
+|   |   |   |--- pm1_0 >  4.800000
+|   |   |   |   |--- co2_ppm_delta_5 <= 2.500000
+|   |   |   |   |   class: smoking
+|   |   |   |   |--- co2_ppm_delta_5 >  2.500000
+|   |   |   |   |   class: no smoking
+|   |   |--- co2_ppm_delta_30 >  4.500000
+|   |   |   |--- pm10_0_mean_30 <= 14.776407
+|   |   |   |   |--- pm2_5_mean_5 <= 9.770000
+|   |   |   |   |   class: no smoking
+|   |   |   |   |--- pm2_5_mean_5 >  9.770000
+|   |   |   |   |   class: smoking
+|   |   |   |--- pm10_0_mean_30 >  14.776407
+|   |   |   |   class: no smoking
+|   |--- co2_ppm_max_30 >  589.000000
+|   |   |--- pm10_0_mean_30 <= 19.958611
+|   |   |   |--- pm1_0 <= 5.500000
+|   |   |   |   |--- co2_ppm <= 612.000000
+|   |   |   |   |   class: smoking
+|   |   |   |   |--- co2_ppm >  612.000000
+|   |   |   |   |   class: no smoking
+|   |   |   |--- pm1_0 >  5.500000
+|   |   |   |   class: no smoking
+|   |   |--- pm10_0_mean_30 >  19.958611
+|   |   |   |--- pm2_5 <= 18.500000
+|   |   |   |   |--- co2_ppm_delta_30 <= -13.000000
+|   |   |   |   |   class: smoking
+|   |   |   |   |--- co2_ppm_delta_30 >  -13.000000
+|   |   |   |   |   class: no smoking
+|   |   |   |--- pm2_5 >  18.500000
+|   |   |   |   |--- pm10_0_mean_30 <= 40.297601
+|   |   |   |   |   class: no smoking
+|   |   |   |   |--- pm10_0_mean_30 >  40.297601
+|   |   |   |   |   class: smoking
+
+
+Wrote: C:\Users\Lab\Documents\SENSIRION\SEN66\model_updates\sen66_time_tree_model.h
+Wrote: C:\Users\Lab\Documents\SENSIRION\SEN66\model_updates\sen66_time_tree_model.c
+Wrote: C:\Users\Lab\Documents\SENSIRION\SEN66\model_updates\sen66_time_tree_model.txt
+Wrote: C:\Users\Lab\Documents\SENSIRION\SEN66\model_updates\sen66_time_tree_features.txt

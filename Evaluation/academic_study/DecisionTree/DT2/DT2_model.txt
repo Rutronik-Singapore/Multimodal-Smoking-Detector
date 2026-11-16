@@ -1,0 +1,115 @@
+|--- co2_ppm <= 612
+|   |--- voc_index <= 71
+|   |   |--- co2_ppm_mean_30s <= 556.716493
+|   |   |   |--- pm2_5_mean_30s <= 9.68333333
+|   |   |   |   |--- nox_index <= 1.5
+|   |   |   |   |   |--- voc_index_mean_30s <= 20.5143913
+|   |   |   |   |   |   class: smoking (samples=224)
+|   |   |   |   |   |--- voc_index_mean_30s >  20.5143913
+|   |   |   |   |   |   class: no smoking (samples=100)
+|   |   |   |   |--- nox_index >  1.5
+|   |   |   |   |   |--- pm10_0_mean_30s <= 13.6466667
+|   |   |   |   |   |   class: smoking (samples=318)
+|   |   |   |   |   |--- pm10_0_mean_30s >  13.6466667
+|   |   |   |   |   |   class: no smoking (samples=33)
+|   |   |   |--- pm2_5_mean_30s >  9.68333333
+|   |   |   |   |--- pm1_0_mean_5s <= 4.896
+|   |   |   |   |   |--- pm1_0 <= 4.75
+|   |   |   |   |   |   class: no smoking (samples=44)
+|   |   |   |   |   |--- pm1_0 >  4.75
+|   |   |   |   |   |   class: smoking (samples=20)
+|   |   |   |   |--- pm1_0_mean_5s >  4.896
+|   |   |   |   |   |--- nox_index_mean_10s <= 224.517043
+|   |   |   |   |   |   class: smoking (samples=5984)
+|   |   |   |   |   |--- nox_index_mean_10s >  224.517043
+|   |   |   |   |   |   class: smoking (samples=333)
+|   |   |--- co2_ppm_mean_30s >  556.716493
+|   |   |   |--- pm1_0 <= 13.3
+|   |   |   |   |--- voc_index <= 5
+|   |   |   |   |   class: smoking (samples=203)
+|   |   |   |   |--- voc_index >  5
+|   |   |   |   |   |--- pm10_0 <= 18.7
+|   |   |   |   |   |   class: no smoking (samples=102)
+|   |   |   |   |   |--- pm10_0 >  18.7
+|   |   |   |   |   |   class: smoking (samples=54)
+|   |   |   |--- pm1_0 >  13.3
+|   |   |   |   |--- pm10_0_mean_30s <= 26.1363739
+|   |   |   |   |   class: no smoking (samples=249)
+|   |   |   |   |--- pm10_0_mean_30s >  26.1363739
+|   |   |   |   |   |--- pm1_0_mean_10s <= 18.4895826
+|   |   |   |   |   |   class: smoking (samples=48)
+|   |   |   |   |   |--- pm1_0_mean_10s >  18.4895826
+|   |   |   |   |   |   class: no smoking (samples=87)
+|   |--- voc_index >  71
+|   |   |--- pm1_0 <= 6.1
+|   |   |   |--- nox_index <= 1
+|   |   |   |   class: no smoking (samples=306)
+|   |   |   |--- nox_index >  1
+|   |   |   |   |--- nox_index <= 6
+|   |   |   |   |   |--- co2_ppm_mean_30s <= 451.766667
+|   |   |   |   |   |   class: no smoking (samples=60)
+|   |   |   |   |   |--- co2_ppm_mean_30s >  451.766667
+|   |   |   |   |   |   class: smoking (samples=107)
+|   |   |   |   |--- nox_index >  6
+|   |   |   |   |   class: no smoking (samples=159)
+|   |   |--- pm1_0 >  6.1
+|   |   |   |--- nox_index <= 6.5
+|   |   |   |   |--- nox_index_mean_30s <= 5
+|   |   |   |   |   |--- nox_index <= 3.5
+|   |   |   |   |   |   class: smoking (samples=1379)
+|   |   |   |   |   |--- nox_index >  3.5
+|   |   |   |   |   |   class: smoking (samples=105)
+|   |   |   |   |--- nox_index_mean_30s >  5
+|   |   |   |   |   |--- co2_ppm_mean_30s <= 505.799638
+|   |   |   |   |   |   class: no smoking (samples=169)
+|   |   |   |   |   |--- co2_ppm_mean_30s >  505.799638
+|   |   |   |   |   |   class: smoking (samples=49)
+|   |   |   |--- nox_index >  6.5
+|   |   |   |   |--- pm1_0 <= 9.60947826
+|   |   |   |   |   class: smoking (samples=25)
+|   |   |   |   |--- pm1_0 >  9.60947826
+|   |   |   |   |   class: smoking (samples=434)
+|--- co2_ppm >  612
+|   |--- pm10_0_mean_30s <= 18.3558783
+|   |   |--- pm10_0_mean_30s <= 17.4885333
+|   |   |   class: no smoking (samples=10318)
+|   |   |--- pm10_0_mean_30s >  17.4885333
+|   |   |   |--- co2_ppm <= 640.921739
+|   |   |   |   |--- pm1_0 <= 7.15
+|   |   |   |   |   class: no smoking (samples=20)
+|   |   |   |   |--- pm1_0 >  7.15
+|   |   |   |   |   class: smoking (samples=21)
+|   |   |   |--- co2_ppm >  640.921739
+|   |   |   |   |--- co2_ppm_mean_5s <= 708.252261
+|   |   |   |   |   class: no smoking (samples=20)
+|   |   |   |   |--- co2_ppm_mean_5s >  708.252261
+|   |   |   |   |   class: no smoking (samples=44)
+|   |--- pm10_0_mean_30s >  18.3558783
+|   |   |--- nox_index_mean_30s <= 1.66666667
+|   |   |   |--- pm1_0 <= 6.6
+|   |   |   |   |--- co2_ppm <= 742.575217
+|   |   |   |   |   class: smoking (samples=79)
+|   |   |   |   |--- co2_ppm >  742.575217
+|   |   |   |   |   class: smoking (samples=29)
+|   |   |   |--- pm1_0 >  6.6
+|   |   |   |   |--- pm10_0_mean_30s <= 34.1684754
+|   |   |   |   |   |--- voc_index_mean_30s <= 1
+|   |   |   |   |   |   class: smoking (samples=72)
+|   |   |   |   |   |--- voc_index_mean_30s >  1
+|   |   |   |   |   |   class: no smoking (samples=435)
+|   |   |   |   |--- pm10_0_mean_30s >  34.1684754
+|   |   |   |   |   |--- pm4_0_mean_5s <= 29.317
+|   |   |   |   |   |   class: no smoking (samples=33)
+|   |   |   |   |   |--- pm4_0_mean_5s >  29.317
+|   |   |   |   |   |   class: smoking (samples=113)
+|   |   |--- nox_index_mean_30s >  1.66666667
+|   |   |   |--- nox_index <= 6
+|   |   |   |   |--- co2_ppm_mean_30s <= 637.350464
+|   |   |   |   |   class: smoking (samples=23)
+|   |   |   |   |--- co2_ppm_mean_30s >  637.350464
+|   |   |   |   |   |--- co2_ppm <= 782.29913
+|   |   |   |   |   |   class: smoking (samples=196)
+|   |   |   |   |   |--- co2_ppm >  782.29913
+|   |   |   |   |   |   class: smoking (samples=21)
+|   |   |   |--- nox_index >  6
+|   |   |   |   class: no smoking (samples=96)

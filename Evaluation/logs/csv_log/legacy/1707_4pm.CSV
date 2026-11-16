@@ -1,0 +1,1344 @@
+elapsed_time,uptime_ms,pm1_0,pm2_5,pm4_0,pm10_0,voc_index,nox_index,co2_ppm,label,buzzer_label,predicted_label
+0h_00m_10s_529ms,10529,0.5,0.6,0.7,0.8,0.0,0.0,705,no smoking,enabled,no smoking
+0h_00m_11s_537ms,11537,0.5,0.6,0.7,0.8,0.0,0.0,705,no smoking,enabled,no smoking
+0h_00m_12s_544ms,12544,0.5,0.6,0.7,0.8,0.0,0.0,705,no smoking,enabled,no smoking
+0h_00m_13s_551ms,13551,0.5,0.6,0.7,0.8,0.0,0.0,705,no smoking,enabled,no smoking
+0h_00m_14s_558ms,14558,0.5,0.6,0.7,0.8,0.0,0.0,706,no smoking,enabled,no smoking
+0h_00m_15s_570ms,15570,0.5,0.6,0.7,0.8,0.0,0.0,706,no smoking,enabled,no smoking
+0h_00m_16s_577ms,16577,0.5,0.6,0.7,0.8,0.0,0.0,707,no smoking,enabled,no smoking
+0h_00m_17s_584ms,17584,0.5,0.6,0.7,0.8,0.0,0.0,708,no smoking,enabled,no smoking
+0h_00m_18s_592ms,18592,0.6,0.8,0.9,0.9,0.0,0.0,716,no smoking,enabled,no smoking
+0h_00m_19s_600ms,19600,0.6,0.8,0.9,0.9,0.0,0.0,724,no smoking,enabled,no smoking
+0h_00m_20s_608ms,20608,0.6,0.8,0.9,0.9,0.0,0.0,732,no smoking,enabled,no smoking
+0h_00m_21s_616ms,21616,0.6,0.8,0.9,0.9,0.0,0.0,740,no smoking,enabled,no smoking
+0h_00m_22s_508ms,22508,0.6,0.8,0.9,0.9,0.0,0.0,748,no smoking,enabled,no smoking
+0h_00m_23s_516ms,23516,0.6,0.8,0.9,0.9,0.0,0.0,748,no smoking,enabled,no smoking
+0h_00m_24s_524ms,24524,0.6,0.8,0.9,0.9,0.0,0.0,748,no smoking,enabled,no smoking
+0h_00m_25s_532ms,25532,0.6,0.8,0.9,0.9,0.0,0.0,748,no smoking,enabled,no smoking
+0h_00m_26s_540ms,26540,0.6,0.8,0.9,0.9,0.0,0.0,748,no smoking,enabled,no smoking
+0h_00m_27s_547ms,27547,0.6,0.8,0.9,0.9,0.0,0.0,749,no smoking,enabled,no smoking
+0h_00m_28s_560ms,28560,0.6,0.8,0.9,0.9,0.0,0.0,747,no smoking,enabled,no smoking
+0h_00m_29s_567ms,29567,0.6,0.8,0.9,0.9,0.0,0.0,745,no smoking,enabled,no smoking
+0h_00m_30s_575ms,30575,0.6,0.8,0.9,0.9,0.0,0.0,744,no smoking,enabled,no smoking
+0h_00m_31s_584ms,31584,0.6,0.8,0.9,0.9,0.0,0.0,742,no smoking,enabled,no smoking
+0h_00m_32s_591ms,32591,0.6,0.8,0.9,0.9,0.0,0.0,741,no smoking,enabled,no smoking
+0h_00m_33s_598ms,33598,0.6,0.8,0.9,0.9,0.0,0.0,741,no smoking,enabled,no smoking
+0h_00m_34s_612ms,34612,0.6,0.8,0.9,0.9,0.0,0.0,741,no smoking,enabled,no smoking
+0h_00m_35s_619ms,35619,0.6,0.8,0.9,0.9,0.0,0.0,741,no smoking,enabled,no smoking
+0h_00m_36s_627ms,36627,0.6,0.8,0.9,0.9,0.0,0.0,741,no smoking,enabled,no smoking
+0h_00m_37s_636ms,37636,0.6,0.8,0.9,0.9,0.0,0.0,741,no smoking,enabled,no smoking
+0h_00m_38s_643ms,38643,0.6,0.8,0.9,0.9,0.0,0.0,741,no smoking,enabled,no smoking
+0h_00m_39s_651ms,39651,0.8,0.9,1.0,1.1,0.0,0.0,742,no smoking,enabled,no smoking
+0h_00m_40s_665ms,40665,0.8,0.9,1.0,1.1,0.0,0.0,742,no smoking,enabled,no smoking
+0h_00m_41s_673ms,41673,0.8,0.9,1.0,1.1,0.0,0.0,743,no smoking,enabled,no smoking
+0h_00m_42s_681ms,42681,0.8,0.9,1.0,1.1,0.0,0.0,744,no smoking,enabled,no smoking
+0h_00m_43s_689ms,43689,0.8,0.9,1.0,1.1,0.0,0.0,745,no smoking,enabled,no smoking
+0h_00m_44s_697ms,44697,0.8,0.9,1.0,1.1,0.0,0.0,746,no smoking,enabled,no smoking
+0h_00m_45s_706ms,45706,0.8,0.9,1.0,1.1,0.0,0.0,747,no smoking,enabled,no smoking
+0h_00m_46s_713ms,46713,0.8,0.9,1.0,1.1,0.0,0.0,748,no smoking,enabled,no smoking
+0h_00m_47s_727ms,47727,0.8,0.9,1.0,1.1,0.0,0.0,747,no smoking,enabled,no smoking
+0h_00m_48s_734ms,48734,0.8,0.9,1.0,1.1,0.0,0.0,746,no smoking,enabled,no smoking
+0h_00m_49s_742ms,49742,0.8,0.9,1.0,1.1,500.0,0.0,746,no smoking,enabled,no smoking
+0h_00m_50s_751ms,50751,0.8,0.9,1.0,1.1,481.0,0.0,745,no smoking,enabled,no smoking
+0h_00m_51s_758ms,51758,0.8,0.9,1.0,1.1,458.0,0.0,745,no smoking,enabled,no smoking
+0h_00m_52s_765ms,52765,0.8,0.9,1.0,1.1,436.0,0.0,744,no smoking,enabled,no smoking
+0h_00m_53s_778ms,53778,0.8,0.9,1.0,1.1,415.0,0.0,744,no smoking,enabled,no smoking
+0h_00m_54s_786ms,54786,0.8,0.9,1.0,1.1,396.0,0.0,743,no smoking,enabled,no smoking
+0h_00m_55s_673ms,55673,0.8,0.9,1.0,1.1,377.0,0.0,743,no smoking,enabled,no smoking
+0h_00m_56s_681ms,56681,0.8,0.9,1.0,1.1,359.0,1.0,743,no smoking,enabled,no smoking
+0h_00m_57s_688ms,57688,0.8,0.9,1.0,1.1,342.0,1.0,743,no smoking,enabled,no smoking
+0h_00m_58s_695ms,58695,0.8,0.9,1.0,1.1,326.0,1.0,744,no smoking,enabled,no smoking
+0h_00m_59s_708ms,59708,0.8,0.9,1.0,1.1,310.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_00s_716ms,60716,0.8,0.9,1.0,1.1,295.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_01s_725ms,61725,0.8,0.9,1.0,1.1,281.0,1.0,746,no smoking,enabled,no smoking
+0h_01m_02s_732ms,62732,0.8,0.9,1.0,1.1,268.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_03s_739ms,63739,0.8,0.9,1.0,1.1,255.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_04s_747ms,64747,0.8,0.9,1.0,1.1,243.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_05s_760ms,65760,0.8,0.9,1.0,1.1,231.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_06s_768ms,66768,0.8,0.9,1.0,1.1,220.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_07s_775ms,67775,0.8,0.9,1.0,1.1,210.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_08s_784ms,68784,0.8,0.9,1.0,1.1,200.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_09s_791ms,69791,0.8,0.9,1.0,1.1,190.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_10s_799ms,70799,0.8,0.9,1.0,1.1,181.0,1.0,746,no smoking,enabled,no smoking
+0h_01m_11s_813ms,71813,0.8,0.9,1.0,1.1,173.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_12s_820ms,72820,0.8,0.9,1.0,1.1,164.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_13s_828ms,73828,0.8,0.9,1.0,1.1,157.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_14s_837ms,74837,0.8,0.9,1.0,1.1,149.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_15s_844ms,75844,0.8,0.9,1.0,1.1,142.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_16s_852ms,76852,0.8,0.9,1.0,1.1,135.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_17s_865ms,77865,0.8,0.9,1.0,1.1,129.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_18s_873ms,78873,0.8,0.9,1.0,1.1,123.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_19s_882ms,79882,0.8,0.9,1.0,1.1,117.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_20s_889ms,80889,0.8,0.9,1.0,1.1,111.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_21s_897ms,81897,0.8,0.9,1.0,1.1,106.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_22s_906ms,82906,0.8,0.9,1.0,1.1,101.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_23s_918ms,83918,0.8,0.9,1.0,1.1,96.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_24s_927ms,84927,0.8,0.9,1.0,1.1,92.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_25s_934ms,85934,0.8,0.9,1.0,1.1,87.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_26s_942ms,86942,0.8,0.9,1.0,1.1,83.0,1.0,744,no smoking,enabled,no smoking
+0h_01m_27s_951ms,87951,0.8,0.9,1.0,1.1,79.0,1.0,745,no smoking,enabled,no smoking
+0h_01m_28s_958ms,88958,0.8,0.9,1.0,1.1,75.0,1.0,746,no smoking,enabled,no smoking
+0h_01m_29s_850ms,89850,0.8,0.9,1.0,1.1,72.0,1.0,747,no smoking,enabled,no smoking
+0h_01m_30s_858ms,90858,0.8,0.9,1.0,1.1,68.0,1.0,748,no smoking,enabled,no smoking
+0h_01m_31s_866ms,91866,0.8,0.9,1.0,1.1,65.0,1.0,747,no smoking,enabled,no smoking
+0h_01m_32s_875ms,92875,0.8,0.9,1.0,1.1,62.0,1.0,747,no smoking,enabled,no smoking
+0h_01m_33s_882ms,93882,0.8,0.9,1.0,1.1,59.0,1.0,747,no smoking,enabled,no smoking
+0h_01m_34s_890ms,94890,0.8,0.9,1.0,1.1,56.0,1.0,747,no smoking,enabled,no smoking
+0h_01m_35s_899ms,95899,0.8,0.9,1.0,1.1,54.0,1.0,747,no smoking,enabled,no smoking
+0h_01m_36s_911ms,96911,0.8,0.9,1.0,1.1,51.0,1.0,747,no smoking,enabled,no smoking
+0h_01m_37s_920ms,97920,0.8,0.9,1.0,1.1,49.0,1.0,748,no smoking,enabled,no smoking
+0h_01m_38s_927ms,98927,0.8,0.9,1.0,1.1,46.0,1.0,748,no smoking,enabled,no smoking
+0h_01m_39s_934ms,99934,0.8,0.9,1.0,1.1,44.0,1.0,749,no smoking,enabled,no smoking
+0h_01m_40s_942ms,100942,0.8,0.9,1.0,1.1,42.0,1.0,749,no smoking,enabled,no smoking
+0h_01m_41s_950ms,101950,0.8,0.9,1.0,1.1,40.0,1.0,749,no smoking,enabled,no smoking
+0h_01m_42s_964ms,102964,0.8,0.9,1.0,1.1,38.0,1.0,749,no smoking,enabled,no smoking
+0h_01m_43s_971ms,103971,0.8,0.9,1.0,1.1,36.0,1.0,749,no smoking,enabled,no smoking
+0h_01m_44s_979ms,104979,0.8,0.9,1.0,1.1,35.0,1.0,749,no smoking,enabled,no smoking
+0h_01m_45s_988ms,105988,0.6,0.8,0.9,0.9,33.0,1.0,748,no smoking,enabled,no smoking
+0h_01m_46s_995ms,106995,0.6,0.8,0.9,0.9,31.0,1.0,748,no smoking,enabled,no smoking
+0h_01m_48s_003ms,108003,0.6,0.8,0.9,0.9,30.0,1.0,748,no smoking,enabled,no smoking
+0h_01m_49s_016ms,109016,0.6,0.8,0.9,0.9,28.0,1.0,748,no smoking,enabled,no smoking
+0h_01m_50s_024ms,110024,0.6,0.8,0.9,0.9,27.0,1.0,748,no smoking,enabled,no smoking
+0h_01m_51s_033ms,111033,0.6,0.8,0.9,0.9,26.0,1.0,748,no smoking,enabled,no smoking
+0h_01m_52s_040ms,112040,0.6,0.8,0.9,0.9,25.0,1.0,748,no smoking,enabled,no smoking
+0h_01m_53s_047ms,113047,0.6,0.8,0.9,0.9,23.0,1.0,749,no smoking,enabled,no smoking
+0h_01m_54s_055ms,114055,0.6,0.8,0.9,0.9,22.0,1.0,749,no smoking,enabled,no smoking
+0h_01m_55s_068ms,115068,0.6,0.8,0.9,0.9,21.0,1.0,750,no smoking,enabled,no smoking
+0h_01m_56s_077ms,116077,0.6,0.8,0.9,0.9,20.0,1.0,750,no smoking,enabled,no smoking
+0h_01m_57s_084ms,117084,0.6,0.8,0.9,0.9,19.0,1.0,750,no smoking,enabled,no smoking
+0h_01m_58s_092ms,118092,0.6,0.8,0.9,0.9,18.0,1.0,750,no smoking,enabled,no smoking
+0h_01m_59s_101ms,119101,0.6,0.8,0.9,0.9,18.0,1.0,750,no smoking,enabled,no smoking
+0h_02m_00s_108ms,120108,0.6,0.8,0.9,0.9,17.0,1.0,750,no smoking,enabled,no smoking
+0h_02m_01s_122ms,121122,0.6,0.8,0.9,0.9,16.0,1.0,750,no smoking,enabled,no smoking
+0h_02m_02s_129ms,122129,0.6,0.8,0.9,0.9,15.0,1.0,750,no smoking,enabled,no smoking
+0h_02m_03s_137ms,123137,0.6,0.8,0.9,0.9,14.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_04s_145ms,124145,0.6,0.8,0.9,0.9,14.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_05s_032ms,125032,0.6,0.8,0.9,0.9,13.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_06s_040ms,126040,0.6,0.8,0.9,0.9,13.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_07s_053ms,127053,0.6,0.8,0.9,0.9,12.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_08s_061ms,128061,0.6,0.8,0.9,0.9,11.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_09s_069ms,129069,0.6,0.8,0.9,0.9,11.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_10s_078ms,130078,0.6,0.8,0.9,0.9,10.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_11s_085ms,131085,0.6,0.8,0.9,0.9,10.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_12s_093ms,132093,0.6,0.8,0.9,0.9,9.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_13s_106ms,133106,0.6,0.8,0.9,0.9,9.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_14s_114ms,134114,0.5,0.6,0.7,0.8,9.0,1.0,753,no smoking,enabled,no smoking
+0h_02m_15s_123ms,135123,0.5,0.6,0.7,0.8,8.0,1.0,753,no smoking,enabled,no smoking
+0h_02m_16s_130ms,136130,0.5,0.6,0.7,0.8,8.0,1.0,753,no smoking,enabled,no smoking
+0h_02m_17s_138ms,137138,0.5,0.6,0.7,0.8,7.0,1.0,753,no smoking,enabled,no smoking
+0h_02m_18s_147ms,138147,0.5,0.6,0.7,0.8,7.0,1.0,753,no smoking,enabled,no smoking
+0h_02m_19s_159ms,139159,0.5,0.6,0.7,0.8,7.0,1.0,753,no smoking,enabled,no smoking
+0h_02m_20s_167ms,140167,0.5,0.6,0.7,0.8,6.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_21s_176ms,141176,0.5,0.6,0.7,0.8,6.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_22s_183ms,142183,0.5,0.6,0.7,0.8,6.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_23s_191ms,143191,0.5,0.6,0.7,0.8,6.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_24s_200ms,144200,0.5,0.6,0.7,0.8,5.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_25s_207ms,145207,0.5,0.6,0.7,0.8,5.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_26s_221ms,146221,0.5,0.6,0.7,0.8,5.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_27s_228ms,147228,0.5,0.6,0.7,0.8,5.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_28s_236ms,148236,0.5,0.6,0.7,0.8,4.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_29s_245ms,149245,0.5,0.6,0.7,0.8,4.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_30s_252ms,150252,0.5,0.6,0.7,0.8,4.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_31s_260ms,151260,0.5,0.6,0.7,0.8,4.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_32s_273ms,152273,0.5,0.6,0.7,0.8,4.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_33s_281ms,153281,0.5,0.6,0.7,0.8,4.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_34s_290ms,154290,0.5,0.6,0.7,0.8,3.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_35s_297ms,155297,0.5,0.6,0.7,0.8,3.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_36s_305ms,156305,0.5,0.6,0.7,0.8,3.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_37s_314ms,157314,0.5,0.6,0.7,0.8,3.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_38s_205ms,158205,0.5,0.6,0.7,0.8,3.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_39s_213ms,159213,0.5,0.6,0.7,0.8,3.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_40s_221ms,160221,0.5,0.6,0.7,0.8,3.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_41s_229ms,161229,0.5,0.6,0.7,0.8,3.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_42s_238ms,162238,0.5,0.6,0.7,0.8,2.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_43s_245ms,163245,0.5,0.6,0.7,0.8,2.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_44s_259ms,164259,0.5,0.6,0.7,0.8,2.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_45s_266ms,165266,0.5,0.6,0.7,0.8,2.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_46s_274ms,166274,0.5,0.6,0.7,0.8,2.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_47s_283ms,167283,0.5,0.6,0.7,0.8,2.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_48s_290ms,168290,0.5,0.6,0.7,0.8,2.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_49s_298ms,169298,0.5,0.6,0.7,0.8,2.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_50s_311ms,170311,0.5,0.6,0.7,0.8,2.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_51s_319ms,171319,0.5,0.6,0.7,0.8,2.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_52s_328ms,172328,0.5,0.6,0.7,0.8,2.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_53s_335ms,173335,0.5,0.6,0.7,0.8,2.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_54s_343ms,174343,0.5,0.6,0.7,0.8,2.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_55s_352ms,175352,0.5,0.6,0.7,0.8,2.0,1.0,751,no smoking,enabled,no smoking
+0h_02m_56s_364ms,176364,0.5,0.6,0.7,0.8,2.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_57s_373ms,177373,0.5,0.6,0.7,0.8,1.0,1.0,752,no smoking,enabled,no smoking
+0h_02m_58s_380ms,178380,0.5,0.6,0.7,0.8,1.0,1.0,753,no smoking,enabled,no smoking
+0h_02m_59s_388ms,179388,0.5,0.6,0.7,0.8,1.0,1.0,753,no smoking,enabled,no smoking
+0h_03m_00s_397ms,180397,0.5,0.6,0.7,0.8,1.0,1.0,753,no smoking,enabled,no smoking
+0h_03m_01s_404ms,181404,0.5,0.6,0.7,0.8,1.0,1.0,753,no smoking,enabled,no smoking
+0h_03m_02s_412ms,182412,0.5,0.6,0.7,0.8,1.0,1.0,753,no smoking,enabled,no smoking
+0h_03m_03s_425ms,183425,0.5,0.6,0.7,0.8,1.0,1.0,754,no smoking,enabled,no smoking
+0h_03m_04s_433ms,184433,0.5,0.6,0.7,0.8,1.0,1.0,754,no smoking,enabled,no smoking
+0h_03m_05s_442ms,185442,0.5,0.6,0.7,0.8,1.0,1.0,754,no smoking,enabled,no smoking
+0h_03m_06s_449ms,186449,0.5,0.6,0.7,0.8,1.0,1.0,754,no smoking,enabled,no smoking
+0h_03m_07s_457ms,187457,0.5,0.6,0.7,0.8,1.0,1.0,754,no smoking,enabled,no smoking
+0h_03m_08s_466ms,188466,0.5,0.6,0.7,0.8,1.0,1.0,754,no smoking,enabled,no smoking
+0h_03m_09s_478ms,189478,0.5,0.6,0.7,0.8,1.0,1.0,754,no smoking,enabled,no smoking
+0h_03m_10s_487ms,190487,0.5,0.6,0.7,0.8,1.0,1.0,755,no smoking,enabled,no smoking
+0h_03m_11s_494ms,191494,0.5,0.6,0.7,0.8,1.0,1.0,755,no smoking,enabled,no smoking
+0h_03m_12s_381ms,192381,0.5,0.6,0.7,0.8,1.0,1.0,756,no smoking,enabled,no smoking
+0h_03m_13s_389ms,193389,0.5,0.6,0.7,0.8,1.0,1.0,756,no smoking,enabled,no smoking
+0h_03m_14s_398ms,194398,0.5,0.6,0.7,0.8,1.0,1.0,756,no smoking,enabled,no smoking
+0h_03m_15s_410ms,195410,0.5,0.6,0.7,0.8,1.0,1.0,756,no smoking,enabled,no smoking
+0h_03m_16s_419ms,196419,0.5,0.6,0.7,0.8,1.0,1.0,756,no smoking,enabled,no smoking
+0h_03m_17s_426ms,197426,0.5,0.6,0.7,0.8,1.0,1.0,757,no smoking,enabled,no smoking
+0h_03m_18s_433ms,198433,0.5,0.6,0.7,0.8,1.0,1.0,757,no smoking,enabled,no smoking
+0h_03m_19s_441ms,199441,0.5,0.6,0.7,0.8,1.0,1.0,757,no smoking,enabled,no smoking
+0h_03m_20s_449ms,200449,0.5,0.6,0.7,0.8,1.0,1.0,757,no smoking,enabled,no smoking
+0h_03m_21s_461ms,201461,0.5,0.6,0.7,0.8,1.0,1.0,757,no smoking,enabled,no smoking
+0h_03m_22s_468ms,202468,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_03m_23s_475ms,203475,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_03m_24s_482ms,204482,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_03m_25s_489ms,205489,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_03m_26s_496ms,206496,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_03m_27s_522ms,207522,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_28s_529ms,208529,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_29s_536ms,209536,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_30s_543ms,210543,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_31s_550ms,211550,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_32s_557ms,212557,0.5,0.6,0.7,0.8,1.0,1.0,761,no smoking,enabled,no smoking
+0h_03m_33s_569ms,213569,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_34s_577ms,214577,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_35s_586ms,215586,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_36s_593ms,216593,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_37s_601ms,217601,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_38s_610ms,218610,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_39s_617ms,219617,0.5,0.6,0.7,0.8,1.0,1.0,761,no smoking,enabled,no smoking
+0h_03m_40s_631ms,220631,0.5,0.6,0.7,0.8,1.0,1.0,761,no smoking,enabled,no smoking
+0h_03m_41s_638ms,221638,0.5,0.6,0.7,0.8,1.0,1.0,762,no smoking,enabled,no smoking
+0h_03m_42s_645ms,222645,0.5,0.6,0.7,0.8,1.0,1.0,761,no smoking,enabled,no smoking
+0h_03m_43s_653ms,223653,0.5,0.6,0.7,0.8,1.0,1.0,761,no smoking,enabled,no smoking
+0h_03m_44s_661ms,224661,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_45s_669ms,225669,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_46s_561ms,226561,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_47s_568ms,227568,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_48s_576ms,228576,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_49s_584ms,229584,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_50s_592ms,230592,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_03m_51s_601ms,231601,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_03m_52s_613ms,232613,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_03m_53s_622ms,233622,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_03m_54s_629ms,234629,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_03m_55s_637ms,235637,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_03m_56s_646ms,236646,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_03m_57s_653ms,237653,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_03m_58s_667ms,238667,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_03m_59s_674ms,239674,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_00s_682ms,240682,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_01s_691ms,241691,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_02s_698ms,242698,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_03s_706ms,243706,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_04s_750ms,244750,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_05s_758ms,245758,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_06s_766ms,246766,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_07s_774ms,247774,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_08s_783ms,248783,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_09s_669ms,249669,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_10s_683ms,250683,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_11s_690ms,251690,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_12s_698ms,252698,0.5,0.6,0.7,0.8,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_13s_707ms,253707,0.5,0.6,0.7,0.8,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_14s_714ms,254714,0.5,0.6,0.7,0.8,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_15s_722ms,255722,0.5,0.6,0.7,0.8,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_16s_731ms,256731,0.5,0.6,0.7,0.8,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_17s_743ms,257743,0.5,0.6,0.7,0.8,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_18s_751ms,258751,0.5,0.6,0.7,0.8,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_19s_760ms,259760,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_20s_767ms,260767,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_21s_775ms,261775,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_22s_784ms,262784,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_23s_796ms,263796,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_24s_804ms,264804,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_25s_813ms,265813,0.4,0.5,0.6,0.6,1.0,1.0,763,no smoking,enabled,no smoking
+0h_04m_26s_820ms,266820,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_27s_827ms,267827,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_28s_835ms,268835,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_29s_848ms,269848,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_30s_857ms,270857,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_31s_864ms,271864,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_32s_872ms,272872,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_33s_881ms,273881,0.4,0.5,0.6,0.6,1.0,1.0,763,no smoking,enabled,no smoking
+0h_04m_34s_888ms,274888,0.4,0.5,0.6,0.6,1.0,1.0,763,no smoking,enabled,no smoking
+0h_04m_35s_900ms,275900,0.4,0.5,0.6,0.6,1.0,1.0,763,no smoking,enabled,no smoking
+0h_04m_36s_909ms,276909,0.4,0.5,0.6,0.6,1.0,1.0,763,no smoking,enabled,no smoking
+0h_04m_37s_917ms,277917,0.4,0.5,0.6,0.6,1.0,1.0,763,no smoking,enabled,no smoking
+0h_04m_38s_925ms,278925,0.4,0.5,0.6,0.6,1.0,1.0,763,no smoking,enabled,no smoking
+0h_04m_39s_933ms,279933,0.4,0.5,0.6,0.6,1.0,1.0,763,no smoking,enabled,no smoking
+0h_04m_40s_941ms,280941,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_41s_833ms,281833,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_04m_42s_841ms,282841,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_43s_850ms,283850,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_44s_857ms,284857,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_45s_865ms,285865,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_46s_874ms,286874,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_47s_886ms,287886,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_48s_895ms,288895,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_49s_902ms,289902,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_04m_50s_910ms,290910,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_04m_51s_919ms,291919,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_04m_52s_926ms,292926,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_04m_53s_934ms,293934,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_04m_54s_947ms,294947,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_04m_55s_955ms,295955,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_04m_56s_964ms,296964,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_04m_57s_971ms,297971,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_04m_58s_979ms,298979,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_04m_59s_987ms,299987,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_00s_999ms,300999,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_02s_006ms,302006,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_03s_015ms,303015,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_04s_022ms,304022,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_05s_029ms,305029,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_06s_037ms,306037,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_07s_050ms,307050,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_08s_058ms,308058,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_09s_067ms,309067,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_10s_074ms,310074,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_11s_082ms,311082,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_12s_090ms,312090,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_12s_982ms,312982,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_13s_990ms,313990,0.5,0.6,0.7,0.8,1.0,1.0,761,no smoking,enabled,no smoking
+0h_05m_14s_998ms,314998,0.5,0.6,0.7,0.8,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_16s_006ms,316006,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_17s_015ms,317015,0.5,0.6,0.7,0.8,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_18s_022ms,318022,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_19s_036ms,319036,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_20s_043ms,320043,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_21s_051ms,321051,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_22s_060ms,322060,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_23s_067ms,323067,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_24s_075ms,324075,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_25s_088ms,325088,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_26s_096ms,326096,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_27s_105ms,327105,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_28s_112ms,328112,0.5,0.6,0.7,0.8,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_29s_120ms,329120,0.4,0.5,0.6,0.6,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_30s_129ms,330129,0.4,0.5,0.6,0.6,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_31s_136ms,331136,0.4,0.5,0.6,0.6,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_32s_148ms,332148,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_33s_156ms,333156,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_05m_34s_164ms,334164,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_05m_35s_172ms,335172,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_05m_36s_180ms,336180,0.4,0.5,0.6,0.6,1.0,1.0,761,no smoking,enabled,no smoking
+0h_05m_37s_187ms,337187,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_38s_200ms,338200,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_39s_208ms,339208,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_40s_217ms,340217,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_41s_224ms,341224,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_42s_232ms,342232,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_43s_241ms,343241,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_44s_253ms,344253,0.4,0.5,0.6,0.6,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_45s_262ms,345262,0.4,0.5,0.6,0.6,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_46s_269ms,346269,0.4,0.5,0.6,0.6,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_47s_155ms,347155,0.4,0.5,0.6,0.6,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_48s_163ms,348163,0.4,0.5,0.6,0.6,1.0,1.0,758,no smoking,enabled,no smoking
+0h_05m_49s_171ms,349171,0.4,0.5,0.6,0.6,1.0,1.0,759,no smoking,enabled,no smoking
+0h_05m_50s_184ms,350184,0.4,0.5,0.6,0.6,1.0,1.0,760,no smoking,enabled,no smoking
+0h_05m_51s_192ms,351192,0.4,0.5,0.6,0.6,1.0,1.0,762,no smoking,enabled,no smoking
+0h_05m_52s_200ms,352200,0.4,0.5,0.6,0.6,1.0,1.0,763,no smoking,enabled,no smoking
+0h_05m_53s_208ms,353208,0.4,0.5,0.6,0.6,1.0,1.0,765,no smoking,enabled,no smoking
+0h_05m_54s_217ms,354217,0.4,0.5,0.6,0.6,1.0,1.0,765,no smoking,enabled,no smoking
+0h_05m_55s_224ms,355224,0.4,0.5,0.6,0.6,1.0,1.0,765,no smoking,enabled,no smoking
+0h_05m_56s_238ms,356238,0.4,0.5,0.6,0.6,1.0,1.0,766,no smoking,enabled,no smoking
+0h_05m_57s_245ms,357245,0.4,0.5,0.6,0.6,1.0,1.0,766,no smoking,enabled,no smoking
+0h_05m_58s_253ms,358253,0.4,0.5,0.6,0.6,1.0,1.0,767,no smoking,enabled,no smoking
+0h_05m_59s_262ms,359262,0.4,0.5,0.6,0.6,1.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_00s_269ms,360269,0.4,0.5,0.6,0.6,1.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_01s_276ms,361276,0.4,0.5,0.6,0.6,1.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_02s_289ms,362289,0.4,0.5,0.6,0.6,1.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_03s_297ms,363297,0.4,0.5,0.6,0.6,1.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_04s_306ms,364306,0.4,0.5,0.6,0.6,1.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_05s_313ms,365313,0.4,0.5,0.6,0.6,1.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_06s_321ms,366321,0.4,0.5,0.6,0.6,1.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_07s_330ms,367330,0.4,0.5,0.6,0.6,1.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_08s_337ms,368337,0.4,0.5,0.6,0.6,1.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_09s_351ms,369351,0.4,0.5,0.6,0.6,1.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_10s_358ms,370358,0.4,0.5,0.6,0.6,1.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_11s_366ms,371366,0.4,0.5,0.6,0.6,1.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_12s_375ms,372375,0.4,0.5,0.6,0.6,1.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_13s_382ms,373382,0.4,0.5,0.6,0.6,1.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_14s_389ms,374389,0.4,0.5,0.6,0.6,1.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_15s_402ms,375402,0.4,0.5,0.6,0.6,2.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_16s_410ms,376410,0.4,0.5,0.6,0.6,3.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_17s_419ms,377419,0.4,0.5,0.6,0.6,5.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_18s_426ms,378426,0.4,0.5,0.6,0.6,7.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_19s_434ms,379434,0.4,0.5,0.6,0.6,10.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_20s_321ms,380321,0.4,0.5,0.6,0.6,12.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_21s_334ms,381334,0.4,0.5,0.6,0.6,15.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_22s_343ms,382343,0.4,0.5,0.6,0.6,18.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_23s_350ms,383350,0.4,0.5,0.6,0.6,21.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_24s_357ms,384357,0.4,0.5,0.6,0.6,24.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_25s_365ms,385365,0.4,0.5,0.6,0.6,26.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_26s_373ms,386373,0.4,0.5,0.6,0.6,28.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_27s_386ms,387386,0.4,0.5,0.6,0.6,31.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_28s_394ms,388394,0.4,0.5,0.6,0.6,35.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_29s_402ms,389402,0.4,0.5,0.6,0.6,37.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_30s_410ms,390410,0.4,0.5,0.6,0.6,39.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_31s_419ms,391419,0.4,0.5,0.6,0.6,41.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_32s_426ms,392426,0.5,0.6,0.7,0.8,42.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_33s_440ms,393440,0.5,0.6,0.7,0.8,41.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_34s_447ms,394447,0.5,0.6,0.7,0.8,39.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_35s_454ms,395454,0.5,0.6,0.7,0.8,37.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_36s_462ms,396462,0.5,0.6,0.7,0.8,36.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_37s_470ms,397470,0.5,0.6,0.7,0.8,34.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_38s_478ms,398478,0.5,0.6,0.7,0.8,32.0,1.0,765,no smoking,enabled,no smoking
+0h_06m_39s_489ms,399489,0.5,0.6,0.7,0.8,31.0,1.0,765,no smoking,enabled,no smoking
+0h_06m_40s_496ms,400496,0.7,0.8,0.9,0.9,29.0,1.0,765,no smoking,enabled,no smoking
+0h_06m_41s_503ms,401503,0.7,0.8,0.9,0.9,28.0,1.0,765,no smoking,enabled,no smoking
+0h_06m_42s_510ms,402510,0.7,0.8,0.9,0.9,27.0,1.0,764,no smoking,enabled,no smoking
+0h_06m_43s_517ms,403517,0.7,0.8,0.9,0.9,26.0,1.0,764,no smoking,enabled,no smoking
+0h_06m_44s_524ms,404524,0.7,0.8,0.9,0.9,24.0,1.0,764,no smoking,enabled,no smoking
+0h_06m_45s_550ms,405550,0.7,0.8,0.9,0.9,23.0,1.0,764,no smoking,enabled,no smoking
+0h_06m_46s_557ms,406557,0.8,0.9,1.0,1.1,22.0,1.0,764,no smoking,enabled,no smoking
+0h_06m_47s_564ms,407564,0.8,0.9,1.0,1.1,21.0,1.0,764,no smoking,enabled,no smoking
+0h_06m_48s_572ms,408572,0.8,0.9,1.0,1.1,21.0,1.0,764,no smoking,enabled,no smoking
+0h_06m_49s_579ms,409579,0.8,0.9,1.0,1.1,25.0,1.0,764,no smoking,enabled,no smoking
+0h_06m_50s_586ms,410586,0.8,0.9,1.0,1.1,36.0,1.0,764,no smoking,enabled,no smoking
+0h_06m_51s_598ms,411598,0.9,1.1,1.2,1.2,51.0,1.0,765,no smoking,enabled,no smoking
+0h_06m_52s_485ms,412485,0.9,1.1,1.2,1.2,69.0,1.0,765,no smoking,enabled,no smoking
+0h_06m_53s_493ms,413493,0.9,1.1,1.2,1.2,87.0,1.0,765,no smoking,enabled,no smoking
+0h_06m_54s_501ms,414501,0.9,1.1,1.2,1.2,104.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_55s_509ms,415509,1.0,1.2,1.3,1.4,121.0,1.0,766,no smoking,enabled,no smoking
+0h_06m_56s_518ms,416518,1.0,1.2,1.3,1.4,137.0,1.0,767,no smoking,enabled,no smoking
+0h_06m_57s_530ms,417530,1.0,1.2,1.3,1.4,152.0,1.0,768,no smoking,enabled,no smoking
+0h_06m_58s_539ms,418539,1.0,1.2,1.3,1.4,166.0,1.0,769,no smoking,enabled,no smoking
+0h_06m_59s_546ms,419546,1.1,1.3,1.5,1.6,180.0,1.0,771,no smoking,enabled,no smoking
+0h_07m_00s_554ms,420554,1.1,1.3,1.5,1.6,194.0,1.0,772,no smoking,enabled,no smoking
+0h_07m_01s_563ms,421563,1.1,1.3,1.5,1.6,207.0,1.0,774,no smoking,enabled,no smoking
+0h_07m_02s_570ms,422570,1.2,1.5,1.6,1.7,220.0,1.0,795,no smoking,enabled,no smoking
+0h_07m_03s_577ms,423577,1.2,1.5,1.6,1.7,229.0,1.0,817,no smoking,enabled,no smoking
+0h_07m_04s_584ms,424584,1.2,1.5,1.6,1.7,231.0,1.0,839,no smoking,enabled,no smoking
+0h_07m_05s_591ms,425591,1.4,1.6,1.8,1.9,232.0,1.0,861,no smoking,enabled,no smoking
+0h_07m_06s_599ms,426599,1.4,1.6,1.8,1.9,236.0,1.0,883,no smoking,enabled,no smoking
+0h_07m_07s_608ms,427608,1.5,1.8,1.9,2.0,245.0,1.0,908,no smoking,enabled,no smoking
+0h_07m_08s_615ms,428615,1.5,1.8,1.9,2.0,255.0,1.0,933,no smoking,enabled,no smoking
+0h_07m_09s_623ms,429623,1.6,1.9,2.1,2.2,264.0,1.0,959,no smoking,enabled,no smoking
+0h_07m_10s_636ms,430636,1.6,1.9,2.1,2.2,271.0,1.0,984,no smoking,enabled,no smoking
+0h_07m_11s_644ms,431644,1.6,1.9,2.1,2.2,273.0,1.0,990,no smoking,enabled,no smoking
+0h_07m_12s_653ms,432653,1.7,2.0,2.3,2.4,268.0,1.0,997,no smoking,enabled,no smoking
+0h_07m_13s_660ms,433660,1.7,2.0,2.3,2.4,257.0,1.0,1003,no smoking,enabled,no smoking
+0h_07m_14s_668ms,434668,1.7,2.0,2.3,2.4,253.0,1.0,1010,no smoking,enabled,no smoking
+0h_07m_15s_677ms,435677,1.8,2.2,2.4,2.5,253.0,1.0,1017,no smoking,enabled,no smoking
+0h_07m_16s_689ms,436689,1.8,2.2,2.4,2.5,249.0,1.0,1021,no smoking,enabled,no smoking
+0h_07m_17s_698ms,437698,1.8,2.2,2.4,2.5,239.0,1.0,1025,no smoking,enabled,no smoking
+0h_07m_18s_705ms,438705,1.8,2.2,2.4,2.5,228.0,1.0,1029,no smoking,enabled,no smoking
+0h_07m_19s_713ms,439713,1.8,2.2,2.4,2.5,217.0,1.0,1033,no smoking,enabled,no smoking
+0h_07m_20s_722ms,440722,1.9,2.3,2.6,2.7,207.0,1.0,1038,no smoking,enabled,no smoking
+0h_07m_21s_734ms,441734,1.9,2.3,2.6,2.7,197.0,1.0,1037,no smoking,enabled,no smoking
+0h_07m_22s_743ms,442743,2.2,2.6,2.9,3.0,188.0,1.0,1037,no smoking,enabled,no smoking
+0h_07m_23s_750ms,443750,2.6,3.2,3.5,3.6,179.0,1.0,1037,no smoking,enabled,no smoking
+0h_07m_24s_758ms,444758,3.3,4.0,4.4,4.6,170.0,1.0,1037,no smoking,enabled,no smoking
+0h_07m_25s_767ms,445767,3.7,4.4,4.9,5.1,162.0,1.0,1037,no smoking,enabled,no smoking
+0h_07m_26s_774ms,446774,4.5,5.4,5.9,6.2,154.0,1.0,1037,no smoking,enabled,no smoking
+0h_07m_27s_666ms,447666,5.4,6.5,7.2,7.5,147.0,1.0,1037,no smoking,enabled,no smoking
+0h_07m_28s_674ms,448674,5.9,7.1,7.8,8.2,140.0,1.0,1037,no smoking,enabled,no smoking
+0h_07m_29s_682ms,449682,6.4,7.6,8.4,8.8,133.0,1.0,1037,no smoking,enabled,no smoking
+0h_07m_30s_690ms,450690,6.7,8.0,8.9,9.3,127.0,1.0,1037,no smoking,enabled,no smoking
+0h_07m_31s_698ms,451698,7.6,9.1,10.1,10.6,121.0,1.0,1036,no smoking,enabled,no smoking
+0h_07m_32s_706ms,452706,8.1,9.7,10.7,11.2,115.0,1.0,1035,no smoking,enabled,no smoking
+0h_07m_33s_719ms,453719,8.6,10.2,11.3,11.9,110.0,1.0,1034,no smoking,enabled,no smoking
+0h_07m_34s_728ms,454728,9.5,11.3,12.6,13.1,105.0,1.0,1033,no smoking,enabled,no smoking
+0h_07m_35s_736ms,455736,10.5,12.6,13.9,14.6,100.0,1.0,1033,no smoking,enabled,no smoking
+0h_07m_36s_743ms,456743,11.6,13.8,15.3,16.0,95.0,1.0,1032,no smoking,enabled,no smoking
+0h_07m_37s_751ms,457751,12.0,14.4,15.9,16.7,90.0,1.0,1031,no smoking,enabled,no smoking
+0h_07m_38s_759ms,458759,12.5,15.0,16.6,17.3,86.0,1.0,1031,no smoking,enabled,no smoking
+0h_07m_39s_772ms,459772,13.6,16.3,18.1,18.9,82.0,1.0,1030,no smoking,enabled,no smoking
+0h_07m_40s_780ms,460780,14.2,17.0,18.9,19.8,78.0,1.0,1028,no smoking,enabled,no smoking
+0h_07m_41s_788ms,461788,14.6,17.4,19.3,20.2,74.0,1.0,1027,no smoking,enabled,no smoking
+0h_07m_42s_796ms,462796,14.9,17.9,19.8,20.7,71.0,1.0,1026,no smoking,enabled,no smoking
+0h_07m_43s_805ms,463805,15.2,18.2,20.3,21.2,67.0,1.0,1025,no smoking,enabled,no smoking
+0h_07m_44s_812ms,464812,15.6,18.7,20.7,21.7,64.0,1.0,1024,no smoking,enabled,no smoking
+0h_07m_45s_826ms,465826,15.8,18.9,21.0,22.0,61.0,1.0,1019,no smoking,enabled,no smoking
+0h_07m_46s_835ms,466835,16.1,19.4,21.5,22.5,58.0,1.0,1014,no smoking,enabled,no smoking
+0h_07m_47s_844ms,467844,16.3,19.6,21.8,22.8,55.0,1.0,1010,no smoking,enabled,no smoking
+0h_07m_48s_851ms,468851,16.5,19.9,22.1,23.2,53.0,1.0,1005,no smoking,enabled,no smoking
+0h_07m_49s_859ms,469859,16.7,20.2,22.4,23.5,50.0,1.0,1001,no smoking,enabled,no smoking
+0h_07m_50s_867ms,470867,16.8,20.3,22.5,23.6,48.0,1.0,989,no smoking,enabled,no smoking
+0h_07m_51s_880ms,471880,16.9,20.4,22.7,23.8,46.0,1.0,977,no smoking,enabled,no smoking
+0h_07m_52s_888ms,472888,17.0,20.5,22.8,24.0,44.0,1.0,965,no smoking,enabled,no smoking
+0h_07m_53s_897ms,473897,17.2,20.8,23.1,24.3,42.0,1.0,953,no smoking,enabled,no smoking
+0h_07m_54s_904ms,474904,17.3,20.9,23.3,24.5,40.0,1.0,942,no smoking,enabled,no smoking
+0h_07m_55s_912ms,475912,17.4,21.0,23.5,24.6,38.0,1.0,935,no smoking,enabled,no smoking
+0h_07m_56s_925ms,476925,17.5,21.2,23.6,24.8,36.0,1.0,929,no smoking,enabled,no smoking
+0h_07m_57s_933ms,477933,17.6,21.3,23.8,24.9,34.0,1.0,923,no smoking,enabled,no smoking
+0h_07m_58s_820ms,478820,17.9,21.7,24.2,25.5,33.0,1.0,917,no smoking,enabled,no smoking
+0h_07m_59s_828ms,479828,18.0,21.8,24.4,25.6,31.0,1.0,911,no smoking,enabled,no smoking
+0h_08m_00s_836ms,480836,18.2,22.1,24.7,25.9,30.0,1.0,900,no smoking,enabled,no smoking
+0h_08m_01s_860ms,481860,18.3,22.2,24.8,26.1,28.0,1.0,889,no smoking,enabled,no smoking
+0h_08m_02s_873ms,482873,18.4,22.4,25.1,26.4,27.0,1.0,878,no smoking,enabled,no smoking
+0h_08m_03s_881ms,483881,18.4,22.4,25.1,26.4,26.0,1.0,867,no smoking,enabled,no smoking
+0h_08m_04s_890ms,484890,18.5,22.6,25.3,26.6,25.0,1.0,857,no smoking,enabled,no smoking
+0h_08m_05s_897ms,485897,18.6,22.7,25.4,26.8,23.0,1.0,848,no smoking,enabled,no smoking
+0h_08m_06s_905ms,486905,18.5,22.7,25.4,26.8,22.0,1.0,840,no smoking,enabled,no smoking
+0h_08m_07s_913ms,487913,18.5,22.7,25.4,26.8,21.0,1.0,831,no smoking,enabled,no smoking
+0h_08m_08s_926ms,488926,18.5,22.6,25.4,26.8,20.0,1.0,823,no smoking,enabled,no smoking
+0h_08m_09s_935ms,489935,18.4,22.6,25.4,26.8,19.0,1.0,815,no smoking,enabled,no smoking
+0h_08m_10s_942ms,490942,18.4,22.6,25.4,26.8,19.0,1.0,814,no smoking,enabled,no smoking
+0h_08m_11s_950ms,491950,18.3,22.4,25.3,26.6,18.0,1.0,813,no smoking,enabled,no smoking
+0h_08m_12s_958ms,492958,18.1,22.3,25.1,26.5,17.0,1.0,812,no smoking,enabled,no smoking
+0h_08m_13s_967ms,493967,17.9,22.1,25.0,26.3,16.0,1.0,811,no smoking,enabled,no smoking
+0h_08m_14s_979ms,494979,17.9,22.1,25.0,26.3,15.0,1.0,807,no smoking,enabled,no smoking
+0h_08m_15s_988ms,495988,17.8,21.9,24.8,26.2,15.0,1.0,803,no smoking,enabled,no smoking
+0h_08m_16s_995ms,496995,17.6,21.8,24.6,26.0,14.0,1.0,799,no smoking,enabled,no smoking
+0h_08m_18s_003ms,498003,17.6,21.8,24.6,26.0,13.0,1.0,795,no smoking,enabled,no smoking
+0h_08m_19s_011ms,499011,17.4,21.6,24.5,25.9,13.0,1.0,791,no smoking,enabled,no smoking
+0h_08m_20s_019ms,500019,17.3,21.5,24.3,25.7,12.0,1.0,791,no smoking,enabled,no smoking
+0h_08m_21s_033ms,501033,17.1,21.3,24.2,25.5,12.0,1.0,791,no smoking,enabled,no smoking
+0h_08m_22s_040ms,502040,17.0,21.1,24.0,25.4,11.0,1.0,791,no smoking,enabled,no smoking
+0h_08m_23s_048ms,503048,16.9,21.0,23.8,25.2,11.0,1.0,791,no smoking,enabled,no smoking
+0h_08m_24s_056ms,504056,16.7,20.8,23.7,25.1,10.0,1.0,792,no smoking,enabled,no smoking
+0h_08m_25s_064ms,505064,16.6,20.7,23.5,24.9,10.0,1.0,787,no smoking,enabled,no smoking
+0h_08m_26s_072ms,506072,16.4,20.5,23.4,24.8,10.0,1.0,782,no smoking,enabled,no smoking
+0h_08m_27s_078ms,507078,16.3,20.4,23.2,24.6,10.0,1.0,777,no smoking,enabled,no smoking
+0h_08m_27s_966ms,507966,16.1,20.2,23.1,24.4,10.0,1.0,772,no smoking,enabled,no smoking
+0h_08m_28s_973ms,508973,16.1,20.2,23.1,24.4,10.0,1.0,767,no smoking,enabled,no smoking
+0h_08m_29s_981ms,509981,15.9,20.1,22.9,24.3,9.0,1.0,763,no smoking,enabled,no smoking
+0h_08m_30s_990ms,510990,15.9,20.0,22.9,24.3,9.0,1.0,759,no smoking,enabled,no smoking
+0h_08m_32s_002ms,512002,15.9,20.0,22.9,24.3,9.0,1.0,755,no smoking,enabled,no smoking
+0h_08m_33s_011ms,513011,15.8,20.0,22.9,24.3,10.0,1.0,751,no smoking,enabled,no smoking
+0h_08m_34s_020ms,514020,15.7,19.9,22.7,24.1,11.0,1.0,748,no smoking,enabled,no smoking
+0h_08m_35s_028ms,515028,15.6,19.8,22.7,24.2,12.0,1.0,743,no smoking,enabled,no smoking
+0h_08m_36s_036ms,516036,15.5,19.7,22.6,24.0,14.0,1.0,738,no smoking,enabled,no smoking
+0h_08m_37s_044ms,517044,15.5,19.7,22.6,24.0,15.0,1.0,733,no smoking,enabled,no smoking
+0h_08m_38s_057ms,518057,15.3,19.5,22.4,23.9,17.0,1.0,728,no smoking,enabled,no smoking
+0h_08m_39s_065ms,519065,15.3,19.5,22.4,23.9,17.0,1.0,723,no smoking,enabled,no smoking
+0h_08m_40s_074ms,520074,15.1,19.3,22.3,23.7,18.0,1.0,717,no smoking,enabled,no smoking
+0h_08m_41s_081ms,521081,15.0,19.2,22.1,23.6,19.0,1.0,711,no smoking,enabled,no smoking
+0h_08m_42s_089ms,522089,14.9,19.0,22.0,23.4,20.0,1.0,705,no smoking,enabled,no smoking
+0h_08m_43s_097ms,523097,14.8,19.0,22.0,23.4,21.0,1.0,699,smoking,enabled,no smoking
+0h_08m_44s_110ms,524110,14.7,18.9,21.8,23.2,22.0,1.0,697,smoking,enabled,no smoking
+0h_08m_45s_119ms,525119,14.5,18.7,21.6,23.1,22.0,1.0,695,smoking,enabled,no smoking
+0h_08m_46s_126ms,526126,14.5,18.7,21.6,23.1,23.0,1.0,694,smoking,enabled,no smoking
+0h_08m_47s_134ms,527134,14.4,18.5,21.5,22.9,24.0,1.0,692,smoking,enabled,smoking
+0h_08m_48s_143ms,528143,14.3,18.5,21.5,22.9,24.0,1.0,691,smoking,enabled,smoking
+0h_08m_49s_150ms,529150,14.2,18.4,21.3,22.8,25.0,1.0,690,smoking,enabled,smoking
+0h_08m_50s_162ms,530162,14.1,18.3,21.3,22.8,26.0,1.0,689,smoking,enabled,smoking
+0h_08m_51s_171ms,531171,14.0,18.2,21.2,22.6,27.0,1.0,689,smoking,enabled,smoking
+0h_08m_52s_178ms,532178,13.9,18.1,21.0,22.5,28.0,1.0,688,smoking,enabled,smoking
+0h_08m_53s_186ms,533186,13.8,18.0,21.0,22.5,28.0,1.0,688,smoking,enabled,smoking
+0h_08m_54s_195ms,534195,13.7,17.9,20.9,22.3,28.0,1.0,686,smoking,enabled,smoking
+0h_08m_55s_202ms,535202,13.7,17.9,20.9,22.3,28.0,1.0,684,smoking,enabled,smoking
+0h_08m_56s_216ms,536216,13.5,17.7,20.7,22.2,28.0,1.0,682,smoking,enabled,smoking
+0h_08m_57s_223ms,537223,13.4,17.6,20.6,22.0,28.0,1.0,680,smoking,enabled,smoking
+0h_08m_58s_231ms,538231,13.3,17.4,20.4,21.8,29.0,1.0,679,smoking,enabled,smoking
+0h_08m_59s_240ms,539240,13.1,17.3,20.2,21.7,30.0,1.0,676,smoking,enabled,smoking
+0h_09m_00s_247ms,540247,13.0,17.1,20.1,21.5,31.0,1.0,674,smoking,enabled,smoking
+0h_09m_01s_134ms,541134,12.9,17.0,19.9,21.4,32.0,1.0,672,smoking,enabled,smoking
+0h_09m_02s_142ms,542142,12.7,16.8,19.8,21.2,33.0,1.0,670,smoking,enabled,smoking
+0h_09m_03s_155ms,543155,12.7,16.8,19.8,21.2,34.0,1.0,668,smoking,enabled,smoking
+0h_09m_04s_163ms,544163,12.6,16.7,19.6,21.1,35.0,1.0,661,smoking,enabled,smoking
+0h_09m_05s_172ms,545172,12.5,16.6,19.6,21.1,35.0,1.0,655,smoking,enabled,smoking
+0h_09m_06s_179ms,546179,12.4,16.5,19.5,20.9,35.0,1.0,649,smoking,enabled,smoking
+0h_09m_07s_187ms,547187,12.4,16.5,19.5,20.9,36.0,1.0,643,smoking,enabled,smoking
+0h_09m_08s_196ms,548196,12.2,16.4,19.3,20.8,36.0,1.0,637,smoking,enabled,smoking
+0h_09m_09s_208ms,549208,12.1,16.2,19.2,20.6,35.0,1.0,636,smoking,enabled,smoking
+0h_09m_10s_217ms,550217,12.0,16.1,19.0,20.4,36.0,1.0,635,smoking,enabled,smoking
+0h_09m_11s_224ms,551224,12.0,16.1,19.0,20.4,37.0,1.0,635,smoking,enabled,smoking
+0h_09m_12s_232ms,552232,11.9,15.9,18.8,20.3,37.0,1.0,634,smoking,enabled,smoking
+0h_09m_13s_241ms,553241,11.7,15.8,18.7,20.1,37.0,1.0,626,smoking,enabled,smoking
+0h_09m_14s_248ms,554248,11.7,15.7,18.7,20.1,36.0,1.0,619,smoking,enabled,smoking
+0h_09m_15s_262ms,555262,11.6,15.6,18.5,20.0,36.0,1.0,612,smoking,enabled,smoking
+0h_09m_16s_269ms,556269,11.5,15.6,18.5,20.0,35.0,1.0,605,smoking,enabled,smoking
+0h_09m_17s_277ms,557277,11.4,15.4,18.4,19.8,34.0,1.0,598,smoking,enabled,smoking
+0h_09m_18s_286ms,558286,11.4,15.4,18.4,19.8,33.0,1.0,597,smoking,enabled,smoking
+0h_09m_19s_293ms,559293,11.3,15.3,18.2,19.6,32.0,1.0,597,smoking,enabled,smoking
+0h_09m_20s_301ms,560301,11.1,15.1,18.1,19.5,32.0,1.0,596,smoking,enabled,smoking
+0h_09m_21s_314ms,561314,11.0,15.0,17.9,19.3,33.0,1.0,596,smoking,enabled,smoking
+0h_09m_22s_322ms,562322,10.9,14.9,17.8,19.2,33.0,1.0,596,smoking,enabled,smoking
+0h_09m_23s_330ms,563330,10.8,14.7,17.6,19.0,33.0,1.0,595,smoking,enabled,smoking
+0h_09m_24s_339ms,564339,10.7,14.7,17.6,19.0,34.0,1.0,594,smoking,enabled,smoking
+0h_09m_25s_346ms,565346,10.6,14.6,17.5,18.9,35.0,1.0,594,smoking,enabled,smoking
+0h_09m_26s_354ms,566354,10.4,14.3,17.1,18.5,36.0,1.0,593,smoking,enabled,smoking
+0h_09m_27s_363ms,567363,10.3,14.2,17.0,18.4,37.0,1.0,593,smoking,enabled,smoking
+0h_09m_28s_375ms,568375,10.3,14.2,17.0,18.4,39.0,1.0,592,smoking,enabled,smoking
+0h_09m_29s_383ms,569383,10.2,14.0,16.8,18.2,41.0,1.0,591,smoking,enabled,smoking
+0h_09m_30s_392ms,570392,10.0,13.7,16.5,17.9,43.0,1.0,590,smoking,enabled,no smoking
+0h_09m_31s_399ms,571399,9.8,13.6,16.4,17.7,44.0,1.0,589,smoking,enabled,no smoking
+0h_09m_32s_407ms,572407,9.8,13.6,16.4,17.7,45.0,1.0,589,smoking,enabled,no smoking
+0h_09m_33s_416ms,573416,9.7,13.5,16.2,17.6,46.0,1.0,587,smoking,enabled,no smoking
+0h_09m_34s_307ms,574307,9.6,13.3,16.1,17.4,47.0,1.0,585,smoking,enabled,no smoking
+0h_09m_35s_315ms,575315,9.5,13.2,15.9,17.2,47.0,1.0,583,smoking,enabled,no smoking
+0h_09m_36s_323ms,576323,9.4,13.1,15.8,17.1,46.0,1.0,581,smoking,enabled,no smoking
+0h_09m_37s_331ms,577331,9.3,12.9,15.6,16.9,45.0,1.0,580,smoking,enabled,no smoking
+0h_09m_38s_340ms,578340,9.1,12.8,15.5,16.7,44.0,1.0,579,smoking,enabled,no smoking
+0h_09m_39s_347ms,579347,9.1,12.8,15.5,16.8,44.0,1.0,579,smoking,enabled,no smoking
+0h_09m_40s_359ms,580359,9.0,12.6,15.3,16.6,45.0,1.0,578,smoking,enabled,no smoking
+0h_09m_41s_367ms,581367,9.0,12.6,15.3,16.6,45.0,1.0,578,smoking,enabled,no smoking
+0h_09m_42s_375ms,582375,8.9,12.5,15.1,16.4,46.0,1.0,578,smoking,enabled,no smoking
+0h_09m_43s_383ms,583383,8.8,12.3,15.0,16.3,46.0,1.0,577,smoking,enabled,no smoking
+0h_09m_44s_392ms,584392,8.8,12.3,15.0,16.3,47.0,1.0,577,smoking,enabled,no smoking
+0h_09m_45s_399ms,585399,8.8,12.3,15.0,16.3,46.0,1.0,576,smoking,enabled,no smoking
+0h_09m_46s_411ms,586411,8.7,12.2,14.8,16.1,46.0,1.0,576,smoking,enabled,no smoking
+0h_09m_47s_419ms,587419,8.6,12.2,14.8,16.1,46.0,1.0,575,smoking,enabled,no smoking
+0h_09m_48s_427ms,588427,8.5,12.1,14.7,16.0,46.0,1.0,574,smoking,enabled,no smoking
+0h_09m_49s_435ms,589435,8.5,12.1,14.7,16.0,46.0,1.0,574,smoking,enabled,no smoking
+0h_09m_50s_444ms,590444,8.5,12.0,14.7,16.0,46.0,1.0,573,smoking,enabled,no smoking
+0h_09m_51s_451ms,591451,8.4,11.9,14.5,15.8,46.0,1.0,573,smoking,enabled,no smoking
+0h_09m_52s_462ms,592462,8.4,11.9,14.5,15.8,45.0,1.0,572,smoking,enabled,no smoking
+0h_09m_53s_469ms,593469,8.4,11.9,14.5,15.8,45.0,1.0,571,smoking,enabled,no smoking
+0h_09m_54s_476ms,594476,8.4,11.9,14.5,15.8,45.0,1.0,571,smoking,enabled,no smoking
+0h_09m_55s_482ms,595482,8.3,11.9,14.5,15.8,44.0,1.0,570,smoking,enabled,no smoking
+0h_09m_56s_489ms,596489,8.3,11.9,14.5,15.8,43.0,1.0,570,smoking,enabled,no smoking
+0h_09m_57s_495ms,597495,8.3,11.9,14.5,15.8,42.0,1.0,569,smoking,enabled,no smoking
+0h_09m_58s_521ms,598521,8.3,11.9,14.5,15.8,40.0,1.0,568,smoking,enabled,no smoking
+0h_09m_59s_528ms,599528,8.3,11.9,14.5,15.8,39.0,1.0,567,smoking,enabled,no smoking
+0h_10m_00s_535ms,600535,8.3,11.8,14.5,15.8,37.0,1.0,566,smoking,enabled,smoking
+0h_10m_01s_542ms,601542,8.2,11.8,14.5,15.8,36.0,1.0,566,smoking,enabled,smoking
+0h_10m_02s_549ms,602549,8.2,11.8,14.5,15.8,35.0,1.0,565,smoking,enabled,smoking
+0h_10m_03s_556ms,603556,8.3,11.9,14.7,16.0,34.0,1.0,564,smoking,enabled,smoking
+0h_10m_04s_568ms,604568,8.3,11.9,14.7,16.0,33.0,1.0,563,smoking,enabled,smoking
+0h_10m_05s_576ms,605576,8.3,11.9,14.7,16.0,33.0,1.0,562,smoking,enabled,smoking
+0h_10m_06s_584ms,606584,8.3,11.9,14.7,16.0,32.0,1.0,561,smoking,enabled,smoking
+0h_10m_07s_471ms,607471,8.1,11.8,14.5,15.8,31.0,1.0,561,smoking,enabled,smoking
+0h_10m_08s_479ms,608479,8.1,11.8,14.5,15.8,30.0,1.0,561,smoking,enabled,smoking
+0h_10m_09s_487ms,609487,8.1,11.8,14.5,15.8,29.0,1.0,561,smoking,enabled,smoking
+0h_10m_10s_496ms,610496,8.0,11.6,14.4,15.7,28.0,1.0,561,smoking,enabled,smoking
+0h_10m_11s_508ms,611508,8.0,11.6,14.4,15.7,27.0,1.0,562,smoking,enabled,smoking
+0h_10m_12s_517ms,612517,7.9,11.5,14.2,15.5,26.0,1.0,561,smoking,enabled,smoking
+0h_10m_13s_524ms,613524,7.9,11.5,14.2,15.5,25.0,1.0,560,smoking,enabled,smoking
+0h_10m_14s_532ms,614532,7.9,11.5,14.2,15.5,24.0,1.0,560,smoking,enabled,smoking
+0h_10m_15s_541ms,615541,7.9,11.5,14.2,15.5,23.0,1.0,559,smoking,enabled,smoking
+0h_10m_16s_548ms,616548,7.8,11.5,14.2,15.5,22.0,1.0,558,smoking,enabled,smoking
+0h_10m_17s_560ms,617560,7.8,11.5,14.2,15.5,21.0,1.0,557,smoking,enabled,smoking
+0h_10m_18s_568ms,618568,7.8,11.5,14.2,15.5,20.0,1.0,557,smoking,enabled,smoking
+0h_10m_19s_575ms,619575,7.8,11.5,14.2,15.5,19.0,1.0,556,smoking,enabled,smoking
+0h_10m_20s_583ms,620583,7.8,11.4,14.2,15.5,18.0,1.0,556,smoking,enabled,smoking
+0h_10m_21s_591ms,621591,7.7,11.3,14.0,15.3,17.0,1.0,555,smoking,enabled,smoking
+0h_10m_22s_599ms,622599,7.7,11.3,14.0,15.3,16.0,1.0,555,smoking,enabled,smoking
+0h_10m_23s_612ms,623612,7.7,11.3,14.0,15.4,16.0,1.0,554,smoking,enabled,smoking
+0h_10m_24s_620ms,624620,7.7,11.3,14.0,15.4,15.0,1.0,554,smoking,enabled,smoking
+0h_10m_25s_629ms,625629,7.7,11.3,14.0,15.4,14.0,1.0,554,smoking,enabled,smoking
+0h_10m_26s_636ms,626636,7.5,11.2,13.9,15.2,14.0,1.0,553,smoking,enabled,smoking
+0h_10m_27s_644ms,627644,7.5,11.2,13.9,15.2,13.0,1.0,553,smoking,enabled,smoking
+0h_10m_28s_653ms,628653,7.5,11.2,13.9,15.2,13.0,1.0,552,smoking,enabled,smoking
+0h_10m_29s_660ms,629660,7.4,11.0,13.7,15.0,13.0,1.0,552,smoking,enabled,smoking
+0h_10m_30s_674ms,630674,7.3,10.9,13.6,14.9,12.0,1.0,552,smoking,enabled,smoking
+0h_10m_31s_681ms,631681,7.3,10.9,13.6,14.9,12.0,1.0,551,smoking,enabled,smoking
+0h_10m_32s_688ms,632688,7.2,10.8,13.4,14.7,11.0,1.0,551,smoking,enabled,smoking
+0h_10m_33s_696ms,633696,7.2,10.8,13.4,14.7,11.0,1.0,551,smoking,enabled,smoking
+0h_10m_34s_704ms,634704,7.1,10.6,13.3,14.6,11.0,1.0,551,smoking,enabled,smoking
+0h_10m_35s_712ms,635712,7.1,10.6,13.3,14.6,10.0,1.0,551,smoking,enabled,smoking
+0h_10m_36s_725ms,636725,7.1,10.6,13.3,14.6,10.0,1.0,550,smoking,enabled,smoking
+0h_10m_37s_733ms,637733,7.0,10.5,13.1,14.4,9.0,1.0,549,smoking,enabled,smoking
+0h_10m_38s_742ms,638742,6.9,10.4,13.0,14.2,9.0,1.0,548,smoking,enabled,smoking
+0h_10m_39s_749ms,639749,6.9,10.4,13.0,14.2,10.0,1.0,547,smoking,enabled,smoking
+0h_10m_40s_636ms,640636,6.8,10.2,12.8,14.1,11.0,1.0,547,smoking,enabled,smoking
+0h_10m_41s_644ms,641644,6.8,10.2,12.8,14.1,11.0,1.0,546,smoking,enabled,smoking
+0h_10m_42s_657ms,642657,6.7,10.1,12.6,13.9,12.0,1.0,546,smoking,enabled,smoking
+0h_10m_43s_666ms,643666,6.7,10.1,12.6,13.9,13.0,1.0,546,smoking,enabled,smoking
+0h_10m_44s_673ms,644673,6.7,10.1,12.6,13.9,14.0,1.0,546,smoking,enabled,smoking
+0h_10m_45s_681ms,645681,6.7,10.1,12.6,13.9,15.0,1.0,545,smoking,enabled,smoking
+0h_10m_46s_690ms,646690,6.7,10.1,12.6,13.9,15.0,1.0,545,smoking,enabled,smoking
+0h_10m_47s_697ms,647697,6.7,10.1,12.6,13.9,16.0,1.0,545,smoking,enabled,smoking
+0h_10m_48s_705ms,648705,6.7,10.1,12.6,13.9,16.0,1.0,545,smoking,enabled,smoking
+0h_10m_49s_718ms,649718,6.7,10.1,12.6,13.9,15.0,1.0,545,smoking,enabled,smoking
+0h_10m_50s_726ms,650726,6.7,10.1,12.6,13.9,15.0,1.0,544,smoking,enabled,smoking
+0h_10m_51s_735ms,651735,6.6,10.1,12.6,13.9,14.0,2.0,544,smoking,enabled,smoking
+0h_10m_52s_742ms,652742,6.6,9.9,12.5,13.7,13.0,2.0,543,smoking,enabled,smoking
+0h_10m_53s_750ms,653750,6.5,9.9,12.5,13.7,13.0,2.0,543,smoking,enabled,smoking
+0h_10m_54s_759ms,654759,6.5,9.9,12.5,13.7,12.0,2.0,543,smoking,enabled,smoking
+0h_10m_55s_771ms,655771,6.4,9.8,12.3,13.6,12.0,2.0,542,smoking,enabled,smoking
+0h_10m_56s_780ms,656780,6.4,9.8,12.3,13.6,11.0,2.0,542,smoking,enabled,smoking
+0h_10m_57s_787ms,657787,6.4,9.8,12.3,13.6,11.0,2.0,541,smoking,enabled,smoking
+0h_10m_58s_795ms,658795,6.4,9.8,12.3,13.6,10.0,2.0,541,smoking,enabled,smoking
+0h_10m_59s_804ms,659804,6.4,9.8,12.3,13.6,10.0,2.0,541,smoking,enabled,smoking
+0h_11m_00s_811ms,660811,6.4,9.8,12.3,13.6,9.0,2.0,540,smoking,enabled,smoking
+0h_11m_01s_825ms,661825,6.4,9.8,12.3,13.6,9.0,2.0,539,smoking,enabled,smoking
+0h_11m_02s_832ms,662832,6.4,9.8,12.3,13.6,8.0,2.0,538,smoking,enabled,smoking
+0h_11m_03s_840ms,663840,6.4,9.8,12.3,13.6,8.0,2.0,537,smoking,enabled,smoking
+0h_11m_04s_847ms,664847,6.4,9.8,12.3,13.6,8.0,2.0,537,smoking,enabled,smoking
+0h_11m_05s_855ms,665855,6.4,9.8,12.3,13.6,7.0,2.0,536,smoking,enabled,smoking
+0h_11m_06s_863ms,666863,6.4,9.9,12.5,13.8,7.0,2.0,535,smoking,enabled,smoking
+0h_11m_07s_871ms,667871,6.4,9.9,12.5,13.8,8.0,2.0,535,smoking,enabled,smoking
+0h_11m_08s_884ms,668884,6.4,9.9,12.5,13.8,8.0,2.0,534,smoking,enabled,smoking
+0h_11m_09s_892ms,669892,6.4,9.9,12.5,13.8,9.0,2.0,534,smoking,enabled,smoking
+0h_11m_10s_901ms,670901,6.4,9.9,12.5,13.8,9.0,2.0,533,smoking,enabled,smoking
+0h_11m_11s_908ms,671908,6.4,9.8,12.5,13.8,10.0,2.0,532,smoking,enabled,smoking
+0h_11m_12s_795ms,672795,6.4,9.8,12.5,13.8,11.0,2.0,532,smoking,enabled,smoking
+0h_11m_13s_803ms,673803,6.4,9.8,12.5,13.8,14.0,2.0,531,smoking,enabled,smoking
+0h_11m_14s_816ms,674816,6.4,9.8,12.5,13.8,17.0,2.0,531,smoking,enabled,smoking
+0h_11m_15s_824ms,675824,6.4,9.8,12.5,13.8,20.0,2.0,530,smoking,enabled,smoking
+0h_11m_16s_832ms,676832,6.3,9.8,12.5,13.8,23.0,2.0,530,smoking,enabled,smoking
+0h_11m_17s_840ms,677840,6.3,9.8,12.5,13.8,25.0,2.0,530,smoking,enabled,smoking
+0h_11m_18s_849ms,678849,6.3,9.8,12.5,13.8,27.0,2.0,530,smoking,enabled,smoking
+0h_11m_19s_856ms,679856,6.3,9.8,12.5,13.8,28.0,2.0,529,smoking,enabled,smoking
+0h_11m_20s_864ms,680864,6.3,9.8,12.5,13.8,30.0,2.0,528,smoking,enabled,smoking
+0h_11m_21s_877ms,681877,6.3,9.8,12.5,13.8,31.0,2.0,528,smoking,enabled,smoking
+0h_11m_22s_885ms,682885,6.4,9.9,12.6,13.9,33.0,2.0,527,smoking,enabled,smoking
+0h_11m_23s_893ms,683893,6.4,9.9,12.6,13.9,34.0,2.0,527,smoking,enabled,smoking
+0h_11m_24s_901ms,684901,6.5,10.1,12.9,14.3,37.0,2.0,526,smoking,enabled,smoking
+0h_11m_25s_909ms,685909,6.6,10.3,13.1,14.5,38.0,2.0,526,smoking,enabled,smoking
+0h_11m_26s_917ms,686917,6.6,10.3,13.1,14.5,41.0,2.0,525,smoking,enabled,smoking
+0h_11m_27s_930ms,687930,6.6,10.4,13.2,14.6,43.0,2.0,525,smoking,enabled,smoking
+0h_11m_28s_938ms,688938,6.6,10.4,13.2,14.6,46.0,2.0,525,smoking,enabled,smoking
+0h_11m_29s_946ms,689946,6.7,10.5,13.4,14.8,47.0,2.0,524,smoking,enabled,smoking
+0h_11m_30s_954ms,690954,6.7,10.6,13.5,15.0,48.0,2.0,523,smoking,enabled,smoking
+0h_11m_31s_962ms,691962,6.7,10.6,13.5,15.0,48.0,2.0,523,smoking,enabled,smoking
+0h_11m_32s_971ms,692971,6.7,10.6,13.5,15.0,48.0,2.0,522,smoking,enabled,smoking
+0h_11m_33s_983ms,693983,6.8,10.7,13.7,15.1,47.0,2.0,522,smoking,enabled,smoking
+0h_11m_34s_992ms,694992,6.8,10.7,13.7,15.1,47.0,2.0,522,smoking,enabled,smoking
+0h_11m_35s_999ms,695999,6.8,10.8,13.8,15.3,46.0,2.0,522,smoking,enabled,smoking
+0h_11m_37s_007ms,697007,6.8,10.8,13.8,15.3,46.0,2.0,522,smoking,enabled,smoking
+0h_11m_38s_016ms,698016,7.0,11.0,14.1,15.6,45.0,2.0,522,smoking,enabled,smoking
+0h_11m_39s_023ms,699023,7.0,11.0,14.1,15.6,44.0,2.0,523,smoking,enabled,smoking
+0h_11m_40s_031ms,700031,7.0,11.1,14.3,15.8,43.0,2.0,522,smoking,enabled,smoking
+0h_11m_41s_044ms,701044,7.0,11.1,14.3,15.8,42.0,2.0,522,smoking,enabled,smoking
+0h_11m_42s_052ms,702052,7.1,11.2,14.4,16.0,41.0,2.0,521,smoking,enabled,smoking
+0h_11m_43s_061ms,703061,7.1,11.2,14.4,16.0,40.0,2.0,521,smoking,enabled,smoking
+0h_11m_44s_068ms,704068,7.1,11.2,14.4,16.0,40.0,2.0,521,smoking,enabled,smoking
+0h_11m_44s_955ms,704955,7.1,11.3,14.6,16.1,39.0,2.0,521,smoking,enabled,smoking
+0h_11m_45s_964ms,705964,7.1,11.3,14.6,16.1,38.0,2.0,521,smoking,enabled,smoking
+0h_11m_46s_976ms,706976,7.1,11.3,14.6,16.1,38.0,2.0,521,smoking,enabled,smoking
+0h_11m_47s_985ms,707985,7.1,11.3,14.6,16.1,38.0,2.0,521,smoking,enabled,smoking
+0h_11m_48s_992ms,708992,7.1,11.3,14.6,16.1,38.0,2.0,520,smoking,enabled,smoking
+0h_11m_50s_000ms,710000,7.1,11.3,14.6,16.1,39.0,2.0,520,smoking,enabled,smoking
+0h_11m_51s_009ms,711009,7.0,11.3,14.6,16.2,40.0,2.0,520,smoking,enabled,smoking
+0h_11m_52s_016ms,712016,7.0,11.3,14.6,16.2,40.0,2.0,520,smoking,enabled,smoking
+0h_11m_53s_030ms,713030,7.0,11.3,14.6,16.2,39.0,2.0,520,smoking,enabled,smoking
+0h_11m_54s_037ms,714037,7.0,11.3,14.6,16.2,38.0,2.0,519,smoking,enabled,smoking
+0h_11m_55s_045ms,715045,6.9,11.2,14.4,16.0,37.0,2.0,519,smoking,enabled,smoking
+0h_11m_56s_054ms,716054,6.9,11.2,14.4,16.0,36.0,2.0,518,smoking,enabled,smoking
+0h_11m_57s_061ms,717061,6.9,11.2,14.4,16.0,34.0,2.0,518,smoking,enabled,smoking
+0h_11m_58s_099ms,718099,6.8,11.0,14.3,15.8,33.0,2.0,518,smoking,enabled,smoking
+0h_11m_59s_107ms,719107,6.8,11.0,14.3,15.8,31.0,2.0,517,smoking,enabled,smoking
+0h_12m_00s_121ms,720121,6.8,11.0,14.3,15.8,30.0,2.0,517,smoking,enabled,smoking
+0h_12m_01s_128ms,721128,6.8,11.0,14.3,15.8,28.0,2.0,517,smoking,enabled,smoking
+0h_12m_02s_135ms,722135,6.7,10.9,14.1,15.7,27.0,2.0,517,smoking,enabled,smoking
+0h_12m_03s_144ms,723144,6.7,10.9,14.1,15.7,26.0,2.0,517,smoking,enabled,smoking
+0h_12m_04s_151ms,724151,6.7,10.9,14.1,15.7,25.0,2.0,516,smoking,enabled,smoking
+0h_12m_05s_159ms,725159,6.6,10.8,14.0,15.5,23.0,2.0,516,smoking,enabled,smoking
+0h_12m_06s_172ms,726172,6.6,10.8,14.0,15.5,22.0,2.0,516,smoking,enabled,smoking
+0h_12m_07s_180ms,727180,6.6,10.7,14.0,15.5,21.0,2.0,516,smoking,enabled,smoking
+0h_12m_08s_189ms,728189,6.6,10.7,14.0,15.5,20.0,2.0,516,smoking,enabled,smoking
+0h_12m_09s_075ms,729075,6.6,10.7,14.0,15.5,19.0,2.0,516,smoking,enabled,smoking
+0h_12m_10s_083ms,730083,6.5,10.7,14.0,15.5,19.0,2.0,516,smoking,enabled,smoking
+0h_12m_11s_091ms,731091,6.5,10.7,14.0,15.5,18.0,2.0,516,smoking,enabled,smoking
+0h_12m_12s_104ms,732104,6.5,10.7,14.0,15.5,17.0,2.0,516,smoking,enabled,smoking
+0h_12m_13s_112ms,733112,6.5,10.7,14.0,15.5,16.0,2.0,516,smoking,enabled,smoking
+0h_12m_14s_121ms,734121,6.5,10.7,14.0,15.5,16.0,2.0,515,smoking,enabled,smoking
+0h_12m_15s_128ms,735128,6.5,10.7,14.0,15.5,15.0,2.0,515,smoking,enabled,smoking
+0h_12m_16s_136ms,736136,6.5,10.7,14.0,15.5,15.0,2.0,515,smoking,enabled,smoking
+0h_12m_17s_145ms,737145,6.5,10.8,14.1,15.7,15.0,2.0,515,smoking,enabled,smoking
+0h_12m_18s_152ms,738152,6.4,10.7,14.0,15.5,16.0,2.0,515,smoking,enabled,smoking
+0h_12m_19s_164ms,739164,6.4,10.7,13.9,15.5,17.0,2.0,514,smoking,enabled,smoking
+0h_12m_20s_172ms,740172,6.4,10.7,13.9,15.5,18.0,2.0,513,smoking,enabled,smoking
+0h_12m_21s_180ms,741180,6.4,10.6,13.9,15.5,19.0,2.0,513,smoking,enabled,smoking
+0h_12m_22s_189ms,742189,6.4,10.6,13.9,15.6,21.0,2.0,512,smoking,enabled,smoking
+0h_12m_23s_196ms,743196,6.4,10.6,13.9,15.6,23.0,2.0,511,smoking,enabled,smoking
+0h_12m_24s_204ms,744204,6.3,10.6,13.9,15.6,26.0,2.0,511,smoking,enabled,smoking
+0h_12m_25s_217ms,745217,6.3,10.6,13.9,15.6,28.0,2.0,511,smoking,enabled,smoking
+0h_12m_26s_225ms,746225,6.3,10.6,13.9,15.6,31.0,2.0,511,smoking,enabled,smoking
+0h_12m_27s_234ms,747234,6.3,10.6,13.9,15.6,33.0,2.0,511,smoking,enabled,smoking
+0h_12m_28s_241ms,748241,6.4,10.7,14.1,15.7,35.0,2.0,510,smoking,enabled,smoking
+0h_12m_29s_248ms,749248,6.3,10.7,14.1,15.7,36.0,2.0,510,smoking,enabled,smoking
+0h_12m_30s_256ms,750256,6.3,10.7,14.1,15.7,36.0,2.0,510,smoking,enabled,smoking
+0h_12m_31s_270ms,751270,6.3,10.7,14.1,15.7,36.0,2.0,510,smoking,enabled,smoking
+0h_12m_32s_278ms,752278,6.2,10.6,13.9,15.6,35.0,2.0,510,smoking,enabled,smoking
+0h_12m_33s_286ms,753286,6.2,10.6,13.9,15.6,33.0,2.0,509,smoking,enabled,smoking
+0h_12m_34s_294ms,754294,6.3,10.7,14.1,15.7,32.0,2.0,508,smoking,enabled,smoking
+0h_12m_35s_302ms,755302,6.2,10.7,14.1,15.7,30.0,2.0,508,smoking,enabled,smoking
+0h_12m_36s_310ms,756310,6.2,10.6,14.1,15.7,29.0,2.0,507,smoking,enabled,smoking
+0h_12m_37s_317ms,757317,6.2,10.6,14.1,15.7,28.0,2.0,507,smoking,enabled,smoking
+0h_12m_38s_330ms,758330,6.1,10.5,13.9,15.6,27.0,2.0,506,smoking,enabled,smoking
+0h_12m_39s_338ms,759338,6.1,10.5,13.9,15.6,26.0,2.0,505,smoking,enabled,smoking
+0h_12m_40s_347ms,760347,6.1,10.5,13.9,15.6,27.0,2.0,504,smoking,enabled,smoking
+0h_12m_41s_233ms,761233,6.0,10.4,13.8,15.4,27.0,2.0,503,smoking,enabled,smoking
+0h_12m_42s_241ms,762241,6.0,10.4,13.8,15.4,27.0,2.0,503,smoking,enabled,smoking
+0h_12m_43s_250ms,763250,5.9,10.3,13.6,15.3,29.0,2.0,502,smoking,enabled,smoking
+0h_12m_44s_262ms,764262,5.9,10.3,13.6,15.3,31.0,2.0,502,smoking,enabled,smoking
+0h_12m_45s_270ms,765270,5.8,10.1,13.5,15.1,35.0,2.0,502,smoking,enabled,smoking
+0h_12m_46s_277ms,766277,5.8,10.0,13.3,14.9,39.0,2.0,502,smoking,enabled,smoking
+0h_12m_47s_285ms,767285,5.7,10.0,13.3,14.9,43.0,2.0,502,smoking,enabled,smoking
+0h_12m_48s_292ms,768292,5.7,9.9,13.2,14.8,47.0,2.0,502,smoking,enabled,smoking
+0h_12m_49s_300ms,769300,5.6,9.8,13.0,14.6,50.0,2.0,502,smoking,enabled,smoking
+0h_12m_50s_313ms,770313,5.6,9.7,13.0,14.6,52.0,2.0,502,smoking,enabled,smoking
+0h_12m_51s_322ms,771322,5.5,9.6,12.9,14.4,55.0,2.0,502,smoking,enabled,smoking
+0h_12m_52s_329ms,772329,5.5,9.6,12.9,14.4,58.0,2.0,501,smoking,enabled,smoking
+0h_12m_53s_336ms,773336,5.4,9.5,12.7,14.3,60.0,2.0,501,smoking,enabled,smoking
+0h_12m_54s_344ms,774344,5.3,9.4,12.5,14.1,64.0,2.0,501,smoking,enabled,smoking
+0h_12m_55s_352ms,775352,5.2,9.3,12.4,13.9,67.0,2.0,501,smoking,enabled,smoking
+0h_12m_56s_360ms,776360,5.2,9.3,12.4,13.9,70.0,2.0,501,smoking,enabled,smoking
+0h_12m_57s_373ms,777373,5.1,9.1,12.2,13.8,72.0,2.0,501,smoking,enabled,smoking
+0h_12m_58s_381ms,778381,5.1,9.1,12.2,13.8,73.0,2.0,501,smoking,enabled,smoking
+0h_12m_59s_389ms,779389,5.1,9.1,12.2,13.8,72.0,2.0,501,smoking,enabled,smoking
+0h_13m_00s_398ms,780398,5.1,9.1,12.2,13.8,71.0,2.0,501,smoking,enabled,smoking
+0h_13m_01s_405ms,781405,5.1,9.1,12.2,13.8,70.0,2.0,502,smoking,enabled,smoking
+0h_13m_02s_413ms,782413,5.0,9.0,12.1,13.6,67.0,2.0,501,smoking,enabled,no smoking
+0h_13m_03s_426ms,783426,5.0,9.0,12.1,13.6,64.0,2.0,501,smoking,enabled,no smoking
+0h_13m_04s_434ms,784434,4.9,8.9,12.0,13.4,61.0,2.0,500,smoking,enabled,no smoking
+0h_13m_05s_443ms,785443,4.9,8.9,12.0,13.5,58.0,2.0,500,smoking,enabled,no smoking
+0h_13m_06s_450ms,786450,4.9,8.9,12.0,13.5,55.0,2.0,500,smoking,enabled,no smoking
+0h_13m_07s_458ms,787458,4.9,8.9,12.0,13.5,53.0,2.0,500,smoking,enabled,no smoking
+0h_13m_08s_467ms,788467,4.9,8.8,12.0,13.5,50.0,2.0,500,smoking,enabled,no smoking
+0h_13m_09s_479ms,789479,4.9,8.8,12.0,13.5,48.0,2.0,500,smoking,enabled,no smoking
+0h_13m_10s_488ms,790488,4.9,8.8,12.0,13.5,46.0,2.0,500,smoking,enabled,no smoking
+0h_13m_11s_495ms,791495,4.9,8.8,12.0,13.5,44.0,2.0,500,smoking,enabled,no smoking
+0h_13m_12s_503ms,792503,4.8,8.8,12.0,13.5,42.0,2.0,499,smoking,enabled,no smoking
+0h_13m_13s_511ms,793511,4.8,8.8,12.0,13.5,40.0,2.0,498,smoking,enabled,no smoking
+0h_13m_14s_520ms,794520,4.8,8.8,11.9,13.5,38.0,2.0,498,smoking,enabled,no smoking
+0h_13m_15s_410ms,795410,4.8,8.8,11.9,13.5,36.0,2.0,497,smoking,enabled,no smoking
+0h_13m_16s_417ms,796417,4.8,8.8,11.9,13.5,34.0,2.0,497,smoking,enabled,no smoking
+0h_13m_17s_424ms,797424,4.8,8.8,11.9,13.5,33.0,2.0,496,smoking,enabled,no smoking
+0h_13m_18s_431ms,798431,4.8,8.8,11.9,13.5,32.0,2.0,496,smoking,enabled,no smoking
+0h_13m_19s_438ms,799438,4.8,8.8,11.9,13.5,30.0,2.0,495,smoking,enabled,no smoking
+0h_13m_20s_445ms,800445,4.8,8.8,11.9,13.5,29.0,2.0,495,smoking,enabled,no smoking
+0h_13m_21s_451ms,801451,4.7,8.8,11.9,13.5,27.0,2.0,495,smoking,enabled,no smoking
+0h_13m_22s_476ms,802476,4.7,8.8,11.9,13.5,26.0,2.0,495,smoking,enabled,no smoking
+0h_13m_23s_483ms,803483,4.7,8.8,11.9,13.5,25.0,2.0,495,smoking,enabled,no smoking
+0h_13m_24s_491ms,804491,4.7,8.8,11.9,13.5,25.0,2.0,495,smoking,enabled,no smoking
+0h_13m_25s_498ms,805498,4.7,8.8,11.9,13.5,23.0,2.0,495,smoking,enabled,no smoking
+0h_13m_26s_505ms,806505,4.8,8.9,12.1,13.7,22.0,2.0,495,smoking,enabled,no smoking
+0h_13m_27s_512ms,807512,4.7,8.9,12.1,13.7,21.0,2.0,495,smoking,enabled,no smoking
+0h_13m_28s_524ms,808524,4.7,8.8,12.1,13.7,20.0,2.0,495,smoking,enabled,no smoking
+0h_13m_29s_533ms,809533,4.7,8.8,12.1,13.7,19.0,2.0,495,smoking,enabled,no smoking
+0h_13m_30s_540ms,810540,4.7,8.8,12.1,13.7,19.0,2.0,495,smoking,enabled,no smoking
+0h_13m_31s_547ms,811547,4.7,8.8,12.1,13.7,18.0,2.0,494,smoking,enabled,no smoking
+0h_13m_32s_555ms,812555,4.7,8.8,12.1,13.7,19.0,2.0,493,smoking,enabled,no smoking
+0h_13m_33s_563ms,813563,4.7,8.8,12.1,13.7,21.0,2.0,493,smoking,enabled,no smoking
+0h_13m_34s_577ms,814577,4.7,8.9,12.2,13.8,25.0,2.0,492,smoking,enabled,no smoking
+0h_13m_35s_584ms,815584,4.7,8.9,12.2,13.8,29.0,2.0,492,smoking,enabled,no smoking
+0h_13m_36s_592ms,816592,4.7,8.9,12.2,13.8,33.0,2.0,492,smoking,enabled,no smoking
+0h_13m_37s_601ms,817601,4.7,8.9,12.2,13.8,38.0,2.0,492,smoking,enabled,no smoking
+0h_13m_38s_608ms,818608,4.7,8.9,12.2,13.8,43.0,2.0,492,smoking,enabled,no smoking
+0h_13m_39s_615ms,819615,4.7,8.9,12.2,13.8,47.0,2.0,492,smoking,enabled,no smoking
+0h_13m_40s_628ms,820628,4.7,8.9,12.2,13.8,51.0,2.0,492,smoking,enabled,no smoking
+0h_13m_41s_636ms,821636,4.7,9.0,12.4,14.0,55.0,2.0,491,smoking,enabled,no smoking
+0h_13m_42s_644ms,822644,4.7,9.0,12.4,14.0,59.0,2.0,491,smoking,enabled,no smoking
+0h_13m_43s_652ms,823652,4.7,9.0,12.4,14.0,63.0,2.0,490,smoking,enabled,no smoking
+0h_13m_44s_660ms,824660,4.7,9.0,12.4,14.0,67.0,2.0,490,smoking,enabled,no smoking
+0h_13m_45s_669ms,825669,4.7,9.0,12.4,14.0,70.0,2.0,490,smoking,enabled,no smoking
+0h_13m_46s_681ms,826681,4.7,9.0,12.4,14.0,72.0,2.0,490,smoking,enabled,no smoking
+0h_13m_47s_690ms,827690,4.7,9.0,12.4,14.0,75.0,2.0,490,smoking,enabled,no smoking
+0h_13m_48s_576ms,828576,4.6,9.0,12.4,14.0,77.0,2.0,490,smoking,enabled,no smoking
+0h_13m_49s_583ms,829583,4.6,9.0,12.4,14.0,78.0,2.0,490,smoking,enabled,no smoking
+0h_13m_50s_591ms,830591,4.6,9.0,12.4,14.0,78.0,2.0,491,smoking,enabled,no smoking
+0h_13m_51s_600ms,831600,4.6,8.9,12.4,14.0,77.0,2.0,491,smoking,enabled,no smoking
+0h_13m_52s_612ms,832612,4.6,8.9,12.4,14.0,76.0,2.0,491,smoking,enabled,no smoking
+0h_13m_53s_621ms,833621,4.6,8.9,12.4,14.0,74.0,2.0,491,smoking,enabled,no smoking
+0h_13m_54s_628ms,834628,4.5,8.8,12.2,13.9,71.0,2.0,491,smoking,enabled,no smoking
+0h_13m_55s_636ms,835636,4.5,8.8,12.2,13.9,69.0,2.0,490,smoking,enabled,no smoking
+0h_13m_56s_645ms,836645,4.5,8.8,12.2,13.9,66.0,2.0,490,smoking,enabled,no smoking
+0h_13m_57s_652ms,837652,4.5,8.9,12.4,14.0,64.0,2.0,490,smoking,enabled,no smoking
+0h_13m_58s_660ms,838660,4.5,8.9,12.3,14.0,64.0,2.0,490,smoking,enabled,no smoking
+0h_13m_59s_672ms,839672,4.7,9.2,12.8,14.6,65.0,2.0,490,smoking,enabled,no smoking
+0h_14m_00s_680ms,840680,4.8,9.3,12.9,14.7,68.0,2.0,489,smoking,enabled,no smoking
+0h_14m_01s_689ms,841689,4.8,9.5,13.2,15.1,74.0,2.0,488,smoking,enabled,no smoking
+0h_14m_02s_696ms,842696,4.9,9.7,13.4,15.2,81.0,2.0,488,smoking,enabled,smoking
+0h_14m_03s_704ms,843704,4.9,9.7,13.5,15.4,89.0,2.0,487,smoking,enabled,smoking
+0h_14m_04s_713ms,844713,5.0,9.8,13.7,15.6,98.0,2.0,487,smoking,enabled,smoking
+0h_14m_05s_725ms,845725,5.0,10.0,13.8,15.7,105.0,2.0,487,smoking,enabled,smoking
+0h_14m_06s_734ms,846734,5.0,10.0,13.8,15.7,110.0,2.0,487,smoking,enabled,smoking
+0h_14m_07s_741ms,847741,5.1,10.0,14.0,15.9,113.0,2.0,487,smoking,enabled,smoking
+0h_14m_08s_748ms,848748,5.1,10.2,14.1,16.1,114.0,2.0,487,smoking,enabled,smoking
+0h_14m_09s_756ms,849756,5.1,10.2,14.1,16.1,114.0,2.0,487,smoking,enabled,smoking
+0h_14m_10s_764ms,850764,5.1,10.2,14.1,16.1,114.0,2.0,486,smoking,enabled,smoking
+0h_14m_11s_778ms,851778,5.1,10.2,14.3,16.3,113.0,2.0,486,smoking,enabled,smoking
+0h_14m_12s_785ms,852785,5.1,10.2,14.3,16.3,112.0,2.0,486,smoking,enabled,smoking
+0h_14m_13s_792ms,853792,5.1,10.2,14.3,16.3,109.0,2.0,486,smoking,enabled,smoking
+0h_14m_14s_800ms,854800,5.1,10.3,14.4,16.4,104.0,2.0,486,smoking,enabled,smoking
+0h_14m_15s_808ms,855808,5.2,10.4,14.6,16.6,100.0,2.0,486,smoking,enabled,smoking
+0h_14m_16s_815ms,856815,5.2,10.4,14.6,16.6,95.0,2.0,486,smoking,enabled,smoking
+0h_14m_17s_827ms,857827,5.3,10.8,15.0,17.1,91.0,2.0,486,smoking,enabled,smoking
+0h_14m_18s_835ms,858835,5.4,10.8,15.2,17.3,86.0,2.0,486,smoking,enabled,smoking
+0h_14m_19s_842ms,859842,5.4,11.0,15.3,17.5,82.0,2.0,486,smoking,enabled,smoking
+0h_14m_20s_850ms,860850,5.5,11.1,15.5,17.6,78.0,2.0,485,smoking,enabled,smoking
+0h_14m_21s_859ms,861859,5.5,11.2,15.6,17.8,75.0,2.0,485,smoking,enabled,smoking
+0h_14m_22s_866ms,862866,5.5,11.1,15.6,17.8,71.0,2.0,485,smoking,enabled,smoking
+0h_14m_23s_874ms,863874,5.5,11.3,15.8,18.0,68.0,2.0,485,smoking,enabled,smoking
+0h_14m_24s_766ms,864766,5.5,11.3,15.8,18.0,65.0,2.0,484,smoking,enabled,smoking
+0h_14m_25s_774ms,865774,5.6,11.3,15.9,18.2,61.0,2.0,484,smoking,enabled,smoking
+0h_14m_26s_783ms,866783,5.6,11.3,15.9,18.2,59.0,2.0,484,smoking,enabled,smoking
+0h_14m_27s_790ms,867790,5.5,11.3,15.9,18.2,56.0,2.0,484,smoking,enabled,smoking
+0h_14m_28s_798ms,868798,5.5,11.3,15.9,18.2,53.0,2.0,484,smoking,enabled,smoking
+0h_14m_29s_806ms,869806,5.5,11.3,15.9,18.2,51.0,2.0,483,smoking,enabled,smoking
+0h_14m_30s_819ms,870819,5.5,11.3,15.9,18.2,48.0,2.0,483,smoking,enabled,smoking
+0h_14m_31s_827ms,871827,5.5,11.3,15.9,18.2,46.0,2.0,483,smoking,enabled,smoking
+0h_14m_32s_836ms,872836,5.5,11.3,15.9,18.2,44.0,2.0,483,smoking,enabled,smoking
+0h_14m_33s_843ms,873843,5.5,11.3,15.9,18.2,42.0,2.0,483,smoking,enabled,smoking
+0h_14m_34s_851ms,874851,5.5,11.3,15.9,18.2,40.0,2.0,483,smoking,enabled,smoking
+0h_14m_35s_860ms,875860,5.4,11.2,15.8,18.0,38.0,2.0,483,smoking,enabled,smoking
+0h_14m_36s_872ms,876872,5.4,11.2,15.8,18.0,36.0,2.0,484,smoking,enabled,smoking
+0h_14m_37s_881ms,877881,5.4,11.2,15.8,18.0,34.0,2.0,484,smoking,enabled,smoking
+0h_14m_38s_888ms,878888,5.4,11.2,15.8,18.0,33.0,2.0,485,smoking,enabled,smoking
+0h_14m_39s_896ms,879896,5.4,11.3,15.9,18.2,31.0,2.0,484,smoking,enabled,smoking
+0h_14m_40s_905ms,880905,5.4,11.3,15.9,18.2,30.0,2.0,483,smoking,enabled,smoking
+0h_14m_41s_912ms,881912,5.4,11.3,15.9,18.2,28.0,2.0,483,smoking,enabled,smoking
+0h_14m_42s_920ms,882920,5.4,11.3,15.9,18.2,27.0,2.0,482,smoking,enabled,smoking
+0h_14m_43s_933ms,883933,5.4,11.3,15.9,18.2,26.0,2.0,482,smoking,enabled,smoking
+0h_14m_44s_941ms,884941,5.4,11.4,16.1,18.4,25.0,2.0,482,smoking,enabled,smoking
+0h_14m_45s_950ms,885950,5.4,11.4,16.1,18.4,23.0,2.0,482,smoking,enabled,smoking
+0h_14m_46s_957ms,886957,5.4,11.4,16.1,18.4,22.0,2.0,482,smoking,enabled,smoking
+0h_14m_47s_965ms,887965,5.4,11.4,16.1,18.4,21.0,2.0,482,smoking,enabled,smoking
+0h_14m_48s_974ms,888974,5.4,11.4,16.1,18.4,20.0,2.0,482,smoking,enabled,smoking
+0h_14m_49s_986ms,889986,5.4,11.3,16.1,18.4,19.0,2.0,481,smoking,enabled,smoking
+0h_14m_50s_994ms,890994,5.4,11.3,16.1,18.4,18.0,2.0,480,smoking,enabled,smoking
+0h_14m_52s_003ms,892003,5.4,11.3,16.1,18.4,18.0,2.0,480,smoking,enabled,smoking
+0h_14m_53s_010ms,893010,5.4,11.3,16.1,18.4,17.0,2.0,479,smoking,enabled,smoking
+0h_14m_54s_018ms,894018,5.4,11.4,16.2,18.5,16.0,2.0,479,smoking,enabled,smoking
+0h_14m_55s_027ms,895027,5.4,11.3,16.1,18.4,15.0,2.0,479,smoking,enabled,smoking
+0h_14m_56s_039ms,896039,5.4,11.3,16.1,18.4,15.0,2.0,479,smoking,enabled,smoking
+0h_14m_57s_048ms,897048,5.3,11.2,15.9,18.2,14.0,2.0,479,smoking,enabled,smoking
+0h_14m_58s_055ms,898055,5.3,11.2,15.9,18.2,13.0,2.0,479,smoking,enabled,smoking
+0h_14m_59s_063ms,899063,5.3,11.2,15.9,18.2,13.0,2.0,479,smoking,enabled,smoking
+0h_14m_59s_950ms,899950,5.3,11.2,15.9,18.2,12.0,2.0,479,smoking,enabled,smoking
+0h_15m_00s_958ms,900958,5.3,11.2,15.9,18.2,12.0,2.0,479,smoking,enabled,smoking
+0h_15m_01s_965ms,901965,5.3,11.2,15.9,18.2,11.0,2.0,479,smoking,enabled,smoking
+0h_15m_02s_978ms,902978,5.2,11.1,15.8,18.0,10.0,2.0,480,smoking,enabled,smoking
+0h_15m_03s_986ms,903986,5.2,11.1,15.8,18.0,10.0,2.0,480,smoking,enabled,smoking
+0h_15m_04s_995ms,904995,5.2,11.0,15.6,17.8,10.0,2.0,480,smoking,enabled,smoking
+0h_15m_06s_002ms,906002,5.2,11.0,15.6,17.8,9.0,2.0,480,smoking,enabled,smoking
+0h_15m_07s_010ms,907010,5.1,10.9,15.5,17.7,9.0,2.0,480,smoking,enabled,smoking
+0h_15m_08s_019ms,908019,5.1,10.9,15.5,17.7,8.0,2.0,480,smoking,enabled,smoking
+0h_15m_09s_031ms,909031,5.1,10.8,15.3,17.5,8.0,2.0,480,smoking,enabled,smoking
+0h_15m_10s_040ms,910040,5.1,10.8,15.3,17.5,8.0,2.0,480,smoking,enabled,smoking
+0h_15m_11s_047ms,911047,5.0,10.7,15.2,17.3,7.0,2.0,481,smoking,enabled,smoking
+0h_15m_12s_055ms,912055,5.0,10.7,15.2,17.3,7.0,2.0,481,smoking,enabled,smoking
+0h_15m_13s_064ms,913064,5.0,10.6,15.0,17.2,7.0,2.0,482,smoking,enabled,smoking
+0h_15m_14s_071ms,914071,5.0,10.6,15.0,17.2,6.0,2.0,482,smoking,enabled,smoking
+0h_15m_15s_085ms,915085,4.9,10.5,14.9,17.0,6.0,2.0,482,smoking,enabled,smoking
+0h_15m_16s_092ms,916092,4.9,10.4,14.7,16.8,6.0,2.0,483,smoking,enabled,smoking
+0h_15m_17s_100ms,917100,4.8,10.3,14.6,16.6,6.0,2.0,483,smoking,enabled,no smoking
+0h_15m_18s_109ms,918109,4.8,10.2,14.4,16.5,5.0,2.0,484,smoking,enabled,no smoking
+0h_15m_19s_116ms,919116,4.8,10.2,14.4,16.5,5.0,2.0,484,smoking,enabled,no smoking
+0h_15m_20s_123ms,920123,4.7,10.0,14.3,16.3,5.0,2.0,484,smoking,enabled,no smoking
+0h_15m_21s_132ms,921132,4.7,10.0,14.3,16.3,5.0,2.0,484,smoking,enabled,no smoking
+0h_15m_22s_144ms,922144,4.7,9.9,14.1,16.1,5.0,2.0,484,smoking,enabled,no smoking
+0h_15m_23s_152ms,923152,4.6,9.8,14.0,16.0,4.0,2.0,485,smoking,enabled,no smoking
+0h_15m_24s_160ms,924160,4.6,9.8,14.0,16.0,4.0,2.0,485,smoking,enabled,no smoking
+0h_15m_25s_168ms,925168,4.6,9.8,14.0,16.0,4.0,2.0,485,smoking,enabled,no smoking
+0h_15m_26s_175ms,926175,4.6,9.7,13.8,15.8,4.0,2.0,485,smoking,enabled,no smoking
+0h_15m_27s_183ms,927183,4.6,9.7,13.8,15.8,4.0,2.0,485,smoking,enabled,no smoking
+0h_15m_28s_196ms,928196,4.5,9.6,13.7,15.6,3.0,2.0,485,smoking,enabled,no smoking
+0h_15m_29s_205ms,929205,4.5,9.6,13.7,15.6,3.0,2.0,485,smoking,enabled,no smoking
+0h_15m_30s_212ms,930212,4.5,9.6,13.7,15.6,3.0,2.0,485,smoking,enabled,no smoking
+0h_15m_31s_220ms,931220,4.5,9.5,13.5,15.5,3.0,2.0,485,smoking,enabled,no smoking
+0h_15m_32s_229ms,932229,4.5,9.5,13.5,15.5,3.0,2.0,485,smoking,enabled,no smoking
+0h_15m_33s_236ms,933236,4.4,9.4,13.4,15.3,3.0,2.0,484,smoking,enabled,no smoking
+0h_15m_34s_128ms,934128,4.4,9.4,13.4,15.3,3.0,2.0,484,smoking,enabled,no smoking
+0h_15m_35s_136ms,935136,4.4,9.3,13.2,15.1,3.0,2.0,484,smoking,enabled,no smoking
+0h_15m_36s_144ms,936144,4.4,9.3,13.2,15.1,2.0,2.0,484,smoking,enabled,no smoking
+0h_15m_37s_152ms,937152,4.3,9.2,13.1,14.9,2.0,2.0,484,smoking,enabled,no smoking
+0h_15m_38s_161ms,938161,4.3,9.2,13.1,14.9,2.0,2.0,484,smoking,enabled,no smoking
+0h_15m_39s_168ms,939168,4.3,9.1,12.9,14.8,2.0,2.0,484,smoking,enabled,no smoking
+0h_15m_40s_182ms,940182,4.3,9.1,12.9,14.8,2.0,2.0,484,smoking,enabled,no smoking
+0h_15m_41s_189ms,941189,4.3,9.1,12.9,14.8,2.0,2.0,484,smoking,enabled,no smoking
+0h_15m_42s_197ms,942197,4.2,9.0,12.8,14.6,2.0,2.0,485,smoking,enabled,no smoking
+0h_15m_43s_205ms,943205,4.2,9.0,12.8,14.6,2.0,2.0,485,smoking,enabled,no smoking
+0h_15m_44s_214ms,944214,4.2,9.0,12.8,14.6,2.0,2.0,485,smoking,enabled,no smoking
+0h_15m_45s_221ms,945221,4.2,9.0,12.8,14.6,2.0,2.0,485,smoking,enabled,no smoking
+0h_15m_46s_229ms,946229,4.2,8.9,12.6,14.4,2.0,2.0,485,smoking,enabled,no smoking
+0h_15m_47s_242ms,947242,4.1,8.8,12.5,14.3,2.0,2.0,486,smoking,enabled,no smoking
+0h_15m_48s_250ms,948250,4.1,8.8,12.5,14.3,2.0,2.0,485,smoking,enabled,no smoking
+0h_15m_49s_259ms,949259,4.1,8.7,12.3,14.1,2.0,2.0,485,smoking,enabled,no smoking
+0h_15m_50s_266ms,950266,4.1,8.7,12.3,14.1,1.0,2.0,485,smoking,enabled,no smoking
+0h_15m_51s_274ms,951274,4.0,8.6,12.2,13.9,1.0,2.0,485,smoking,enabled,no smoking
+0h_15m_52s_283ms,952283,4.0,8.5,12.0,13.8,1.0,2.0,485,smoking,enabled,no smoking
+0h_15m_53s_295ms,953295,4.0,8.5,12.0,13.8,1.0,2.0,485,smoking,enabled,no smoking
+0h_15m_54s_318ms,954318,4.0,8.5,12.0,13.8,1.0,2.0,485,smoking,enabled,no smoking
+0h_15m_55s_325ms,955325,3.9,8.4,11.9,13.6,1.0,2.0,485,smoking,enabled,no smoking
+0h_15m_56s_942ms,956942,3.9,8.4,11.9,13.6,1.0,2.0,485,smoking,enabled,no smoking
+0h_15m_57s_658ms,957658,3.9,8.3,11.7,13.4,1.0,2.0,485,smoking,enabled,no smoking
+0h_15m_58s_302ms,958302,3.9,8.3,11.7,13.4,1.0,2.0,485,smoking,enabled,no smoking
+0h_15m_59s_314ms,959314,3.9,8.3,11.7,13.4,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_00s_322ms,960322,3.8,8.2,11.6,13.2,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_01s_329ms,961329,3.8,8.2,11.6,13.2,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_02s_337ms,962337,3.8,8.1,11.4,13.1,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_03s_345ms,963345,3.8,8.1,11.4,13.1,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_04s_353ms,964353,3.7,7.9,11.3,12.9,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_05s_366ms,965366,3.7,7.9,11.3,12.9,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_06s_374ms,966374,3.7,7.9,11.3,12.9,1.0,2.0,486,smoking,enabled,no smoking
+0h_16m_07s_382ms,967382,3.7,7.8,11.1,12.7,1.0,2.0,486,smoking,enabled,no smoking
+0h_16m_08s_390ms,968390,3.7,7.8,11.1,12.7,1.0,2.0,486,smoking,enabled,no smoking
+0h_16m_09s_399ms,969399,3.7,7.8,11.1,12.7,1.0,2.0,486,smoking,enabled,no smoking
+0h_16m_10s_406ms,970406,3.7,7.8,11.1,12.7,1.0,2.0,486,smoking,enabled,no smoking
+0h_16m_11s_413ms,971413,3.7,7.8,11.1,12.7,1.0,2.0,487,smoking,enabled,no smoking
+0h_16m_12s_426ms,972426,3.6,7.7,11.0,12.6,1.0,2.0,486,smoking,enabled,no smoking
+0h_16m_13s_434ms,973434,3.6,7.7,11.0,12.6,1.0,2.0,486,smoking,enabled,no smoking
+0h_16m_14s_442ms,974442,3.6,7.7,11.0,12.6,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_15s_451ms,975451,3.6,7.7,11.0,12.6,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_16s_458ms,976458,3.6,7.7,11.0,12.6,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_17s_466ms,977466,3.7,7.8,11.1,12.7,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_18s_358ms,978358,3.7,7.8,11.1,12.7,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_19s_366ms,979366,3.7,7.9,11.3,12.9,1.0,2.0,485,smoking,enabled,no smoking
+0h_16m_20s_374ms,980374,3.8,8.1,11.4,13.1,3.0,2.0,485,smoking,enabled,no smoking
+0h_16m_21s_382ms,981382,3.8,8.2,11.6,13.2,5.0,2.0,485,smoking,enabled,no smoking
+0h_16m_22s_390ms,982390,4.0,8.6,12.2,13.9,7.0,2.0,484,smoking,enabled,no smoking
+0h_16m_23s_398ms,983398,4.2,8.9,12.6,14.4,10.0,2.0,484,smoking,enabled,no smoking
+0h_16m_24s_411ms,984411,4.3,9.1,12.9,14.8,13.0,2.0,483,smoking,enabled,no smoking
+0h_16m_25s_419ms,985419,4.4,9.3,13.2,15.1,16.0,2.0,483,smoking,enabled,no smoking
+0h_16m_26s_428ms,986428,4.5,9.5,13.5,15.5,19.0,2.0,483,smoking,enabled,no smoking
+0h_16m_27s_436ms,987436,4.5,9.6,13.7,15.6,23.0,2.0,482,smoking,enabled,no smoking
+0h_16m_28s_443ms,988443,4.6,9.8,14.0,16.0,27.0,2.0,482,smoking,enabled,no smoking
+0h_16m_29s_451ms,989451,4.7,9.9,14.1,16.1,30.0,2.0,482,smoking,enabled,no smoking
+0h_16m_30s_464ms,990464,4.8,10.2,14.4,16.5,32.0,2.0,482,smoking,enabled,no smoking
+0h_16m_31s_473ms,991473,4.8,10.3,14.6,16.6,35.0,2.0,481,smoking,enabled,no smoking
+0h_16m_32s_480ms,992480,4.9,10.4,14.7,16.8,37.0,2.0,481,smoking,enabled,smoking
+0h_16m_33s_487ms,993487,4.9,10.5,14.9,17.0,39.0,2.0,480,smoking,enabled,smoking
+0h_16m_34s_495ms,994495,4.9,10.5,14.9,17.0,40.0,2.0,480,smoking,enabled,smoking
+0h_16m_35s_503ms,995503,5.0,10.6,15.0,17.2,41.0,2.0,480,smoking,enabled,smoking
+0h_16m_36s_514ms,996514,5.0,10.6,15.0,17.2,42.0,2.0,479,smoking,enabled,smoking
+0h_16m_37s_521ms,997521,5.0,10.6,15.0,17.2,42.0,2.0,479,smoking,enabled,smoking
+0h_16m_38s_528ms,998528,5.0,10.6,15.0,17.2,42.0,2.0,479,smoking,enabled,smoking
+0h_16m_39s_535ms,999535,5.0,10.7,15.2,17.3,41.0,2.0,479,smoking,enabled,smoking
+0h_16m_40s_542ms,1000542,5.0,10.7,15.2,17.3,40.0,2.0,479,smoking,enabled,smoking
+0h_16m_41s_549ms,1001549,5.0,10.7,15.2,17.3,40.0,2.0,479,smoking,enabled,smoking
+0h_16m_42s_556ms,1002556,5.0,10.6,15.0,17.2,39.0,2.0,479,smoking,enabled,smoking
+0h_16m_43s_581ms,1003581,5.0,10.6,15.0,17.2,39.0,2.0,479,smoking,enabled,smoking
+0h_16m_44s_588ms,1004588,5.0,10.6,15.0,17.2,38.0,2.0,479,smoking,enabled,smoking
+0h_16m_45s_595ms,1005595,5.0,10.6,15.0,17.2,36.0,2.0,479,smoking,enabled,smoking
+0h_16m_46s_602ms,1006602,4.9,10.5,14.9,17.0,34.0,2.0,478,smoking,enabled,smoking
+0h_16m_47s_609ms,1007609,4.9,10.5,14.9,17.0,33.0,2.0,478,smoking,enabled,smoking
+0h_16m_48s_616ms,1008616,4.9,10.5,14.9,17.0,32.0,2.0,478,smoking,enabled,smoking
+0h_16m_49s_628ms,1009628,4.9,10.4,14.7,16.8,30.0,2.0,478,smoking,enabled,smoking
+0h_16m_50s_515ms,1010515,4.9,10.4,14.7,16.8,29.0,2.0,478,smoking,enabled,smoking
+0h_16m_51s_522ms,1011522,4.9,10.4,14.7,16.8,28.0,2.0,477,smoking,enabled,smoking
+0h_16m_52s_530ms,1012530,4.8,10.3,14.6,16.6,26.0,2.0,477,smoking,enabled,no smoking
+0h_16m_53s_538ms,1013538,4.8,10.3,14.6,16.6,25.0,2.0,476,smoking,enabled,no smoking
+0h_16m_54s_546ms,1014546,4.8,10.3,14.6,16.6,24.0,2.0,476,smoking,enabled,no smoking
+0h_16m_55s_559ms,1015559,4.8,10.2,14.4,16.5,23.0,2.0,476,smoking,enabled,no smoking
+0h_16m_56s_567ms,1016567,4.8,10.2,14.4,16.5,22.0,2.0,476,smoking,enabled,no smoking
+0h_16m_57s_576ms,1017576,4.8,10.2,14.4,16.5,21.0,2.0,476,smoking,enabled,no smoking
+0h_16m_58s_583ms,1018583,4.8,10.2,14.4,16.5,20.0,2.0,476,smoking,enabled,no smoking
+0h_16m_59s_591ms,1019591,4.8,10.2,14.4,16.5,19.0,2.0,476,smoking,enabled,no smoking
+0h_17m_00s_600ms,1020600,4.8,10.2,14.4,16.5,18.0,2.0,476,smoking,enabled,no smoking
+0h_17m_01s_612ms,1021612,4.8,10.2,14.4,16.5,17.0,2.0,476,no smoking,enabled,no smoking
+0h_17m_02s_620ms,1022620,4.8,10.2,14.4,16.5,17.0,2.0,476,no smoking,enabled,no smoking
+0h_17m_03s_629ms,1023629,4.8,10.2,14.4,16.5,16.0,2.0,476,no smoking,enabled,no smoking
+0h_17m_04s_636ms,1024636,4.8,10.2,14.4,16.5,15.0,2.0,477,no smoking,enabled,no smoking
+0h_17m_05s_644ms,1025644,4.8,10.2,14.4,16.5,15.0,2.0,477,no smoking,enabled,no smoking
+0h_17m_06s_653ms,1026653,4.7,10.0,14.3,16.3,16.0,2.0,477,no smoking,enabled,no smoking
+0h_17m_07s_665ms,1027665,4.7,10.0,14.3,16.3,18.0,2.0,478,no smoking,enabled,no smoking
+0h_17m_08s_674ms,1028674,4.8,10.2,14.4,16.5,22.0,2.0,478,no smoking,enabled,no smoking
+0h_17m_09s_681ms,1029681,4.8,10.2,14.4,16.5,29.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_10s_689ms,1030689,4.8,10.2,14.4,16.5,37.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_11s_697ms,1031697,4.8,10.2,14.4,16.5,46.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_12s_706ms,1032706,4.8,10.2,14.4,16.5,55.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_13s_718ms,1033718,4.7,10.0,14.3,16.3,63.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_14s_725ms,1034725,4.7,10.0,14.3,16.3,70.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_15s_733ms,1035733,4.7,10.0,14.3,16.3,74.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_16s_741ms,1036741,4.7,9.9,14.1,16.1,78.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_17s_749ms,1037749,4.6,9.8,14.0,16.0,79.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_18s_758ms,1038758,4.6,9.8,14.0,16.0,80.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_19s_770ms,1039770,4.6,9.7,13.8,15.8,80.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_20s_779ms,1040779,4.5,9.6,13.7,15.6,80.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_21s_786ms,1041786,4.5,9.5,13.5,15.5,80.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_22s_794ms,1042794,4.5,9.5,13.5,15.5,80.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_23s_803ms,1043803,4.4,9.4,13.4,15.3,80.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_24s_689ms,1044689,4.4,9.4,13.4,15.3,79.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_25s_695ms,1045695,4.4,9.3,13.2,15.1,77.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_26s_702ms,1046702,4.4,9.3,13.2,15.1,75.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_27s_710ms,1047710,4.4,9.3,13.2,15.1,72.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_28s_719ms,1048719,4.3,9.2,13.1,14.9,69.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_29s_726ms,1049726,4.3,9.2,13.1,14.9,66.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_30s_740ms,1050740,4.3,9.1,12.9,14.8,63.0,2.0,481,no smoking,enabled,no smoking
+0h_17m_31s_747ms,1051747,4.3,9.1,12.9,14.8,60.0,2.0,481,no smoking,enabled,no smoking
+0h_17m_32s_755ms,1052755,4.3,9.1,12.9,14.8,57.0,2.0,482,no smoking,enabled,no smoking
+0h_17m_33s_762ms,1053762,4.3,9.1,12.9,14.8,55.0,2.0,483,no smoking,enabled,no smoking
+0h_17m_34s_770ms,1054770,4.2,9.0,12.8,14.6,52.0,2.0,482,no smoking,enabled,no smoking
+0h_17m_35s_778ms,1055778,4.2,9.0,12.8,14.6,50.0,2.0,482,no smoking,enabled,no smoking
+0h_17m_36s_792ms,1056792,4.2,9.0,12.8,14.6,47.0,2.0,481,no smoking,enabled,no smoking
+0h_17m_37s_799ms,1057799,4.2,8.9,12.6,14.4,45.0,2.0,481,no smoking,enabled,no smoking
+0h_17m_38s_807ms,1058807,4.2,8.9,12.6,14.4,43.0,2.0,481,no smoking,enabled,no smoking
+0h_17m_39s_816ms,1059816,4.2,8.9,12.6,14.4,41.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_40s_823ms,1060823,4.2,8.9,12.6,14.4,39.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_41s_831ms,1061831,4.2,8.9,12.6,14.4,37.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_42s_844ms,1062844,4.2,8.9,12.6,14.4,35.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_43s_852ms,1063852,4.1,8.8,12.5,14.3,34.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_44s_861ms,1064861,4.1,8.8,12.5,14.3,32.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_45s_868ms,1065868,4.1,8.8,12.5,14.3,31.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_46s_876ms,1066876,4.1,8.8,12.5,14.3,29.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_47s_884ms,1067884,4.1,8.7,12.3,14.1,28.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_48s_897ms,1068897,4.1,8.7,12.3,14.1,27.0,2.0,480,no smoking,enabled,no smoking
+0h_17m_49s_905ms,1069905,4.1,8.7,12.3,14.1,25.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_50s_914ms,1070914,4.1,8.7,12.3,14.1,24.0,2.0,479,no smoking,enabled,no smoking
+0h_17m_51s_921ms,1071921,4.0,8.6,12.2,13.9,23.0,2.0,478,no smoking,enabled,no smoking
+0h_17m_52s_929ms,1072929,4.0,8.6,12.2,13.9,22.0,2.0,478,no smoking,enabled,no smoking
+0h_17m_53s_938ms,1073938,4.0,8.6,12.2,13.9,21.0,2.0,478,no smoking,enabled,no smoking
+0h_17m_54s_950ms,1074950,4.0,8.6,12.2,13.9,20.0,2.0,477,no smoking,enabled,no smoking
+0h_17m_55s_959ms,1075959,4.1,8.7,12.3,14.1,19.0,2.0,477,no smoking,enabled,no smoking
+0h_17m_56s_966ms,1076966,4.1,8.7,12.3,14.1,18.0,2.0,477,no smoking,enabled,no smoking
+0h_17m_57s_853ms,1077853,4.1,8.8,12.5,14.3,17.0,2.0,477,no smoking,enabled,no smoking
+0h_17m_58s_861ms,1078861,4.1,8.8,12.5,14.3,17.0,2.0,477,no smoking,enabled,no smoking
+0h_17m_59s_870ms,1079870,4.1,8.8,12.5,14.3,16.0,2.0,477,no smoking,enabled,no smoking
+0h_18m_00s_882ms,1080882,4.1,8.8,12.5,14.3,15.0,2.0,477,no smoking,enabled,no smoking
+0h_18m_01s_891ms,1081891,4.1,8.8,12.5,14.3,14.0,2.0,478,no smoking,enabled,no smoking
+0h_18m_02s_898ms,1082898,4.1,8.8,12.5,14.3,14.0,2.0,478,no smoking,enabled,no smoking
+0h_18m_03s_905ms,1083905,4.1,8.8,12.5,14.3,13.0,2.0,478,no smoking,enabled,no smoking
+0h_18m_04s_913ms,1084913,4.1,8.8,12.5,14.3,14.0,2.0,478,no smoking,enabled,no smoking
+0h_18m_05s_921ms,1085921,4.1,8.8,12.5,14.3,18.0,2.0,479,no smoking,enabled,no smoking
+0h_18m_06s_935ms,1086935,4.1,8.7,12.3,14.1,25.0,2.0,479,no smoking,enabled,no smoking
+0h_18m_07s_942ms,1087942,4.1,8.7,12.3,14.1,31.0,2.0,480,no smoking,enabled,no smoking
+0h_18m_08s_950ms,1088950,4.0,8.6,12.2,13.9,37.0,2.0,479,no smoking,enabled,no smoking
+0h_18m_09s_959ms,1089959,4.0,8.5,12.0,13.8,41.0,2.0,479,no smoking,enabled,no smoking
+0h_18m_10s_966ms,1090966,3.9,8.4,11.9,13.6,44.0,2.0,479,no smoking,enabled,no smoking
+0h_18m_11s_974ms,1091974,3.9,8.3,11.7,13.4,45.0,2.0,479,no smoking,enabled,no smoking
+0h_18m_12s_987ms,1092987,3.8,8.2,11.6,13.2,46.0,2.0,479,no smoking,enabled,no smoking
+0h_18m_13s_995ms,1093995,3.7,7.9,11.3,12.9,45.0,2.0,478,no smoking,enabled,no smoking
+0h_18m_15s_003ms,1095003,3.7,7.8,11.1,12.7,43.0,2.0,478,no smoking,enabled,no smoking
+0h_18m_16s_012ms,1096012,3.6,7.7,11.0,12.6,41.0,2.0,478,no smoking,enabled,no smoking
+0h_18m_17s_019ms,1097019,3.5,7.5,10.7,12.2,39.0,2.0,478,no smoking,enabled,no smoking
+0h_18m_18s_032ms,1098032,3.5,7.4,10.5,12.0,37.0,2.0,478,no smoking,enabled,no smoking
+0h_18m_19s_040ms,1099040,3.4,7.3,10.4,11.9,35.0,2.0,478,no smoking,enabled,no smoking
+0h_18m_20s_049ms,1100049,3.3,7.1,10.1,11.5,33.0,2.0,479,no smoking,enabled,no smoking
+0h_18m_21s_056ms,1101056,3.3,7.0,9.9,11.4,32.0,2.0,479,no smoking,enabled,no smoking
+0h_18m_22s_064ms,1102064,3.2,6.9,9.8,11.2,30.0,2.0,480,no smoking,enabled,no smoking
+0h_18m_23s_073ms,1103073,3.1,6.7,9.5,10.9,29.0,2.0,481,no smoking,enabled,no smoking
+0h_18m_24s_085ms,1104085,3.1,6.6,9.3,10.7,28.0,2.0,481,no smoking,enabled,no smoking
+0h_18m_25s_093ms,1105093,3.0,6.5,9.2,10.5,26.0,2.0,481,no smoking,enabled,no smoking
+0h_18m_26s_102ms,1106102,2.9,6.3,8.9,10.2,25.0,2.0,481,no smoking,enabled,no smoking
+0h_18m_27s_109ms,1107109,2.9,6.2,8.8,10.0,24.0,2.0,481,no smoking,enabled,no smoking
+0h_18m_28s_117ms,1108117,2.8,6.1,8.6,9.8,23.0,2.0,482,no smoking,enabled,no smoking
+0h_18m_29s_125ms,1109125,2.8,5.9,8.5,9.7,22.0,2.0,482,no smoking,enabled,no smoking
+0h_18m_30s_017ms,1110017,2.7,5.7,8.2,9.3,23.0,2.0,483,no smoking,enabled,no smoking
+0h_18m_31s_025ms,1111025,2.6,5.6,8.0,9.2,28.0,2.0,484,no smoking,enabled,no smoking
+0h_18m_32s_034ms,1112034,2.6,5.5,7.9,9.0,38.0,2.0,485,no smoking,enabled,no smoking
+0h_18m_33s_041ms,1113041,2.5,5.4,7.7,8.8,51.0,2.0,486,no smoking,enabled,no smoking
+0h_18m_34s_049ms,1114049,2.5,5.3,7.6,8.6,63.0,2.0,487,no smoking,enabled,no smoking
+0h_18m_35s_058ms,1115058,2.4,5.2,7.4,8.5,68.0,2.0,489,no smoking,enabled,no smoking
+0h_18m_36s_070ms,1116070,2.4,5.1,7.3,8.3,69.0,2.0,490,no smoking,enabled,no smoking
+0h_18m_37s_078ms,1117078,2.3,5.0,7.1,8.1,70.0,2.0,492,no smoking,enabled,no smoking
+0h_18m_38s_087ms,1118087,2.2,4.8,6.8,7.8,74.0,2.0,498,no smoking,enabled,no smoking
+0h_18m_39s_094ms,1119094,2.2,4.7,6.7,7.6,79.0,2.0,504,no smoking,enabled,no smoking
+0h_18m_40s_102ms,1120102,2.1,4.6,6.5,7.4,83.0,2.0,510,no smoking,enabled,no smoking
+0h_18m_41s_111ms,1121111,2.1,4.5,6.4,7.3,86.0,2.0,516,no smoking,enabled,no smoking
+0h_18m_42s_123ms,1122123,2.0,4.4,6.2,7.1,88.0,2.0,523,no smoking,enabled,no smoking
+0h_18m_43s_131ms,1123131,2.0,4.3,6.1,6.9,90.0,2.0,539,no smoking,enabled,no smoking
+0h_18m_44s_140ms,1124140,1.9,4.2,5.9,6.8,95.0,2.0,556,no smoking,enabled,no smoking
+0h_18m_45s_147ms,1125147,1.9,4.1,5.8,6.6,106.0,2.0,572,no smoking,enabled,no smoking
+0h_18m_46s_155ms,1126155,1.8,3.9,5.6,6.4,118.0,2.0,589,no smoking,enabled,no smoking
+0h_18m_47s_164ms,1127164,1.8,3.8,5.5,6.3,131.0,2.0,606,no smoking,enabled,no smoking
+0h_18m_48s_176ms,1128176,1.7,3.7,5.3,6.1,142.0,2.0,611,no smoking,enabled,no smoking
+0h_18m_49s_184ms,1129184,1.7,3.6,5.2,5.9,150.0,2.0,617,no smoking,enabled,no smoking
+0h_18m_50s_193ms,1130193,1.6,3.5,5.0,5.7,156.0,2.0,622,no smoking,enabled,no smoking
+0h_18m_51s_200ms,1131200,1.6,3.4,4.9,5.6,158.0,2.0,628,no smoking,enabled,no smoking
+0h_18m_52s_208ms,1132208,1.5,3.3,4.7,5.4,158.0,2.0,634,no smoking,enabled,no smoking
+0h_18m_53s_217ms,1133217,1.5,3.3,4.7,5.4,154.0,2.0,640,no smoking,enabled,no smoking
+0h_18m_54s_229ms,1134229,1.5,3.2,4.6,5.2,151.0,2.0,647,no smoking,enabled,no smoking
+0h_18m_55s_238ms,1135238,1.5,3.2,4.6,5.2,147.0,2.0,654,no smoking,enabled,no smoking
+0h_18m_56s_245ms,1136245,1.5,3.2,4.6,5.2,143.0,2.0,661,no smoking,enabled,no smoking
+0h_18m_57s_253ms,1137253,1.4,3.1,4.4,5.1,140.0,2.0,668,no smoking,enabled,no smoking
+0h_18m_58s_262ms,1138262,1.4,3.1,4.4,5.1,140.0,2.0,669,no smoking,enabled,no smoking
+0h_18m_59s_269ms,1139269,1.4,3.1,4.4,5.1,142.0,2.0,670,no smoking,enabled,no smoking
+0h_19m_00s_283ms,1140283,1.4,3.1,4.4,5.1,145.0,2.0,671,no smoking,enabled,no smoking
+0h_19m_01s_290ms,1141290,1.4,3.1,4.4,5.1,150.0,2.0,672,no smoking,enabled,no smoking
+0h_19m_02s_177ms,1142177,1.4,3.0,4.3,4.9,155.0,2.0,673,no smoking,enabled,no smoking
+0h_19m_03s_185ms,1143185,1.4,3.0,4.3,4.9,160.0,2.0,674,no smoking,enabled,no smoking
+0h_19m_04s_193ms,1144193,1.4,3.0,4.3,4.9,166.0,2.0,675,no smoking,enabled,no smoking
+0h_19m_05s_201ms,1145201,1.4,3.0,4.3,4.9,171.0,2.0,676,no smoking,enabled,no smoking
+0h_19m_06s_214ms,1146214,1.4,3.0,4.3,4.9,177.0,2.0,677,no smoking,enabled,no smoking
+0h_19m_07s_222ms,1147222,1.3,2.9,4.1,4.7,181.0,2.0,677,no smoking,enabled,no smoking
+0h_19m_08s_231ms,1148231,1.3,2.9,4.1,4.7,186.0,2.0,677,no smoking,enabled,no smoking
+0h_19m_09s_238ms,1149238,1.3,2.9,4.1,4.7,191.0,2.0,678,no smoking,enabled,no smoking
+0h_19m_10s_246ms,1150246,1.3,2.9,4.1,4.7,196.0,2.0,678,no smoking,enabled,no smoking
+0h_19m_11s_255ms,1151255,1.3,2.9,4.1,4.7,202.0,2.0,679,no smoking,enabled,no smoking
+0h_19m_12s_267ms,1152267,1.3,2.9,4.1,4.7,209.0,2.0,679,no smoking,enabled,no smoking
+0h_19m_13s_275ms,1153275,1.3,2.8,4.0,4.6,216.0,2.0,680,no smoking,enabled,no smoking
+0h_19m_14s_283ms,1154283,1.3,2.8,4.0,4.6,224.0,2.0,681,no smoking,enabled,no smoking
+0h_19m_15s_291ms,1155291,1.3,2.8,4.0,4.6,233.0,2.0,682,no smoking,enabled,no smoking
+0h_19m_16s_300ms,1156300,1.3,2.8,4.0,4.6,242.0,2.0,683,no smoking,enabled,no smoking
+0h_19m_17s_307ms,1157307,1.3,2.8,4.0,4.6,252.0,2.0,683,no smoking,enabled,no smoking
+0h_19m_18s_320ms,1158320,1.2,2.7,3.8,4.4,262.0,2.0,683,no smoking,enabled,no smoking
+0h_19m_19s_328ms,1159328,1.2,2.7,3.8,4.4,272.0,2.0,684,no smoking,enabled,no smoking
+0h_19m_20s_336ms,1160336,1.2,2.7,3.8,4.4,282.0,2.0,684,no smoking,enabled,no smoking
+0h_19m_21s_345ms,1161345,1.2,2.7,3.8,4.4,291.0,2.0,685,no smoking,enabled,no smoking
+0h_19m_22s_352ms,1162352,1.2,2.7,3.8,4.4,299.0,2.0,685,no smoking,enabled,no smoking
+0h_19m_23s_360ms,1163360,1.2,2.7,3.8,4.4,307.0,2.0,686,no smoking,enabled,no smoking
+0h_19m_24s_373ms,1164373,1.2,2.6,3.7,4.2,314.0,2.0,686,no smoking,enabled,no smoking
+0h_19m_25s_381ms,1165381,1.2,2.6,3.7,4.2,320.0,2.0,687,no smoking,enabled,no smoking
+0h_19m_26s_390ms,1166390,1.2,2.6,3.7,4.2,325.0,2.0,688,no smoking,enabled,no smoking
+0h_19m_27s_397ms,1167397,1.2,2.6,3.7,4.2,330.0,2.0,688,no smoking,enabled,no smoking
+0h_19m_28s_405ms,1168405,1.2,2.6,3.7,4.2,333.0,2.0,689,no smoking,enabled,no smoking
+0h_19m_29s_414ms,1169414,1.2,2.6,3.7,4.2,336.0,2.0,689,no smoking,enabled,no smoking
+0h_19m_30s_426ms,1170426,1.1,2.5,3.5,4.0,338.0,2.0,690,no smoking,enabled,no smoking
+0h_19m_31s_435ms,1171435,1.1,2.5,3.5,4.0,339.0,2.0,691,no smoking,enabled,no smoking
+0h_19m_32s_442ms,1172442,1.1,2.5,3.5,4.0,339.0,2.0,691,no smoking,enabled,no smoking
+0h_19m_33s_450ms,1173450,1.1,2.5,3.5,4.0,339.0,2.0,691,no smoking,enabled,no smoking
+0h_19m_34s_459ms,1174459,1.1,2.5,3.5,4.0,339.0,2.0,692,no smoking,enabled,no smoking
+0h_19m_35s_345ms,1175345,1.1,2.5,3.5,4.0,337.0,2.0,692,no smoking,enabled,no smoking
+0h_19m_36s_357ms,1176357,1.1,2.4,3.4,3.9,336.0,2.0,692,no smoking,enabled,no smoking
+0h_19m_37s_366ms,1177366,1.1,2.4,3.4,3.9,334.0,2.0,693,no smoking,enabled,no smoking
+0h_19m_38s_373ms,1178373,1.1,2.4,3.4,3.9,331.0,2.0,694,no smoking,enabled,no smoking
+0h_19m_39s_381ms,1179381,1.1,2.4,3.4,3.9,328.0,2.0,695,no smoking,enabled,no smoking
+0h_19m_40s_390ms,1180390,1.1,2.4,3.4,3.9,324.0,2.0,696,no smoking,enabled,no smoking
+0h_19m_41s_397ms,1181397,1.0,2.3,3.2,3.7,320.0,2.0,696,no smoking,enabled,no smoking
+0h_19m_42s_411ms,1182411,1.0,2.3,3.2,3.7,317.0,2.0,696,no smoking,enabled,no smoking
+0h_19m_43s_418ms,1183418,1.0,2.3,3.2,3.7,314.0,2.0,696,no smoking,enabled,no smoking
+0h_19m_44s_426ms,1184426,1.0,2.3,3.2,3.7,311.0,2.0,696,no smoking,enabled,no smoking
+0h_19m_45s_435ms,1185435,1.0,2.3,3.2,3.7,308.0,2.0,697,no smoking,enabled,no smoking
+0h_19m_46s_442ms,1186442,1.0,2.2,3.1,3.5,304.0,2.0,697,no smoking,enabled,no smoking
+0h_19m_47s_450ms,1187450,1.0,2.2,3.1,3.5,300.0,2.0,698,no smoking,enabled,no smoking
+0h_19m_48s_462ms,1188462,1.0,2.2,3.1,3.5,296.0,2.0,698,no smoking,enabled,no smoking
+0h_19m_49s_468ms,1189468,1.0,2.2,3.1,3.5,290.0,2.0,699,no smoking,enabled,no smoking
+0h_19m_50s_475ms,1190475,1.0,2.2,3.1,3.5,285.0,2.0,700,no smoking,enabled,no smoking
+0h_19m_51s_512ms,1191512,1.0,2.2,3.1,3.5,280.0,2.0,700,no smoking,enabled,no smoking
+0h_19m_52s_519ms,1192519,1.0,2.2,3.1,3.5,275.0,2.0,700,no smoking,enabled,no smoking
+0h_19m_53s_526ms,1193526,0.9,2.1,2.9,3.4,270.0,2.0,700,no smoking,enabled,no smoking
+0h_19m_54s_552ms,1194552,0.9,2.1,2.9,3.4,264.0,2.0,700,no smoking,enabled,no smoking
+0h_19m_55s_559ms,1195559,0.9,2.1,2.9,3.4,259.0,2.0,701,no smoking,enabled,no smoking
+0h_19m_56s_566ms,1196566,0.9,2.1,2.9,3.4,255.0,2.0,701,no smoking,enabled,no smoking
+0h_19m_57s_573ms,1197573,0.9,2.1,2.9,3.4,250.0,2.0,702,no smoking,enabled,no smoking
+0h_19m_58s_460ms,1198460,0.9,2.1,2.9,3.4,244.0,2.0,702,no smoking,enabled,no smoking
+0h_19m_59s_467ms,1199467,0.9,2.1,2.9,3.4,239.0,2.0,703,no smoking,enabled,no smoking
+0h_20m_00s_479ms,1200479,0.9,2.1,2.9,3.4,234.0,2.0,704,no smoking,enabled,no smoking
+0h_20m_01s_487ms,1201487,0.9,2.1,2.9,3.4,229.0,1.0,704,no smoking,enabled,no smoking
+0h_20m_02s_496ms,1202496,0.9,2.1,2.9,3.4,224.0,1.0,704,no smoking,enabled,no smoking
+0h_20m_03s_503ms,1203503,0.9,1.9,2.8,3.2,220.0,1.0,705,no smoking,enabled,no smoking
+0h_20m_04s_511ms,1204511,0.9,1.9,2.8,3.2,216.0,1.0,705,no smoking,enabled,no smoking
+0h_20m_05s_520ms,1205520,0.9,1.9,2.8,3.2,212.0,1.0,705,no smoking,enabled,no smoking
+0h_20m_06s_532ms,1206532,0.9,1.9,2.8,3.2,208.0,1.0,706,no smoking,enabled,no smoking
+0h_20m_07s_541ms,1207541,0.9,1.9,2.8,3.2,203.0,1.0,707,no smoking,enabled,no smoking
+0h_20m_08s_548ms,1208548,0.9,1.9,2.8,3.2,199.0,1.0,708,no smoking,enabled,no smoking
+0h_20m_09s_555ms,1209555,0.9,1.9,2.8,3.2,195.0,1.0,709,no smoking,enabled,no smoking
+0h_20m_10s_563ms,1210563,0.9,1.9,2.8,3.2,191.0,1.0,709,no smoking,enabled,no smoking
+0h_20m_11s_571ms,1211571,0.9,1.9,2.8,3.2,187.0,1.0,709,no smoking,enabled,no smoking
+0h_20m_12s_584ms,1212584,0.8,1.8,2.6,3.0,184.0,1.0,710,no smoking,enabled,no smoking
+0h_20m_13s_592ms,1213592,0.8,1.8,2.6,3.0,181.0,1.0,710,no smoking,enabled,no smoking
+0h_20m_14s_599ms,1214599,0.8,1.8,2.6,3.0,177.0,1.0,711,no smoking,enabled,no smoking
+0h_20m_15s_607ms,1215607,0.8,1.8,2.6,3.0,173.0,1.0,711,no smoking,enabled,no smoking
+0h_20m_16s_615ms,1216615,0.8,1.8,2.6,3.0,171.0,1.0,711,no smoking,enabled,no smoking
+0h_20m_17s_623ms,1217623,0.8,1.8,2.6,3.0,169.0,1.0,711,no smoking,enabled,no smoking
+0h_20m_18s_636ms,1218636,0.8,1.8,2.6,3.0,166.0,1.0,711,no smoking,enabled,no smoking
+0h_20m_19s_644ms,1219644,0.8,1.8,2.6,3.0,165.0,1.0,711,no smoking,enabled,no smoking
+0h_20m_20s_653ms,1220653,0.8,1.8,2.6,3.0,163.0,1.0,711,no smoking,enabled,no smoking
+0h_20m_21s_661ms,1221661,0.8,1.8,2.6,3.0,161.0,1.0,712,no smoking,enabled,no smoking
+0h_20m_22s_669ms,1222669,0.8,1.7,2.5,2.8,158.0,1.0,712,no smoking,enabled,no smoking
+0h_20m_23s_677ms,1223677,0.8,1.7,2.5,2.8,155.0,1.0,713,no smoking,enabled,no smoking
+0h_20m_24s_690ms,1224690,0.8,1.7,2.5,2.8,152.0,1.0,714,no smoking,enabled,no smoking
+0h_20m_25s_698ms,1225698,0.8,1.7,2.5,2.8,149.0,1.0,714,no smoking,enabled,no smoking
+0h_20m_26s_706ms,1226706,0.8,1.7,2.5,2.8,148.0,1.0,714,no smoking,enabled,no smoking
+0h_20m_27s_715ms,1227715,0.8,1.7,2.5,2.8,147.0,1.0,715,no smoking,enabled,no smoking
+0h_20m_28s_722ms,1228722,0.8,1.7,2.5,2.8,145.0,1.0,715,no smoking,enabled,no smoking
+0h_20m_29s_729ms,1229729,0.7,1.6,2.3,2.7,143.0,1.0,716,no smoking,enabled,no smoking
+0h_20m_30s_742ms,1230742,0.7,1.6,2.3,2.7,141.0,1.0,717,no smoking,enabled,no smoking
+0h_20m_31s_629ms,1231629,0.7,1.6,2.3,2.7,139.0,1.0,718,no smoking,enabled,no smoking
+0h_20m_32s_637ms,1232637,0.7,1.6,2.3,2.7,138.0,1.0,719,no smoking,enabled,no smoking
+0h_20m_33s_645ms,1233645,0.7,1.6,2.3,2.7,137.0,1.0,720,no smoking,enabled,no smoking
+0h_20m_34s_653ms,1234653,0.7,1.6,2.3,2.7,136.0,1.0,721,no smoking,enabled,no smoking
+0h_20m_35s_662ms,1235662,0.7,1.6,2.3,2.7,136.0,1.0,725,no smoking,enabled,no smoking
+0h_20m_36s_674ms,1236674,0.7,1.6,2.3,2.7,135.0,1.0,729,no smoking,enabled,no smoking
+0h_20m_37s_683ms,1237683,0.7,1.6,2.3,2.7,135.0,1.0,734,no smoking,enabled,no smoking
+0h_20m_38s_690ms,1238690,0.7,1.6,2.3,2.7,135.0,1.0,738,no smoking,enabled,no smoking
+0h_20m_39s_698ms,1239698,0.7,1.6,2.3,2.7,134.0,1.0,740,no smoking,enabled,no smoking
+0h_20m_40s_707ms,1240707,0.7,1.6,2.3,2.7,132.0,1.0,743,no smoking,enabled,no smoking
+0h_20m_41s_714ms,1241714,0.7,1.6,2.3,2.7,130.0,1.0,746,no smoking,enabled,no smoking
+0h_20m_42s_727ms,1242727,0.7,1.6,2.3,2.7,126.0,1.0,749,no smoking,enabled,no smoking
+0h_20m_43s_736ms,1243736,0.7,1.6,2.3,2.7,121.0,1.0,752,no smoking,enabled,no smoking
+0h_20m_44s_743ms,1244743,0.7,1.6,2.3,2.7,116.0,1.0,752,no smoking,enabled,no smoking
+0h_20m_45s_751ms,1245751,0.7,1.6,2.3,2.7,111.0,1.0,752,no smoking,enabled,no smoking
+0h_20m_46s_760ms,1246760,0.7,1.6,2.3,2.7,106.0,1.0,753,no smoking,enabled,no smoking
+0h_20m_47s_772ms,1247772,0.7,1.6,2.3,2.7,101.0,1.0,753,no smoking,enabled,no smoking
+0h_20m_48s_780ms,1248780,0.7,1.6,2.3,2.7,96.0,1.0,754,no smoking,enabled,no smoking
+0h_20m_49s_789ms,1249789,0.7,1.5,2.2,2.5,92.0,1.0,755,no smoking,enabled,no smoking
+0h_20m_50s_796ms,1250796,0.7,1.5,2.2,2.5,87.0,1.0,756,no smoking,enabled,no smoking
+0h_20m_51s_804ms,1251804,0.7,1.5,2.2,2.5,83.0,1.0,757,no smoking,enabled,no smoking
+0h_20m_52s_813ms,1252813,0.7,1.5,2.2,2.5,79.0,1.0,758,no smoking,enabled,no smoking
+0h_20m_53s_825ms,1253825,0.7,1.5,2.2,2.5,76.0,1.0,760,no smoking,enabled,no smoking
+0h_20m_54s_833ms,1254833,0.7,1.5,2.2,2.5,72.0,1.0,761,no smoking,enabled,no smoking
+0h_20m_55s_841ms,1255841,0.7,1.5,2.2,2.5,69.0,1.0,762,no smoking,enabled,no smoking
+0h_20m_56s_849ms,1256849,0.7,1.5,2.2,2.5,65.0,1.0,763,no smoking,enabled,no smoking
+0h_20m_57s_858ms,1257858,0.7,1.5,2.2,2.5,62.0,1.0,764,no smoking,enabled,no smoking
+0h_20m_58s_865ms,1258865,0.7,1.5,2.2,2.5,59.0,1.0,766,no smoking,enabled,no smoking
+0h_20m_59s_873ms,1259873,0.7,1.5,2.2,2.5,57.0,1.0,770,no smoking,enabled,no smoking
+0h_21m_00s_879ms,1260879,0.7,1.5,2.2,2.5,54.0,1.0,775,no smoking,enabled,no smoking
+0h_21m_01s_887ms,1261887,0.7,1.5,2.2,2.5,51.0,1.0,780,no smoking,enabled,no smoking
+0h_21m_02s_895ms,1262895,0.7,1.5,2.2,2.5,49.0,1.0,785,no smoking,enabled,no smoking
+0h_21m_03s_904ms,1263904,0.7,1.5,2.2,2.5,47.0,1.0,790,no smoking,enabled,no smoking
+0h_21m_04s_911ms,1264911,0.7,1.5,2.2,2.5,44.0,1.0,790,no smoking,enabled,no smoking
+0h_21m_05s_919ms,1265919,0.7,1.5,2.2,2.5,42.0,1.0,790,no smoking,enabled,no smoking
+0h_21m_06s_811ms,1266811,0.7,1.5,2.2,2.5,40.0,1.0,791,no smoking,enabled,no smoking
+0h_21m_07s_819ms,1267819,0.7,1.5,2.2,2.5,39.0,1.0,791,no smoking,enabled,no smoking
+0h_21m_08s_828ms,1268828,0.7,1.5,2.2,2.5,37.0,1.0,791,no smoking,enabled,no smoking
+0h_21m_09s_835ms,1269835,0.7,1.5,2.2,2.5,35.0,1.0,792,no smoking,enabled,no smoking
+0h_21m_10s_843ms,1270843,0.6,1.4,2.0,2.3,33.0,1.0,792,no smoking,enabled,no smoking
+0h_21m_11s_852ms,1271852,0.6,1.4,2.0,2.3,32.0,1.0,793,no smoking,enabled,no smoking
+0h_21m_12s_864ms,1272864,0.6,1.4,2.0,2.3,30.0,1.0,794,no smoking,enabled,no smoking
+0h_21m_13s_873ms,1273873,0.6,1.4,2.0,2.3,29.0,1.0,794,no smoking,enabled,no smoking
+0h_21m_14s_880ms,1274880,0.6,1.4,2.0,2.3,28.0,1.0,795,no smoking,enabled,no smoking
+0h_21m_15s_888ms,1275888,0.6,1.4,2.0,2.3,26.0,1.0,796,no smoking,enabled,no smoking
+0h_21m_16s_897ms,1276897,0.6,1.4,2.0,2.3,25.0,1.0,797,no smoking,enabled,no smoking
+0h_21m_17s_904ms,1277904,0.6,1.4,2.0,2.3,24.0,1.0,798,no smoking,enabled,no smoking
+0h_21m_18s_918ms,1278918,0.6,1.4,2.0,2.3,23.0,1.0,798,no smoking,enabled,no smoking
+0h_21m_19s_925ms,1279925,0.6,1.4,2.0,2.3,22.0,1.0,799,no smoking,enabled,no smoking
+0h_21m_20s_933ms,1280933,0.6,1.4,2.0,2.3,21.0,1.0,799,no smoking,enabled,no smoking
+0h_21m_21s_942ms,1281942,0.6,1.4,2.0,2.3,20.0,1.0,800,no smoking,enabled,no smoking
+0h_21m_22s_949ms,1282949,0.6,1.4,2.0,2.3,19.0,1.0,801,no smoking,enabled,no smoking
+0h_21m_23s_957ms,1283957,0.6,1.4,2.0,2.3,18.0,1.0,801,no smoking,enabled,no smoking
+0h_21m_24s_970ms,1284970,0.6,1.4,2.0,2.3,17.0,1.0,801,no smoking,enabled,no smoking
+0h_21m_25s_978ms,1285978,0.6,1.4,2.0,2.3,16.0,1.0,801,no smoking,enabled,no smoking
+0h_21m_26s_987ms,1286987,0.6,1.4,2.0,2.3,16.0,1.0,801,no smoking,enabled,no smoking
+0h_21m_27s_994ms,1287994,0.6,1.4,2.0,2.3,15.0,1.0,802,no smoking,enabled,no smoking
+0h_21m_29s_002ms,1289002,0.6,1.4,2.0,2.3,14.0,1.0,802,no smoking,enabled,no smoking
+0h_21m_30s_011ms,1290011,0.6,1.4,2.0,2.3,14.0,1.0,803,no smoking,enabled,no smoking
+0h_21m_31s_023ms,1291023,0.6,1.4,2.0,2.3,13.0,1.0,803,no smoking,enabled,no smoking
+0h_21m_32s_032ms,1292032,0.6,1.4,2.0,2.3,12.0,1.0,804,no smoking,enabled,no smoking
+0h_21m_33s_039ms,1293039,0.6,1.3,1.9,2.2,12.0,1.0,805,no smoking,enabled,no smoking
+0h_21m_34s_047ms,1294047,0.6,1.3,1.9,2.2,11.0,1.0,805,no smoking,enabled,no smoking
+0h_21m_35s_056ms,1295056,0.6,1.3,1.9,2.2,11.0,1.0,805,no smoking,enabled,no smoking
+0h_21m_36s_063ms,1296063,0.6,1.3,1.9,2.2,10.0,1.0,805,no smoking,enabled,no smoking
+0h_21m_36s_955ms,1296955,0.6,1.3,1.9,2.2,10.0,1.0,805,no smoking,enabled,no smoking
+0h_21m_37s_963ms,1297963,0.6,1.3,1.9,2.2,9.0,1.0,806,no smoking,enabled,no smoking
+0h_21m_38s_971ms,1298971,0.6,1.3,1.9,2.2,9.0,1.0,806,no smoking,enabled,no smoking
+0h_21m_39s_980ms,1299980,0.6,1.3,1.9,2.2,9.0,1.0,806,no smoking,enabled,no smoking
+0h_21m_40s_987ms,1300987,0.6,1.3,1.9,2.2,8.0,1.0,806,no smoking,enabled,no smoking
+0h_21m_41s_995ms,1301995,0.6,1.3,1.9,2.2,8.0,1.0,806,no smoking,enabled,no smoking
+0h_21m_43s_008ms,1303008,0.6,1.3,1.9,2.2,8.0,1.0,806,no smoking,enabled,no smoking
+0h_21m_44s_016ms,1304016,0.6,1.3,1.9,2.2,7.0,1.0,806,no smoking,enabled,no smoking
+0h_21m_45s_025ms,1305025,0.6,1.3,1.9,2.2,7.0,1.0,806,no smoking,enabled,no smoking
+0h_21m_46s_032ms,1306032,0.6,1.3,1.9,2.2,7.0,1.0,806,no smoking,enabled,no smoking
+0h_21m_47s_040ms,1307040,0.6,1.3,1.9,2.2,6.0,1.0,807,no smoking,enabled,no smoking
+0h_21m_48s_049ms,1308049,0.6,1.3,1.9,2.2,6.0,1.0,807,no smoking,enabled,no smoking
+0h_21m_49s_061ms,1309061,0.6,1.3,1.9,2.2,6.0,1.0,807,no smoking,enabled,no smoking
+0h_21m_50s_070ms,1310070,0.5,1.2,1.7,2.0,6.0,1.0,807,no smoking,enabled,no smoking
+0h_21m_51s_077ms,1311077,0.5,1.2,1.7,2.0,5.0,1.0,807,no smoking,enabled,no smoking
+0h_21m_52s_085ms,1312085,0.5,1.2,1.7,2.0,5.0,1.0,807,no smoking,enabled,no smoking
+0h_21m_53s_094ms,1313094,0.5,1.2,1.7,2.0,5.0,1.0,807,no smoking,enabled,no smoking
+0h_21m_54s_101ms,1314101,0.5,1.2,1.7,2.0,5.0,1.0,807,no smoking,enabled,no smoking
+0h_21m_55s_115ms,1315115,0.5,1.2,1.7,2.0,5.0,1.0,808,no smoking,enabled,no smoking
+0h_21m_56s_122ms,1316122,0.5,1.2,1.7,2.0,4.0,1.0,808,no smoking,enabled,no smoking
+0h_21m_57s_130ms,1317130,0.5,1.2,1.7,2.0,4.0,1.0,809,no smoking,enabled,no smoking
+0h_21m_58s_139ms,1318139,0.5,1.2,1.7,2.0,4.0,1.0,809,no smoking,enabled,no smoking
+0h_21m_59s_146ms,1319146,0.5,1.2,1.7,2.0,4.0,1.0,809,no smoking,enabled,no smoking
+0h_22m_00s_154ms,1320154,0.5,1.2,1.7,2.0,4.0,1.0,809,no smoking,enabled,no smoking
+0h_22m_01s_167ms,1321167,0.5,1.2,1.7,2.0,4.0,1.0,809,no smoking,enabled,no smoking
+0h_22m_02s_175ms,1322175,0.5,1.2,1.7,2.0,3.0,1.0,810,no smoking,enabled,no smoking
+0h_22m_03s_184ms,1323184,0.5,1.2,1.7,2.0,3.0,1.0,809,no smoking,enabled,no smoking
+0h_22m_04s_191ms,1324191,0.5,1.2,1.7,2.0,3.0,1.0,809,no smoking,enabled,no smoking
+0h_22m_05s_199ms,1325199,0.5,1.2,1.7,2.0,3.0,1.0,808,no smoking,enabled,no smoking
+0h_22m_06s_207ms,1326207,0.5,1.2,1.7,2.0,3.0,1.0,808,no smoking,enabled,no smoking
+0h_22m_07s_220ms,1327220,0.5,1.2,1.7,2.0,3.0,1.0,808,no smoking,enabled,no smoking
+0h_22m_08s_229ms,1328229,0.5,1.2,1.7,2.0,3.0,1.0,809,no smoking,enabled,no smoking
+0h_22m_09s_115ms,1329115,0.5,1.2,1.7,2.0,3.0,1.0,810,no smoking,enabled,no smoking
+0h_22m_10s_123ms,1330123,0.5,1.2,1.7,2.0,2.0,1.0,811,no smoking,enabled,no smoking
+0h_22m_11s_132ms,1331132,0.5,1.2,1.7,2.0,2.0,1.0,812,no smoking,enabled,no smoking
+0h_22m_12s_139ms,1332139,0.5,1.2,1.7,2.0,2.0,1.0,812,no smoking,enabled,no smoking
+0h_22m_13s_153ms,1333153,0.5,1.2,1.7,2.0,2.0,1.0,813,no smoking,enabled,no smoking
+0h_22m_14s_160ms,1334160,0.5,1.2,1.7,2.0,2.0,1.0,813,no smoking,enabled,no smoking
+0h_22m_15s_168ms,1335168,0.5,1.2,1.7,2.0,2.0,1.0,814,no smoking,enabled,no smoking
+0h_22m_16s_177ms,1336177,0.5,1.2,1.7,2.0,2.0,1.0,815,no smoking,enabled,no smoking
+0h_22m_17s_184ms,1337184,0.5,1.2,1.7,2.0,2.0,1.0,815,no smoking,enabled,no smoking
+0h_22m_18s_192ms,1338192,0.5,1.2,1.7,2.0,2.0,1.0,815,no smoking,enabled,no smoking
+0h_22m_19s_205ms,1339205,0.5,1.2,1.7,2.0,2.0,1.0,815,no smoking,enabled,no smoking
+0h_22m_20s_213ms,1340213,0.5,1.2,1.7,2.0,2.0,1.0,815,no smoking,enabled,no smoking
+0h_22m_21s_221ms,1341221,0.5,1.2,1.7,2.0,1.0,1.0,815,no smoking,enabled,no smoking
+0h_22m_22s_230ms,1342230,0.5,1.2,1.7,2.0,1.0,1.0,815,no smoking,enabled,no smoking
+0h_22m_23s_237ms,1343237,0.5,1.2,1.7,2.0,1.0,1.0,815,no smoking,enabled,no smoking
+0h_22m_24s_245ms,1344245,0.5,1.2,1.7,2.0,1.0,1.0,815,no smoking,enabled,no smoking
+0h_22m_25s_258ms,1345258,0.5,1.2,1.7,2.0,1.0,1.0,815,no smoking,enabled,no smoking
+0h_22m_26s_266ms,1346266,0.5,1.2,1.7,2.0,1.0,1.0,815,no smoking,enabled,no smoking
+0h_22m_27s_275ms,1347275,0.5,1.2,1.7,2.0,1.0,1.0,814,no smoking,enabled,no smoking
+0h_22m_28s_282ms,1348282,0.5,1.2,1.7,2.0,1.0,1.0,814,no smoking,enabled,no smoking
+0h_22m_29s_290ms,1349290,0.5,1.2,1.7,2.0,1.0,1.0,814,no smoking,enabled,no smoking
+0h_22m_30s_299ms,1350299,0.5,1.2,1.7,2.0,1.0,1.0,814,no smoking,enabled,no smoking
+0h_22m_31s_311ms,1351311,0.5,1.2,1.7,2.0,1.0,1.0,814,no smoking,enabled,no smoking
+0h_22m_32s_320ms,1352320,0.5,1.2,1.7,2.0,1.0,1.0,813,no smoking,enabled,no smoking
+0h_22m_33s_327ms,1353327,0.5,1.2,1.7,2.0,1.0,1.0,812,no smoking,enabled,no smoking
+0h_22m_34s_334ms,1354334,0.5,1.2,1.7,2.0,1.0,1.0,811,no smoking,enabled,no smoking
+0h_22m_35s_342ms,1355342,0.5,1.2,1.7,2.0,1.0,1.0,810,no smoking,enabled,no smoking
+0h_22m_36s_350ms,1356350,0.5,1.2,1.7,2.0,1.0,1.0,810,no smoking,enabled,no smoking
+0h_22m_37s_358ms,1357358,0.5,1.2,1.7,2.0,1.0,1.0,809,no smoking,enabled,no smoking
+0h_22m_38s_371ms,1358371,0.5,1.2,1.7,2.0,1.0,1.0,808,no smoking,enabled,no smoking
+0h_22m_39s_379ms,1359379,0.5,1.2,1.7,2.0,1.0,1.0,807,no smoking,enabled,no smoking

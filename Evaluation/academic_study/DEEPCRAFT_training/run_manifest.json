@@ -1,0 +1,23 @@
+{
+  "generated_utc": "2026-09-11T08:16:20.514669+00:00",
+  "source_csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\csv_merge\\0408_merge.csv",
+  "source_hash": "10dee5cdaa9e550e19ae90aa0baa39df4737f5b4aa7f2a49be24a6d81c45f8e3",
+  "partition_manifest": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\DT_models\\session_partitions.csv",
+  "partition_hash_before": "27e1e484e59cf65b468a1c563a3da2bfeed08d8cd74dc96dd7bc3b1f26f9fb98",
+  "partition_hash_after": "27e1e484e59cf65b468a1c563a3da2bfeed08d8cd74dc96dd7bc3b1f26f9fb98",
+  "partition_unchanged": true,
+  "dt_outputs_modified": false,
+  "models_retrained": false,
+  "retained_metric_scope": "accuracy, balanced accuracy, Smoking precision/recall/F1, No-Smoking precision/recall/F1, confusion counts, native/common row counts, alignment audit metadata",
+  "removed_metric_scope": "dedicated continuous-session deployment behavior, post-event persistence, operational readiness, extended transition stability, false-positive episode duration reporting",
+  "outputs": {
+    "deepcraft_native_metrics": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\DEEPCRAFT_evaluation\\deepcraft_native_metrics.csv",
+    "five_model_native_comparison": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\DEEPCRAFT_evaluation\\five_model_native_comparison.csv",
+    "five_model_common_subset_comparison": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\DEEPCRAFT_evaluation\\five_model_common_subset_comparison.csv",
+    "five_model_common_subset_rows": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\DEEPCRAFT_evaluation\\five_model_common_subset_rows.csv",
+    "five_model_summary": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\DEEPCRAFT_evaluation\\five_model_summary.csv",
+    "window_alignment_audit": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\DEEPCRAFT_evaluation\\window_alignment_audit.csv",
+    "report_markdown": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\DEEPCRAFT_evaluation\\reports\\five_model_report.md",
+    "report_png": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\DEEPCRAFT_evaluation\\reports\\five_model_metric_summary.png"
+  }
+}

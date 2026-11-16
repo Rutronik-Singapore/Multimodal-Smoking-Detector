@@ -1,0 +1,908 @@
+Predicted,Actual,Start,Duration,Score,Session,Confidence
+No Smoking,No Smoking,0.0,5.113,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99835455
+No Smoking,No Smoking,0.96999997,5.1940002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9982922
+No Smoking,No Smoking,2.036,5.1470003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99821186
+No Smoking,No Smoking,3.05,5.1809998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99819297
+No Smoking,No Smoking,4.106,5.1540003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99816763
+No Smoking,No Smoking,5.113,5.163,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9980904
+No Smoking,No Smoking,6.164,5.159,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9980068
+No Smoking,No Smoking,7.183,5.155,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9981206
+No Smoking,No Smoking,8.231,5.1590004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9981606
+No Smoking,No Smoking,9.26,5.175,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9981371
+No Smoking,No Smoking,10.276,5.193,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99812907
+No Smoking,No Smoking,11.322999,5.1660004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99809945
+No Smoking,No Smoking,12.338001,5.21,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99804145
+No Smoking,No Smoking,13.39,5.1729994,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99792737
+No Smoking,No Smoking,14.434999,5.175,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9978541
+No Smoking,No Smoking,15.469,5.1520004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99784154
+No Smoking,No Smoking,16.489,5.2019997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9978539
+No Smoking,No Smoking,17.548,5.1520004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99779904
+No Smoking,No Smoking,18.563,5.146,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99761814
+No Smoking,No Smoking,19.61,5.163,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9975222
+No Smoking,No Smoking,20.621,5.1709995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99742633
+No Smoking,No Smoking,21.691,5.1520004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9972519
+No Smoking,No Smoking,22.7,5.1619987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99695975
+No Smoking,No Smoking,23.709002,5.208,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9966687
+No Smoking,No Smoking,24.773,5.156,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9966054
+No Smoking,No Smoking,25.792,5.184,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99572486
+No Smoking,No Smoking,26.843,5.1569996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99388856
+No Smoking,No Smoking,27.862,5.195999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99321777
+No Smoking,No Smoking,28.917,5.16,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9930255
+No Smoking,No Smoking,29.929,5.197998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99401605
+No Smoking,No Smoking,30.976,5.171999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9949931
+No Smoking,No Smoking,32.0,5.1969986,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9956414
+No Smoking,No Smoking,33.058,5.3010025,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9961088
+No Smoking,No Smoking,34.077,5.191002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99644953
+No Smoking,No Smoking,35.127,5.3080025,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99655724
+No Smoking,No Smoking,36.148,5.179001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99670625
+No Smoking,No Smoking,37.197,5.3030014,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9968257
+No Smoking,No Smoking,38.359,5.105999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99675596
+No Smoking,No Smoking,39.268,5.253998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9966641
+No Smoking,No Smoking,40.435,5.0429993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99671865
+No Smoking,No Smoking,41.327,5.236,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99651533
+No Smoking,No Smoking,42.5,5.132,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9966274
+No Smoking,No Smoking,43.465,5.098999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99656975
+No Smoking,No Smoking,44.522,5.1590004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9966262
+No Smoking,No Smoking,45.478,5.2910004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9966535
+No Smoking,No Smoking,46.563004,5.1049995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9965835
+No Smoking,No Smoking,47.631996,5.16,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.996495
+No Smoking,No Smoking,48.564,5.1539993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9962862
+No Smoking,No Smoking,49.681,5.1809998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9961767
+No Smoking,No Smoking,50.769,5.114998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9960766
+No Smoking,No Smoking,51.668,5.262001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99591064
+No Smoking,No Smoking,52.792,5.0769997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9960628
+No Smoking,No Smoking,53.718,5.2019997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99579525
+No Smoking,No Smoking,54.862,5.0699997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99583477
+No Smoking,No Smoking,55.884,5.102001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9957118
+No Smoking,No Smoking,56.93,5.0769997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99577445
+No Smoking,No Smoking,57.869,5.243,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9957463
+No Smoking,No Smoking,58.92,5.2990036,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9959275
+No Smoking,No Smoking,59.932,5.189003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99597377
+No Smoking,No Smoking,60.986,5.3030014,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.995943
+No Smoking,No Smoking,62.007,5.1590004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99551034
+No Smoking,No Smoking,63.112,5.191002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9954177
+No Smoking,No Smoking,64.219,5.030998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99541426
+No Smoking,No Smoking,65.121,5.2509995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99518156
+No Smoking,No Smoking,66.289,5.0079956,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99500173
+No Smoking,No Smoking,67.166,5.175003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99498546
+No Smoking,No Smoking,68.303,5.060997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9948766
+No Smoking,No Smoking,69.25,5.1620026,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.994738
+No Smoking,No Smoking,70.372,5.058998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9948861
+No Smoking,No Smoking,71.297,5.187004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9948433
+No Smoking,No Smoking,72.341,5.1749954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9949041
+No Smoking,No Smoking,73.364,5.187004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.994376
+No Smoking,No Smoking,74.412,5.159996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99432623
+No Smoking,No Smoking,75.431,5.1969986,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9940728
+No Smoking,No Smoking,76.484,5.1609955,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9933722
+No Smoking,No Smoking,77.516,5.153,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99274004
+No Smoking,No Smoking,78.551,5.169998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9922019
+No Smoking,No Smoking,79.572,5.2020035,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9920543
+No Smoking,No Smoking,80.628,5.1570053,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99152076
+No Smoking,No Smoking,81.645,5.1949997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9918412
+No Smoking,No Smoking,82.669,5.197998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99157727
+No Smoking,No Smoking,83.721,5.1949997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9913509
+No Smoking,No Smoking,84.774,5.153,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99067855
+No Smoking,No Smoking,85.785,5.187996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9904983
+No Smoking,No Smoking,86.84,5.163002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98978424
+No Smoking,No Smoking,87.867,5.1500015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9895791
+No Smoking,No Smoking,88.916,5.149002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9884422
+No Smoking,No Smoking,89.927,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9880528
+No Smoking,No Smoking,90.973,5.1660004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9866947
+No Smoking,No Smoking,92.003,5.147003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9863554
+No Smoking,No Smoking,93.017,5.193001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9848105
+No Smoking,No Smoking,94.065,5.1679993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98490494
+No Smoking,No Smoking,95.086,5.1940002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98303425
+No Smoking,No Smoking,96.139,5.1640015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9829413
+No Smoking,No Smoking,97.15,5.1889954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9816229
+No Smoking,No Smoking,98.21,5.1500015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97989076
+No Smoking,No Smoking,99.232994,5.1829987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9775346
+No Smoking,No Smoking,100.28,5.161003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9769827
+No Smoking,No Smoking,101.303,5.175995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9733506
+No Smoking,No Smoking,102.339,5.1660004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9729897
+No Smoking,No Smoking,103.36,5.169998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9714901
+No Smoking,No Smoking,104.416,5.154999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9681271
+No Smoking,No Smoking,105.44101,5.1660004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96844167
+No Smoking,No Smoking,106.479,5.1670074,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96516746
+No Smoking,No Smoking,107.505,5.1880035,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.95894504
+No Smoking,No Smoking,108.53,5.195999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.95226574
+No Smoking,No Smoking,109.57101,5.1740036,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9369025
+No Smoking,No Smoking,110.607,5.1889954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.92436254
+No Smoking,No Smoking,111.645996,5.157997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90885866
+No Smoking,No Smoking,112.69301,5.1679993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.88018584
+No Smoking,No Smoking,113.726,5.1500015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.86382735
+No Smoking,No Smoking,114.745,5.1829987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8374158
+No Smoking,No Smoking,115.796,5.1500015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8295933
+No Smoking,No Smoking,116.804,5.191002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8107788
+No Smoking,No Smoking,117.861,5.1500015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.76893246
+No Smoking,No Smoking,118.876,5.153,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.76876146
+No Smoking,No Smoking,119.92801,5.159996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.76279
+No Smoking,No Smoking,120.946,5.153,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.75251657
+No Smoking,No Smoking,121.995,5.154999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7645492
+No Smoking,No Smoking,123.011,5.1660004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.76004237
+No Smoking,No Smoking,124.029,5.1969986,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7682684
+No Smoking,No Smoking,125.088005,5.1679993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7412369
+No Smoking,No Smoking,126.09899,5.201004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.74444044
+No Smoking,No Smoking,127.15,5.1659927,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.75972414
+No Smoking,No Smoking,128.177,5.1889954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7522256
+No Smoking,No Smoking,129.226,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.76508594
+No Smoking,No Smoking,130.256,5.1890106,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.77166295
+No Smoking,No Smoking,131.3,5.1559906,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7765835
+No Smoking,No Smoking,132.316,5.195999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7620012
+No Smoking,No Smoking,133.366,5.1569977,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7722315
+No Smoking,No Smoking,134.395,5.2299957,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7957148
+No Smoking,No Smoking,135.445,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8007444
+No Smoking,No Smoking,136.456,5.199005,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7829441
+No Smoking,No Smoking,137.512,5.1620026,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7827667
+No Smoking,No Smoking,138.523,5.1930084,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7704696
+No Smoking,No Smoking,139.625,5.117996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7586577
+No Smoking,No Smoking,140.604,5.177002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.75194085
+No Smoking,No Smoking,141.655,5.152008,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7543645
+No Smoking,No Smoking,142.674,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.73994374
+No Smoking,No Smoking,143.716,5.1629944,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.75518674
+No Smoking,No Smoking,144.743,5.17601,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.740192
+No Smoking,No Smoking,145.781,5.1569977,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7268512
+No Smoking,No Smoking,146.807,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.712758
+No Smoking,No Smoking,147.864,5.145996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7258789
+No Smoking,No Smoking,148.879,5.154007,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.70157003
+No Smoking,No Smoking,149.919,5.173996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7082642
+No Smoking,No Smoking,150.938,5.166992,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.69488794
+No Smoking,No Smoking,151.969,5.1809998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6995411
+No Smoking,No Smoking,153.01,5.173004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.67491
+No Smoking,No Smoking,154.033,5.200989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6936151
+No Smoking,No Smoking,155.093,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.73168266
+No Smoking,No Smoking,156.105,5.1870117,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7455671
+No Smoking,No Smoking,157.15,5.1630096,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8268759
+No Smoking,No Smoking,158.183,5.1829987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8063004
+No Smoking,No Smoking,159.234,5.154007,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7998508
+No Smoking,No Smoking,160.253,5.1940002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8124461
+No Smoking,No Smoking,161.292,5.175995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7963894
+No Smoking,No Smoking,162.313,5.1640015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.77411336
+No Smoking,No Smoking,163.366,5.1630096,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7822367
+No Smoking,No Smoking,164.388,5.1679993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7804131
+No Smoking,No Smoking,165.447,5.145996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.78357047
+No Smoking,,166.468,5.147003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7698958
+No Smoking,,167.477,5.199997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7720776
+No Smoking,,168.529,5.1649933,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.76132864
+No Smoking,,169.556,5.1909943,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7314998
+No Smoking,Smoking,170.593,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.68221056
+No Smoking,Smoking,171.615,5.1849976,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6511741
+No Smoking,Smoking,172.677,5.1450043,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.62280643
+No Smoking,Smoking,173.694,5.1799927,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6051054
+No Smoking,Smoking,174.747,5.154999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.58613604
+No Smoking,Smoking,175.753,5.220001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5541516
+No Smoking,Smoking,176.8,5.175003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5537937
+No Smoking,Smoking,177.822,5.172989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5332554
+No Smoking,Smoking,178.874,5.1680145,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5299676
+No Smoking,Smoking,179.902,5.1950073,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5050057
+No Smoking,Smoking,180.973,5.1299896,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5035948
+No Smoking,Smoking,181.97502,5.175995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.49530762
+No Smoking,Smoking,182.99498,5.1870117,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5034931
+Smoking,Smoking,184.042,5.1909943,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5296858
+Smoking,Smoking,185.097,5.1569977,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5379317
+Smoking,Smoking,186.103,5.199005,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5502611
+Smoking,Smoking,187.15102,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.56999904
+Smoking,Smoking,188.18202,5.177994,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.57884866
+Smoking,Smoking,189.233,5.149994,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.59155196
+Smoking,Smoking,190.254,5.149002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.60810524
+Smoking,Smoking,191.302,5.151993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6079177
+Smoking,Smoking,192.311,5.166992,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.60907096
+Smoking,Smoking,193.36,5.1649933,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.63271534
+Smoking,Smoking,194.38301,5.1580048,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6223954
+Smoking,Smoking,195.403,5.1909943,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.63379633
+Smoking,Smoking,196.454,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.655288
+Smoking,Smoking,197.478,5.195999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6708227
+Smoking,Smoking,198.52498,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6915885
+Smoking,Smoking,199.541,5.199997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7192527
+Smoking,Smoking,200.594,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.73265284
+Smoking,Smoking,201.61398,5.1880035,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7263013
+Smoking,Smoking,202.67398,5.1460114,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7425957
+Smoking,Smoking,203.694,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7479614
+Smoking,Smoking,204.74101,5.152008,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.74529004
+Smoking,Smoking,205.755,5.1569977,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.73844934
+Smoking,Smoking,206.802,5.166992,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7342948
+Smoking,Smoking,207.82,5.173996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7616953
+Smoking,Smoking,208.88399,5.1609955,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7802958
+Smoking,Smoking,209.893,5.169998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7956008
+Smoking,Smoking,210.91199,5.1909943,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.82094276
+Smoking,Smoking,211.96898,5.156006,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8281199
+Smoking,Smoking,212.994,5.1909943,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.827239
+Smoking,Smoking,214.045,5.1860046,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.82418203
+Smoking,Smoking,215.06302,5.1880035,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.82671976
+Smoking,Smoking,216.103,5.1710052,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8462652
+Smoking,Smoking,217.125,5.2299957,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.84494174
+Smoking,Smoking,218.185,5.154999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8488188
+Smoking,Smoking,219.231,5.123001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8383849
+Smoking,Smoking,220.251,5.151993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8381176
+Smoking,Smoking,221.274,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8339927
+Smoking,Smoking,222.355,5.1170044,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8267664
+Smoking,Smoking,223.34,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.82324374
+Smoking,Smoking,224.35399,5.201996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.80432546
+Smoking,Smoking,225.403,5.1580048,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.80432075
+Smoking,Smoking,226.433,5.1809998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8147494
+Smoking,Smoking,227.47198,5.1920013,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8359601
+Smoking,Smoking,228.491,5.2089996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.83221805
+Smoking,Smoking,229.556,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8493596
+Smoking,Smoking,230.56099,5.1940002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.84398204
+Smoking,Smoking,231.614,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.84478617
+Smoking,Smoking,232.664,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.85308415
+Smoking,Smoking,233.7,5.154007,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87426287
+Smoking,Smoking,234.74602,5.147995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8563257
+Smoking,Smoking,235.755,5.154999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8628637
+Smoking,Smoking,236.773,5.200012,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8450555
+Smoking,Smoking,237.823,5.175003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7971476
+Smoking,Smoking,238.854,5.1859894,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8400528
+Smoking,Smoking,239.894,5.169998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8391127
+Smoking,Smoking,240.91,5.1889954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.88491225
+Smoking,Smoking,241.973,5.147995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.89097655
+Smoking,Smoking,242.998,5.149002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.909529
+Smoking,Smoking,244.04,5.1660004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.91819984
+Smoking,Smoking,245.06401,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.93252075
+Smoking,Smoking,246.099,5.175995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.93804866
+Smoking,Smoking,247.12099,5.173996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.947822
+Smoking,Smoking,248.147,5.195999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9536799
+Smoking,Smoking,249.20598,5.1440125,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9589839
+Smoking,Smoking,250.225,5.1909943,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9596717
+Smoking,Smoking,251.275,5.1450195,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.961787
+Smoking,Smoking,252.29498,5.180008,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96229035
+Smoking,Smoking,253.343,5.151993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96434796
+Smoking,Smoking,254.35,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96513075
+Smoking,Smoking,255.416,5.1569977,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.966383
+Smoking,Smoking,256.42,5.1729736,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96737176
+Smoking,Smoking,257.475,5.165985,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9680396
+Smoking,Smoking,258.495,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9687474
+Smoking,Smoking,259.541,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96908724
+Smoking,Smoking,260.573,5.149994,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97049123
+Smoking,Smoking,261.593,5.180023,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97117394
+Smoking,Smoking,262.641,5.149994,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97213215
+Smoking,Smoking,263.664,5.1889954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9737589
+Smoking,Smoking,264.701,5.163025,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97384256
+Smoking,Smoking,265.723,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9732611
+Smoking,Smoking,266.773,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97361135
+Smoking,Smoking,267.791,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97308433
+Smoking,Smoking,268.853,5.1640015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9741327
+Smoking,Smoking,269.864,5.196991,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9751864
+Smoking,Smoking,270.913,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9772158
+Smoking,Smoking,271.945,5.1779785,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9786508
+Smoking,Smoking,272.981,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.979254
+Smoking,Smoking,274.017,5.153015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.979746
+Smoking,Smoking,275.061,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.981124
+Smoking,Smoking,276.103,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9817837
+Smoking,Smoking,277.123,5.1720276,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9828634
+Smoking,Smoking,278.142,5.17099,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98380953
+Smoking,Smoking,279.17,5.1839905,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9846721
+Smoking,Smoking,280.221,5.1629944,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9846433
+Smoking,Smoking,281.272,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9848708
+Smoking,Smoking,282.295,5.143982,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98505735
+Smoking,Smoking,283.313,5.180023,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9851998
+Smoking,Smoking,284.354,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98566335
+Smoking,Smoking,285.384,5.1799927,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98579156
+Smoking,Smoking,286.434,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98573947
+Smoking,Smoking,287.439,5.20401,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98595375
+Smoking,Smoking,288.493,5.169983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9857461
+Smoking,Smoking,289.526,5.1889954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9861139
+Smoking,Smoking,290.564,5.1679993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9858617
+Smoking,Smoking,291.593,5.1910095,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98585665
+Smoking,Smoking,292.643,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9861047
+Smoking,Smoking,293.663,5.162018,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98603165
+Smoking,Smoking,294.715,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98613614
+Smoking,Smoking,295.732,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9865237
+Smoking,Smoking,296.784,5.149994,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98665255
+Smoking,Smoking,297.794,5.1569824,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98680633
+Smoking,Smoking,298.825,5.218994,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98750144
+Smoking,Smoking,299.874,5.162018,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9873236
+Smoking,Smoking,300.883,5.1870117,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98747677
+Smoking,Smoking,301.934,5.156006,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9874261
+Smoking,Smoking,302.951,5.1910095,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98771185
+Smoking,Smoking,304.044,5.1269836,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9876947
+Smoking,Smoking,305.036,5.1879883,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9879402
+Smoking,Smoking,306.07,5.175995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9878835
+Smoking,Smoking,307.09,5.205017,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98785365
+Smoking,Smoking,308.142,5.17099,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9880384
+Smoking,Smoking,309.171,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98774743
+Smoking,Smoking,310.224,5.148987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98783255
+Smoking,Smoking,311.246,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9878753
+Smoking,Smoking,312.295,5.1889954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98792166
+Smoking,Smoking,313.313,5.1500244,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9884378
+Smoking,Smoking,314.322,5.1920166,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98819286
+Smoking,Smoking,315.373,5.1710205,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9883604
+Smoking,Smoking,316.405,5.1889954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98784536
+Smoking,Smoking,317.484,5.128998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9876954
+Smoking,Smoking,318.463,5.200989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9878964
+Smoking,Smoking,319.514,5.1679993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9879964
+Smoking,Smoking,320.544,5.186981,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9882645
+Smoking,Smoking,321.594,5.15802,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9884733
+Smoking,Smoking,322.613,5.177002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9885521
+Smoking,Smoking,323.664,5.1579895,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9881681
+Smoking,Smoking,324.682,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9883227
+Smoking,Smoking,325.731,5.153015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98805964
+Smoking,Smoking,326.752,5.1799927,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9880614
+Smoking,Smoking,327.79,5.1629944,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9879325
+Smoking,Smoking,328.822,5.1910095,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98799825
+Smoking,Smoking,329.844,5.178009,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.988035
+Smoking,Smoking,330.884,5.1870117,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98784494
+Smoking,Smoking,331.932,5.16098,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98822135
+Smoking,Smoking,332.953,5.191986,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.988007
+Smoking,Smoking,334.013,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9881208
+Smoking,Smoking,335.022,5.199005,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98822325
+Smoking,Smoking,336.071,5.1729736,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9879924
+Smoking,Smoking,337.093,5.1750183,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9880197
+Smoking,Smoking,338.145,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.987851
+Smoking,Smoking,339.174,5.148987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9881367
+Smoking,Smoking,340.221,5.149994,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9881162
+Smoking,Smoking,341.244,5.1650085,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9882705
+Smoking,Smoking,342.268,5.175995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98842037
+Smoking,Smoking,343.314,5.1490173,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98808205
+Smoking,Smoking,344.323,5.1910095,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98849756
+Smoking,Smoking,345.371,5.17099,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98806083
+Smoking,Smoking,346.409,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98803276
+Smoking,Smoking,347.444,5.156006,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98789
+Smoking,Smoking,348.463,5.200989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98814183
+Smoking,Smoking,349.514,5.17099,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9880818
+Smoking,Smoking,350.542,5.1950073,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98827684
+Smoking,Smoking,351.599,5.1480103,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9880844
+Smoking,Smoking,352.6,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9883743
+Smoking,Smoking,353.664,5.1789856,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9880144
+Smoking,Smoking,354.685,5.154999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9880078
+Smoking,Smoking,355.737,5.1419983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98791224
+Smoking,Smoking,356.747,5.1529846,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98793745
+Smoking,Smoking,357.762,5.199005,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98794997
+Smoking,Smoking,358.843,5.1440125,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98762006
+Smoking,Smoking,359.84,5.1889954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98751265
+Smoking,Smoking,360.879,5.1809998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98755246
+Smoking,Smoking,361.9,5.1920166,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98629224
+Smoking,Smoking,362.961,5.153015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9869149
+Smoking,Smoking,363.987,5.1860046,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9864972
+Smoking,Smoking,365.02902,5.1660156,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9869505
+Smoking,Smoking,366.05997,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98642313
+Smoking,Smoking,367.092,5.17099,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98627263
+Smoking,Smoking,368.114,5.17099,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9855665
+Smoking,Smoking,369.173,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9850488
+Smoking,Smoking,370.195,5.149994,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9851588
+Smoking,Smoking,371.23196,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98401785
+Smoking,Smoking,372.26297,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9830988
+Smoking,Smoking,373.285,5.174988,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9831222
+Smoking,Smoking,374.324,5.1569824,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9812754
+Smoking,Smoking,375.345,5.196991,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98099923
+Smoking,Smoking,376.401,5.1579895,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9811085
+Smoking,Smoking,377.423,5.1879883,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98163867
+Smoking,Smoking,378.46,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9815868
+Smoking,Smoking,379.481,5.200012,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9823379
+Smoking,Smoking,380.542,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9816713
+Smoking,Smoking,381.55902,5.1930237,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9826965
+Smoking,Smoking,382.61096,5.1650085,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9815999
+Smoking,Smoking,383.632,5.178009,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9810156
+Smoking,Smoking,384.68097,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98100275
+Smoking,Smoking,385.703,5.147003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98150456
+Smoking,Smoking,386.752,5.1519775,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9813996
+Smoking,Smoking,387.77603,5.1539917,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98024976
+Smoking,Smoking,388.81,5.1700134,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9799558
+Smoking,Smoking,389.84296,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9786062
+Smoking,Smoking,390.85,5.195984,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9784422
+Smoking,Smoking,391.904,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9763851
+Smoking,Smoking,392.93,5.156006,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.975649
+Smoking,Smoking,393.98,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9746425
+Smoking,Smoking,395.003,5.15802,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97437185
+Smoking,Smoking,396.046,5.1640015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9759754
+Smoking,Smoking,397.06403,5.166992,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97493815
+Smoking,Smoking,398.086,5.1849976,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9746526
+Smoking,Smoking,399.131,5.1579895,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97408915
+Smoking,Smoking,400.16104,5.1819763,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97377753
+Smoking,Smoking,401.21,5.1650085,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97218454
+Smoking,Smoking,402.231,5.182007,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97148913
+Smoking,Smoking,403.27103,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9697517
+Smoking,Smoking,404.289,5.1629944,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9689997
+Smoking,Smoking,405.343,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9640024
+Smoking,Smoking,406.375,5.144989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96242684
+Smoking,Smoking,407.413,5.1920166,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.95851165
+Smoking,Smoking,408.431,5.17099,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.95318663
+Smoking,Smoking,409.452,5.20401,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.943835
+Smoking,Smoking,410.512,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9244099
+Smoking,Smoking,411.51996,5.2010193,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.89501035
+Smoking,Smoking,412.605,5.1380005,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8527398
+Smoking,Smoking,413.602,5.1490173,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.82247776
+Smoking,Smoking,414.65598,5.16098,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.79602116
+Smoking,Smoking,415.672,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7495916
+Smoking,Smoking,416.721,5.148987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6978667
+Smoking,Smoking,417.74298,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6673316
+Smoking,Smoking,418.751,5.200989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.627403
+Smoking,Smoking,419.817,5.184021,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6032068
+Smoking,Smoking,420.831,5.184021,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.54647535
+Smoking,Smoking,421.87,5.162018,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.52708435
+Smoking,Smoking,422.89404,5.196991,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.52620196
+No Smoking,Smoking,423.95203,5.153015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5001335
+No Smoking,Smoking,425.001,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5656836
+No Smoking,Smoking,426.015,5.1679993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5924619
+No Smoking,Smoking,427.032,5.1999817,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6546755
+No Smoking,Smoking,428.09097,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6688063
+No Smoking,Smoking,429.10504,5.185974,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6273651
+No Smoking,Smoking,430.16104,5.16098,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6071211
+No Smoking,Smoking,431.183,5.1539917,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.55164605
+No Smoking,Smoking,432.232,5.147003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5164853
+Smoking,Smoking,433.251,5.149994,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5278094
+Smoking,Smoking,434.291,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.57414705
+Smoking,Smoking,435.322,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5949517
+Smoking,Smoking,436.33704,5.196991,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.60813767
+Smoking,Smoking,437.37897,5.173004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6223696
+Smoking,Smoking,438.401,5.1950073,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.64299095
+Smoking,Smoking,439.451,5.1710205,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.64478034
+Smoking,Smoking,440.473,5.199005,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.68439364
+Smoking,Smoking,441.53397,5.1579895,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.71526027
+Smoking,Smoking,442.552,5.1629944,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7420399
+Smoking,Smoking,443.59598,5.156006,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7460239
+Smoking,Smoking,444.622,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7846686
+Smoking,Smoking,445.672,5.1490173,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7934244
+Smoking,Smoking,446.692,5.159027,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7976015
+Smoking,Smoking,447.715,5.174011,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.80061007
+Smoking,Smoking,448.752,5.16098,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8114663
+Smoking,Smoking,449.781,5.192993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8214871
+Smoking,Smoking,450.821,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.82723117
+Smoking,Smoking,451.851,5.1819763,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8309803
+Smoking,Smoking,452.889,5.1739807,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.82749563
+Smoking,Smoking,453.91296,5.1889954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.80444056
+Smoking,Smoking,454.974,5.157013,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.80170923
+Smoking,Smoking,455.981,5.200012,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7884685
+Smoking,Smoking,457.03302,5.173004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.78265595
+Smoking,Smoking,458.063,5.163025,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7733419
+Smoking,Smoking,459.102,5.15802,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7430258
+Smoking,Smoking,460.131,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.73166096
+Smoking,Smoking,461.181,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7331668
+Smoking,Smoking,462.206,5.1450195,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.75578475
+Smoking,Smoking,463.226,5.175995,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.75737345
+Smoking,Smoking,464.26,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.75603044
+Smoking,Smoking,465.291,5.1910095,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.77015686
+Smoking,Smoking,466.371,5.131012,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.775419
+Smoking,Smoking,467.351,5.1999817,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.78648585
+Smoking,Smoking,468.402,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.79706603
+Smoking,Smoking,469.42203,5.197998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7970147
+Smoking,Smoking,470.48203,5.162018,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.80008316
+Smoking,Smoking,471.502,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.81201816
+Smoking,Smoking,472.551,5.1480103,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8043733
+Smoking,Smoking,473.574,5.2059937,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.81149566
+Smoking,Smoking,474.62,5.162018,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.80468416
+Smoking,Smoking,475.644,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8326649
+Smoking,Smoking,476.69302,5.1629944,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8138418
+Smoking,Smoking,477.699,5.191986,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8258022
+Smoking,Smoking,478.78003,5.131012,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8345568
+Smoking,Smoking,479.78198,5.189972,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.83861154
+Smoking,Smoking,480.835,5.1440125,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8471621
+Smoking,Smoking,481.856,5.1750183,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8553421
+Smoking,Smoking,482.891,5.1750183,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8573671
+Smoking,Smoking,483.911,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8548418
+Smoking,Smoking,484.972,5.1650085,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8621473
+Smoking,Smoking,485.97897,5.203003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8709808
+Smoking,Smoking,487.031,5.169983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8737703
+Smoking,Smoking,488.066,5.1539917,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87495327
+Smoking,Smoking,489.102,5.1660156,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8808736
+Smoking,Smoking,490.137,5.1440125,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.89109635
+Smoking,Smoking,491.182,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8899802
+Smoking,Smoking,492.201,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8937547
+Smoking,Smoking,493.22,5.1799927,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.89594007
+Smoking,Smoking,494.268,5.1529846,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8899486
+Smoking,Smoking,495.28104,5.192993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.88969386
+Smoking,Smoking,496.34103,5.1600037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90256834
+Smoking,Smoking,497.361,5.192993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90157974
+Smoking,Smoking,498.4,5.1700134,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9047407
+Smoking,Smoking,499.421,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9113468
+Smoking,Smoking,500.474,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90867656
+Smoking,Smoking,501.501,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.91295767
+Smoking,Smoking,502.554,5.188019,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9162214
+Smoking,Smoking,503.57,5.1629944,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9154189
+Smoking,Smoking,504.593,5.177002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9113278
+Smoking,Smoking,505.646,5.154999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9117124
+Smoking,Smoking,506.663,5.1920166,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.91101027
+Smoking,Smoking,507.742,5.117981,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9141121
+Smoking,Smoking,508.733,5.180023,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9180486
+Smoking,Smoking,509.76996,5.1700134,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9171966
+Smoking,Smoking,510.80096,5.1789856,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9205043
+Smoking,Smoking,511.855,5.1490173,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9174252
+Smoking,Smoking,512.86,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9252975
+Smoking,Smoking,513.913,5.155945,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.92615634
+Smoking,Smoking,514.94,5.1950073,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9263495
+Smoking,Smoking,515.98,5.1710205,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9234064
+Smoking,Smoking,517.004,5.197998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9244469
+Smoking,Smoking,518.032,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9283165
+Smoking,Smoking,519.069,5.1970215,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9249575
+Smoking,Smoking,520.135,5.145996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.92622477
+Smoking,Smoking,521.151,5.163025,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.92557645
+Smoking,Smoking,522.202,5.1499634,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.92208534
+Smoking,Smoking,523.222,5.1550293,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9223382
+Smoking,Smoking,524.266,5.1539917,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.91439223
+Smoking,Smoking,525.281,5.169983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9120397
+Smoking,Smoking,526.314,5.1869507,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9087328
+Smoking,Smoking,527.352,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9087328
+Smoking,Smoking,528.377,5.1939697,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9087328
+Smoking,Smoking,529.42,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9086997
+Smoking,Smoking,530.451,5.1810303,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9101958
+Smoking,Smoking,531.501,5.1480103,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9074754
+Smoking,Smoking,532.521,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90813434
+Smoking,Smoking,533.571,5.15802,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90398246
+Smoking,Smoking,534.589,5.1799927,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90743613
+Smoking,Smoking,535.632,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.89902294
+Smoking,Smoking,536.649,5.160034,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.896874
+Smoking,Smoking,537.712,5.179016,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8962988
+Smoking,Smoking,538.729,5.1519775,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8967011
+Smoking,Smoking,539.769,5.1620483,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.89904904
+Smoking,Smoking,540.801,5.1609497,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8950912
+Smoking,Smoking,541.809,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8941583
+Smoking,Smoking,542.891,5.1329956,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.895696
+Smoking,Smoking,543.881,5.218994,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.891203
+Smoking,Smoking,544.931,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.88663375
+Smoking,Smoking,545.962,5.19104,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.888633
+Smoking,Smoking,547.0,5.1710205,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87619096
+Smoking,Smoking,548.024,5.1970215,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8733182
+Smoking,Smoking,549.1,5.1310425,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8719918
+Smoking,Smoking,550.091,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8732037
+Smoking,Smoking,551.153,5.1480103,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8720563
+Smoking,Smoking,552.171,5.1499634,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8704288
+Smoking,Smoking,553.221,5.1759644,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8627175
+Smoking,Smoking,554.231,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8722948
+Smoking,Smoking,555.281,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8668316
+Smoking,Smoking,556.301,5.200989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8795082
+Smoking,Smoking,557.321,5.200012,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87874544
+Smoking,Smoking,558.397,5.146057,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8815156
+Smoking,Smoking,559.392,5.199951,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87095404
+Smoking,Smoking,560.44,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8734254
+Smoking,Smoking,561.502,5.1640015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8659487
+Smoking,Smoking,562.521,5.1950073,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.871475
+Smoking,Smoking,563.543,5.1899414,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8628026
+Smoking,Smoking,564.592,5.1520386,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87900555
+Smoking,Smoking,565.612,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8698471
+Smoking,Smoking,566.666,5.157959,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87313265
+Smoking,Smoking,567.716,5.156006,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8783005
+Smoking,Smoking,568.733,5.1480103,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87809783
+Smoking,Smoking,569.744,5.1870117,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8856898
+Smoking,Smoking,570.802,5.163025,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87235934
+Smoking,Smoking,571.824,5.177002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.88632435
+Smoking,Smoking,572.872,5.148987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.88009554
+Smoking,Smoking,573.881,5.200012,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8739132
+Smoking,Smoking,574.931,5.164978,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87529975
+Smoking,Smoking,575.965,5.1849976,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.88152206
+Smoking,Smoking,577.001,5.170044,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8752404
+Smoking,Smoking,578.021,5.200012,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8766801
+Smoking,Smoking,579.081,5.1500244,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.878113
+Smoking,Smoking,580.096,5.15802,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87877864
+Smoking,Smoking,581.15,5.1519775,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87670434
+Smoking,Smoking,582.171,5.1539917,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.88245136
+Smoking,Smoking,583.221,5.1539917,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8844265
+Smoking,,584.231,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8842525
+Smoking,,585.254,5.21698,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8899168
+Smoking,,586.302,5.169983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.89214057
+Smoking,,587.325,5.200989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8908353
+Smoking,No Smoking,588.375,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8901496
+Smoking,No Smoking,589.39,5.200012,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90032184
+Smoking,No Smoking,590.471,5.1400146,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8951707
+Smoking,No Smoking,591.472,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.89150107
+Smoking,No Smoking,592.526,5.15802,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8929102
+Smoking,No Smoking,593.547,5.182007,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.89157325
+Smoking,No Smoking,594.59,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.88408697
+Smoking,No Smoking,595.611,5.1879883,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8803074
+Smoking,No Smoking,596.662,5.160034,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8822708
+Smoking,No Smoking,597.684,5.174988,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87764883
+Smoking,No Smoking,598.729,5.1500244,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.876676
+Smoking,No Smoking,599.741,5.1729736,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8760417
+Smoking,No Smoking,600.799,5.1539917,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8753349
+Smoking,No Smoking,601.822,5.148987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8828153
+Smoking,No Smoking,602.859,5.1729736,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8773735
+Smoking,No Smoking,603.879,5.174988,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.87449676
+Smoking,No Smoking,604.914,5.177002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8661399
+Smoking,No Smoking,605.953,5.1679688,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7971884
+Smoking,No Smoking,606.971,5.205017,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5460004
+No Smoking,No Smoking,608.032,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6826888
+No Smoking,No Smoking,609.054,5.178955,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7882802
+No Smoking,No Smoking,610.091,5.1710205,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8185828
+No Smoking,No Smoking,611.121,5.20105,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.85381615
+No Smoking,No Smoking,612.176,5.1469727,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9031853
+No Smoking,No Smoking,613.193,5.179016,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.93267506
+No Smoking,No Smoking,614.233,5.15802,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9467014
+No Smoking,No Smoking,615.262,5.181946,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9594875
+No Smoking,No Smoking,616.322,5.141968,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9707913
+No Smoking,No Smoking,617.323,5.2020264,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97707653
+No Smoking,No Smoking,618.372,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9755577
+No Smoking,No Smoking,619.391,5.2039795,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.982836
+No Smoking,No Smoking,620.444,5.1710205,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.985892
+No Smoking,No Smoking,621.464,5.195984,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98638725
+No Smoking,No Smoking,622.525,5.1539917,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9859309
+No Smoking,No Smoking,623.544,5.15802,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98493373
+No Smoking,No Smoking,624.595,5.144043,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98342913
+No Smoking,No Smoking,625.615,5.156006,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9820004
+No Smoking,No Smoking,626.66,5.1620483,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9810013
+No Smoking,No Smoking,627.679,5.162964,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9811398
+No Smoking,No Smoking,628.702,5.1829834,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98153675
+No Smoking,No Smoking,629.739,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9822735
+No Smoking,No Smoking,630.771,5.182007,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98238057
+No Smoking,No Smoking,631.822,5.1469727,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98181254
+No Smoking,No Smoking,632.842,5.192993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98166347
+No Smoking,No Smoking,633.885,5.166992,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9823843
+No Smoking,No Smoking,634.901,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9825028
+No Smoking,No Smoking,635.953,5.1660156,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98300415
+No Smoking,No Smoking,636.969,5.203003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98375607
+No Smoking,No Smoking,638.035,5.1550293,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9843383
+No Smoking,No Smoking,639.052,5.177002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9852348
+No Smoking,No Smoking,640.092,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98543096
+No Smoking,No Smoking,641.119,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9861475
+No Smoking,No Smoking,642.172,5.1480103,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9868228
+No Smoking,No Smoking,643.19,5.179016,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98678267
+No Smoking,No Smoking,644.229,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98768866
+No Smoking,No Smoking,645.251,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98974836
+No Smoking,No Smoking,646.309,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99010795
+No Smoking,No Smoking,647.32,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98953474
+No Smoking,No Smoking,648.369,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.987921
+No Smoking,No Smoking,649.391,5.184021,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9867053
+No Smoking,No Smoking,650.441,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9804191
+No Smoking,No Smoking,651.469,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9759228
+No Smoking,No Smoking,652.489,5.182007,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96802354
+No Smoking,No Smoking,653.541,5.1779785,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9439344
+No Smoking,No Smoking,654.575,5.166992,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90411246
+No Smoking,No Smoking,655.61,5.1520386,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.78865135
+No Smoking,No Smoking,656.631,5.1799927,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.93526536
+No Smoking,No Smoking,657.671,5.17395,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.93585515
+No Smoking,No Smoking,658.719,5.1760254,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9473554
+No Smoking,No Smoking,659.742,5.1729736,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.94921964
+No Smoking,No Smoking,660.762,5.1869507,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.94665956
+No Smoking,No Smoking,661.811,5.160034,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9524398
+No Smoking,No Smoking,662.845,5.184021,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.94667286
+No Smoking,No Smoking,663.895,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9419337
+No Smoking,No Smoking,664.915,5.1760254,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.93567044
+No Smoking,No Smoking,665.949,5.1760254,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9336565
+No Smoking,No Smoking,666.971,5.200989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9537907
+No Smoking,No Smoking,668.029,5.1640015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.94787633
+No Smoking,No Smoking,669.055,5.179016,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.82112664
+No Smoking,No Smoking,670.091,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99296075
+No Smoking,No Smoking,671.125,5.1849976,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9643165
+No Smoking,No Smoking,672.172,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8443253
+No Smoking,No Smoking,673.193,5.1760254,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.88630784
+No Smoking,No Smoking,674.234,5.156006,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90535444
+No Smoking,No Smoking,675.252,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9521401
+No Smoking,No Smoking,676.31,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9631841
+No Smoking,No Smoking,677.334,5.1570435,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97006357
+No Smoking,No Smoking,678.369,5.1759644,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9682178
+No Smoking,No Smoking,679.39,5.174011,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9683454
+No Smoking,No Smoking,680.411,5.2039795,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9725337
+No Smoking,No Smoking,681.461,5.1729736,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9737569
+No Smoking,No Smoking,682.491,5.192993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9842838
+No Smoking,No Smoking,683.545,5.160034,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9888421
+No Smoking,No Smoking,684.564,5.1879883,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9928308
+No Smoking,No Smoking,685.615,5.148987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99436116
+No Smoking,No Smoking,686.634,5.177002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9953987
+No Smoking,No Smoking,687.684,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9960913
+No Smoking,No Smoking,688.705,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99633825
+No Smoking,No Smoking,689.752,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9964593
+No Smoking,No Smoking,690.764,5.186035,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9964512
+No Smoking,No Smoking,691.811,5.163025,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9964259
+No Smoking,No Smoking,692.844,5.1920166,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9963714
+No Smoking,No Smoking,693.895,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99638754
+No Smoking,No Smoking,694.911,5.1799927,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99634576
+No Smoking,No Smoking,695.95,5.164978,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9962796
+No Smoking,No Smoking,696.974,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9960595
+No Smoking,No Smoking,698.036,5.1849976,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9959752
+No Smoking,No Smoking,699.055,5.1760254,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9950003
+No Smoking,No Smoking,700.091,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9923112
+No Smoking,No Smoking,701.115,5.194031,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9861481
+No Smoking,No Smoking,702.164,5.156006,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9797533
+No Smoking,No Smoking,703.221,5.1469727,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.97481287
+No Smoking,No Smoking,704.231,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9716721
+No Smoking,No Smoking,705.25,5.189026,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9701879
+No Smoking,No Smoking,706.309,5.152954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96928585
+No Smoking,No Smoking,707.32,5.2019653,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9683449
+No Smoking,No Smoking,708.368,5.171997,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9674474
+No Smoking,No Smoking,709.392,5.1679688,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9663707
+No Smoking,No Smoking,710.439,5.1709595,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9652159
+No Smoking,No Smoking,711.462,5.1760254,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96306884
+No Smoking,No Smoking,712.522,5.165039,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9610589
+No Smoking,No Smoking,713.54,5.165039,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9583407
+No Smoking,No Smoking,714.56,5.1950073,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.95363635
+No Smoking,No Smoking,715.61,5.1550293,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.94679904
+No Smoking,No Smoking,716.638,5.189026,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9375152
+No Smoking,No Smoking,717.687,5.169983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.92348105
+No Smoking,No Smoking,718.705,5.188965,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90672445
+No Smoking,No Smoking,719.755,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8840539
+No Smoking,No Smoking,720.765,5.200989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8562617
+No Smoking,No Smoking,721.8271,5.157959,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.82238597
+No Smoking,No Smoking,722.857,5.1779785,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.7836169
+No Smoking,No Smoking,723.894,5.295044,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.74363184
+No Smoking,No Smoking,724.916,5.2509766,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.63550985
+No Smoking,No Smoking,725.96606,5.2390137,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5550662
+No Smoking,No Smoking,726.985,5.25,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5133776
+Smoking,No Smoking,728.03503,5.1500244,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5093651
+Smoking,No Smoking,729.1891,5.067993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5195096
+Smoking,No Smoking,730.16705,5.186035,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.52962977
+Smoking,No Smoking,731.205,5.221985,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5275447
+Smoking,No Smoking,732.235,5.177002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.5180283
+No Smoking,No Smoking,733.185,5.310974,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.53270704
+No Smoking,No Smoking,734.257,5.2349854,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.6372545
+No Smoking,No Smoking,735.353,5.1640015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.8018463
+No Smoking,No Smoking,736.42706,5.049011,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.92276007
+No Smoking,No Smoking,737.4119,5.229004,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.96974695
+No Smoking,No Smoking,738.49603,5.2200317,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98844403
+No Smoking,No Smoking,739.492,5.1019897,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9942711
+No Smoking,No Smoking,740.517,5.2019653,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99646485
+No Smoking,No Smoking,741.476,5.148987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99800944
+No Smoking,No Smoking,742.641,5.096985,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99860036
+No Smoking,No Smoking,743.716,5.0809937,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99891704
+No Smoking,No Smoking,744.594,5.2730103,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9990958
+No Smoking,No Smoking,745.719,5.1430054,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99924886
+No Smoking,No Smoking,746.625,5.3449707,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99936515
+No Smoking,No Smoking,747.738,5.20105,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9994091
+No Smoking,No Smoking,748.797,5.1829834,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9994072
+No Smoking,No Smoking,749.867,5.140991,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9994105
+No Smoking,No Smoking,750.862,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99945104
+No Smoking,No Smoking,751.97003,5.1520386,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99950737
+No Smoking,No Smoking,752.939,5.2109985,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9995473
+No Smoking,No Smoking,753.98,5.075012,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9995777
+No Smoking,No Smoking,755.008,5.067993,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.999597
+No Smoking,No Smoking,756.023,5.0930176,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99962455
+No Smoking,No Smoking,757.122,5.023987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9996519
+No Smoking,No Smoking,758.15,5.044983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9996747
+No Smoking,No Smoking,759.055,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99969196
+No Smoking,No Smoking,760.076,5.1920166,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99970484
+No Smoking,No Smoking,761.116,5.169983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99970317
+No Smoking,No Smoking,762.146,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9996983
+No Smoking,No Smoking,763.195,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99968874
+No Smoking,No Smoking,764.216,5.1849976,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9996939
+No Smoking,No Smoking,765.268,5.1480103,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9996973
+No Smoking,No Smoking,766.286,5.148987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997053
+No Smoking,No Smoking,767.336,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997134
+No Smoking,No Smoking,768.356,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99972105
+No Smoking,No Smoking,769.40106,5.169983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99972796
+No Smoking,No Smoking,770.416,5.1709595,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.999732
+No Smoking,No Smoking,771.435,5.205017,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997356
+No Smoking,No Smoking,772.497,5.1920166,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997351
+No Smoking,No Smoking,773.516,5.194031,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99973714
+No Smoking,No Smoking,774.571,5.156006,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99973774
+No Smoking,No Smoking,775.587,5.1849976,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99974453
+No Smoking,No Smoking,776.64,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99975014
+No Smoking,No Smoking,777.689,5.1609497,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976397
+No Smoking,No Smoking,778.71,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976754
+No Smoking,No Smoking,779.727,5.1920166,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997716
+No Smoking,No Smoking,780.772,5.1970215,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997647
+No Smoking,No Smoking,781.8,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997604
+No Smoking,No Smoking,782.85,5.160034,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997575
+No Smoking,No Smoking,783.86896,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99975586
+No Smoking,No Smoking,784.919,5.162964,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99975586
+No Smoking,No Smoking,785.969,5.1240234,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.999758
+No Smoking,No Smoking,786.962,5.1830444,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99975777
+No Smoking,No Smoking,788.01,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997587
+No Smoking,No Smoking,789.02893,5.184021,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99975777
+No Smoking,No Smoking,790.082,5.1570435,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99975824
+No Smoking,No Smoking,791.093,5.1950073,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997599
+No Smoking,No Smoking,792.145,5.1969604,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976087
+No Smoking,No Smoking,793.171,5.1849976,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976254
+No Smoking,No Smoking,794.213,5.162964,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976206
+No Smoking,No Smoking,795.2391,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.999763
+No Smoking,No Smoking,796.288,5.152954,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.999763
+No Smoking,No Smoking,797.342,5.1550293,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997649
+No Smoking,No Smoking,798.356,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976707
+No Smoking,No Smoking,799.376,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976754
+No Smoking,No Smoking,800.43005,5.1550293,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997699
+No Smoking,No Smoking,801.441,5.19104,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997699
+No Smoking,No Smoking,802.497,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997709
+No Smoking,No Smoking,803.516,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99977016
+No Smoking,No Smoking,804.566,5.160034,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99977136
+No Smoking,No Smoking,805.585,5.1679688,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997716
+No Smoking,No Smoking,806.6321,5.1499634,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997721
+No Smoking,No Smoking,807.65594,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976945
+No Smoking,No Smoking,808.707,5.1660156,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976707
+No Smoking,No Smoking,809.72595,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997647
+No Smoking,No Smoking,810.753,5.182007,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976325
+No Smoking,No Smoking,811.782,5.1660156,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997668
+No Smoking,No Smoking,812.8159,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976826
+No Smoking,No Smoking,813.87305,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997716
+No Smoking,No Smoking,814.8859,5.1879883,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997699
+No Smoking,No Smoking,815.93506,5.145996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976945
+No Smoking,No Smoking,816.94794,5.2059937,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997654
+No Smoking,No Smoking,818.006,5.241028,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997119
+No Smoking,No Smoking,819.024,5.278015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99905294
+No Smoking,No Smoking,820.07404,5.2650146,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9986985
+No Smoking,No Smoking,821.081,5.2460327,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9972153
+No Smoking,No Smoking,822.154,5.226013,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9981783
+No Smoking,No Smoking,823.2471,5.2199707,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9982025
+No Smoking,No Smoking,824.302,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9985019
+No Smoking,No Smoking,825.3389,5.057007,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9991231
+No Smoking,No Smoking,826.327,5.117981,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99946034
+No Smoking,No Smoking,827.38,5.169983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9996175
+No Smoking,No Smoking,828.467,5.1360474,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997022
+No Smoking,No Smoking,829.46295,5.214966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997407
+No Smoking,No Smoking,830.396,5.1760254,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976444
+No Smoking,No Smoking,831.445,5.2440186,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99977565
+No Smoking,No Smoking,832.5499,5.1069946,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997835
+No Smoking,No Smoking,833.60297,5.200989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99978614
+No Smoking,No Smoking,834.67804,5.1290283,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997852
+No Smoking,No Smoking,835.5721,5.256958,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.999784
+No Smoking,No Smoking,836.689,5.177002,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99978256
+No Smoking,No Smoking,837.657,5.238037,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99977946
+No Smoking,No Smoking,838.804,5.1549683,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997785
+No Smoking,No Smoking,839.807,5.169983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997766
+No Smoking,No Smoking,840.82904,5.212036,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997783
+No Smoking,No Smoking,841.86597,5.169983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99977803
+No Smoking,No Smoking,842.89496,5.1399536,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997804
+No Smoking,No Smoking,843.959,5.0670166,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997773
+No Smoking,No Smoking,844.977,5.0579834,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997783
+No Smoking,No Smoking,846.041,5.185974,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99977493
+No Smoking,No Smoking,847.036,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99977565
+No Smoking,No Smoking,848.0349,5.255005,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997728
+No Smoking,No Smoking,849.02606,5.241028,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997721
+No Smoking,No Smoking,850.0349,5.2910156,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99977064
+No Smoking,No Smoking,851.2269,5.1140137,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997673
+No Smoking,No Smoking,852.19794,5.098999,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997666
+No Smoking,No Smoking,853.29,5.0180054,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976516
+No Smoking,No Smoking,854.267,5.0909424,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997659
+No Smoking,No Smoking,855.326,5.0510254,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99976516
+No Smoking,No Smoking,856.341,5.055969,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997649
+No Smoking,No Smoking,857.29706,5.1500244,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997623
+No Smoking,No Smoking,858.308,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997604
+No Smoking,No Smoking,859.3579,5.16803,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997554
+No Smoking,No Smoking,860.377,5.164978,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99975085
+No Smoking,No Smoking,861.39703,5.203003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997461
+No Smoking,No Smoking,862.447,5.164978,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997457
+No Smoking,No Smoking,863.469,5.2210083,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99974537
+No Smoking,No Smoking,864.526,5.1539917,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997457
+No Smoking,No Smoking,865.542,5.2020264,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99974704
+No Smoking,No Smoking,866.60004,5.163025,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99974513
+No Smoking,No Smoking,867.612,5.185974,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997469
+No Smoking,No Smoking,868.69006,5.138977,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997436
+No Smoking,No Smoking,869.68005,5.189026,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997444
+No Smoking,No Smoking,870.7441,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997413
+No Smoking,No Smoking,871.763,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997413
+No Smoking,No Smoking,872.798,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997406
+No Smoking,No Smoking,873.829,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99974084
+No Smoking,No Smoking,874.869,5.1640015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99973583
+No Smoking,No Smoking,875.90405,5.174988,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997381
+No Smoking,No Smoking,876.91406,5.1989746,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997332
+No Smoking,No Smoking,877.959,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99973726
+No Smoking,No Smoking,878.98,5.194031,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997425
+No Smoking,No Smoking,880.033,5.169983,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997444
+No Smoking,No Smoking,881.079,5.1710205,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997469
+No Smoking,No Smoking,882.11304,5.156006,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997467
+No Smoking,No Smoking,883.12,5.2020264,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9997448
+No Smoking,No Smoking,884.174,5.1950073,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99968004
+No Smoking,No Smoking,885.203,5.1779785,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9972046
+No Smoking,No Smoking,886.25,5.148987,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9950386
+No Smoking,No Smoking,887.2689,5.1810303,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.98202276
+No Smoking,No Smoking,888.32196,5.1549683,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.985068
+No Smoking,No Smoking,889.369,5.122986,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.95834875
+No Smoking,No Smoking,890.381,5.166992,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.91797906
+No Smoking,No Smoking,891.399,5.200989,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.89411706
+No Smoking,No Smoking,892.4501,5.1729736,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9067549
+No Smoking,No Smoking,893.477,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.90774035
+No Smoking,No Smoking,894.49194,5.185974,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.91624594
+No Smoking,No Smoking,895.54803,5.1810303,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9482808
+No Smoking,No Smoking,896.5999,5.1520386,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9809936
+No Smoking,No Smoking,897.623,5.1760254,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99128896
+No Smoking,No Smoking,898.667,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9947798
+No Smoking,No Smoking,899.678,5.19104,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99585897
+No Smoking,No Smoking,900.729,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99659526
+No Smoking,No Smoking,901.752,5.200012,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9969892
+No Smoking,No Smoking,902.799,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9971267
+No Smoking,No Smoking,903.829,5.1799927,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99729866
+No Smoking,No Smoking,904.869,5.203003,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9974249
+No Smoking,No Smoking,905.889,5.1690063,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9974921
+No Smoking,No Smoking,906.952,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99757236
+No Smoking,No Smoking,907.961,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9977196
+No Smoking,No Smoking,909.009,5.170044,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9978375
+No Smoking,No Smoking,910.072,5.1279907,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9979504
+No Smoking,No Smoking,911.058,5.1810303,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99803895
+No Smoking,No Smoking,912.112,5.15802,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9981359
+No Smoking,No Smoking,913.12,5.1900024,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9982427
+No Smoking,No Smoking,914.17896,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9983634
+No Smoking,No Smoking,915.19995,5.1879883,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99843717
+No Smoking,No Smoking,916.239,5.1589966,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99852175
+No Smoking,No Smoking,917.26996,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9985666
+No Smoking,No Smoking,918.30994,5.15802,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9986663
+No Smoking,No Smoking,919.341,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99876285
+No Smoking,No Smoking,920.38806,5.153015,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9988917
+No Smoking,No Smoking,921.3981,5.174011,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.998996
+No Smoking,No Smoking,922.46094,5.1619873,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99909306
+No Smoking,No Smoking,923.468,5.1610107,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99915737
+No Smoking,No Smoking,924.532,5.145996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99922556
+No Smoking,No Smoking,925.5411,5.166992,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9992697
+No Smoking,No Smoking,926.572,5.1869507,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9993132
+No Smoking,No Smoking,927.623,5.145996,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9993556
+No Smoking,No Smoking,928.629,5.190979,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99939454
+No Smoking,No Smoking,929.678,5.1620483,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9994322
+No Smoking,No Smoking,930.708,5.182007,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99945414
+No Smoking,No Smoking,931.759,5.151001,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.999479
+No Smoking,No Smoking,932.769,5.210022,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99949545
+No Smoking,No Smoking,933.82,5.159973,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99951226
+No Smoking,No Smoking,934.84,5.197998,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9995276
+No Smoking,No Smoking,935.89,5.1709595,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.9995396
+No Smoking,No Smoking,936.91003,5.170044,1,824c6ba0-1e62-431e-ac0e-9bfd31fe7afa:session_021,0.99955314

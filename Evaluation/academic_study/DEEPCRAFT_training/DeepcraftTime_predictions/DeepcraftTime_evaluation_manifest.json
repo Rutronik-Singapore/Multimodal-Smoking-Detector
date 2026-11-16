@@ -1,0 +1,66 @@
+{
+  "model": "DeepcraftTime",
+  "display_name": "Deepcraft Time",
+  "generated_utc": "2026-09-11T08:16:19.978908+00:00",
+  "source_csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\csv_merge\\0408_merge.csv",
+  "source_hash": "10dee5cdaa9e550e19ae90aa0baa39df4737f5b4aa7f2a49be24a6d81c45f8e3",
+  "partition_manifest": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DecisionTree\\DT_models\\session_partitions.csv",
+  "partition_hash": "27e1e484e59cf65b468a1c563a3da2bfeed08d8cd74dc96dd7bc3b1f26f9fb98",
+  "deepcraft_project": "C:\\Users\\Lab\\Documents\\Deepcraft\\TimeSmokingPredict",
+  "deepcraft_model_folder": "C:\\Users\\Lab\\Documents\\Deepcraft\\TimeSmokingPredict\\time_model",
+  "h5_path": "C:\\Users\\Lab\\Documents\\Deepcraft\\TimeSmokingPredict\\conv1d-medium-balanced-3\\conv1d-medium-balanced-3.h5",
+  "h5_sha256": "5bd98721c00eb5aab962afa568938922f1ad195c9fcadb52874741349bbd7400",
+  "header_path": "C:\\Users\\Lab\\Documents\\Deepcraft\\TimeSmokingPredict\\time_model\\time_model.h",
+  "header_sha256": "afe61c0d5219b2c03a9e7a031c1d1caf39ba61748ee9c21d9553467f09c1c171",
+  "source_path": "C:\\Users\\Lab\\Documents\\Deepcraft\\TimeSmokingPredict\\time_model\\time_model.c",
+  "source_sha256": "62766d23989e90c4b71c8a02c5a2501fd10239225e54f12727aee69b87c952a9",
+  "metadata": {
+    "preprocessor_inshape": [
+      7
+    ],
+    "preprocessor_outshape": [
+      30,
+      7
+    ],
+    "preprocessor_infreq": "1",
+    "sliding_window_shape": [
+      30,
+      7
+    ],
+    "sliding_window_stride": "7",
+    "symbol_map": [
+      {
+        "name": "unlabeled",
+        "id": 0
+      },
+      {
+        "name": "No Smoking",
+        "id": 1
+      },
+      {
+        "name": "Smoking",
+        "id": 2
+      }
+    ],
+    "data_files": []
+  },
+  "prediction_alignment": {
+    "prediction_time_interpretation": "saved .data Time + Duration is aligned to the source row at the trailing window end",
+    "alignment_tolerance_seconds": 0.55,
+    "max_abs_alignment_error_seconds": 0.0002500000009604264,
+    "window_crosses_session_boundary_count": 0
+  },
+  "label_mapping": {
+    "source_labels": {
+      "0": "no_smoking",
+      "1": "smoking"
+    },
+    "deepcraft_classes": {
+      "0": "unlabeled",
+      "1": "No Smoking",
+      "2": "Smoking"
+    },
+    "binary_decision": "Smoking maps to 1; No Smoking and unlabeled map to 0"
+  },
+  "dependency_note": "TensorFlow/Keras/h5py were unavailable in this runtime; evaluation uses saved DEEPCRAFT prediction artifacts rather than loading .h5 weights."
+}

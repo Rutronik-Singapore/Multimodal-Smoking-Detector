@@ -1,0 +1,251 @@
+{
+  "source_summary": {
+    "path": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\model_updates\\0408_merge.csv",
+    "size_bytes": 1215852,
+    "sha256": "10dee5cdaa9e550e19ae90aa0baa39df4737f5b4aa7f2a49be24a6d81c45f8e3",
+    "row_count": 27358,
+    "dataset_count": 22,
+    "columns": [
+      "dataset_id",
+      "elapsed_seconds",
+      "pm1_0",
+      "pm2_5",
+      "pm4_0",
+      "pm10_0",
+      "voc_index",
+      "nox_index",
+      "co2_ppm",
+      "label"
+    ],
+    "label_counts": {
+      "0": 17136,
+      "1": 10222
+    },
+    "rows_per_dataset": {
+      "1": 588,
+      "2": 4814,
+      "3": 1554,
+      "4": 2084,
+      "5": 2470,
+      "6": 1628,
+      "7": 690,
+      "8": 875,
+      "9": 698,
+      "10": 659,
+      "11": 1106,
+      "12": 652,
+      "13": 925,
+      "14": 1407,
+      "15": 1343,
+      "16": 970,
+      "17": 504,
+      "18": 1051,
+      "19": 484,
+      "20": 1145,
+      "21": 912,
+      "22": 799
+    },
+    "elapsed_ranges": {
+      "1": [
+        11.246,
+        601.14
+      ],
+      "2": [
+        141.868,
+        4979.666
+      ],
+      "3": [
+        11.246,
+        1572.094
+      ],
+      "4": [
+        16.249,
+        2109.978
+      ],
+      "5": [
+        11.246,
+        2493.134
+      ],
+      "6": [
+        11.246,
+        1646.66
+      ],
+      "7": [
+        11.297,
+        703.829
+      ],
+      "8": [
+        41.439,
+        919.873
+      ],
+      "9": [
+        11.246,
+        711.82
+      ],
+      "10": [
+        11.246,
+        672.603
+      ],
+      "11": [
+        16.279,
+        1127.09
+      ],
+      "12": [
+        11.246,
+        665.525
+      ],
+      "13": [
+        10.57,
+        939.364
+      ],
+      "14": [
+        10.5,
+        1423.719
+      ],
+      "15": [
+        10.529,
+        1359.379
+      ],
+      "16": [
+        0.0,
+        1002.206
+      ],
+      "17": [
+        0.0,
+        520.309
+      ],
+      "18": [
+        0.0,
+        1086.119
+      ],
+      "19": [
+        0.0,
+        498.519
+      ],
+      "20": [
+        0.0,
+        1180.762
+      ],
+      "21": [
+        0.0,
+        942.08
+      ],
+      "22": [
+        0.0,
+        825.484
+      ]
+    }
+  },
+  "row_count_after_cleaning": 27358,
+  "row_count_after_temporal_filter": 25252,
+  "removed_rows": [],
+  "partition_manifest": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\session_partitions.csv",
+  "temporal_windows_seconds": [
+    5,
+    10,
+    30
+  ],
+  "selected_families": [
+    "mean"
+  ],
+  "selected_temporal_family_label": "raw+mean",
+  "ablation_policy": {
+    "mode": "interpretive",
+    "default": "interpretive-only; final model retains all channels unless --ablation-mode formal is implemented deliberately",
+    "channels_retained": [
+      "pm1_0",
+      "pm2_5",
+      "pm4_0",
+      "pm10_0",
+      "voc_index",
+      "nox_index",
+      "co2_ppm"
+    ],
+    "channels_removed": []
+  },
+  "resampling_policy": "fixed 1 Hz per session: subtract session start, round elapsed seconds to nearest integer, keep last sample per second",
+  "label_crossing_policy": "exclude rows whose complete rolling window contains more than one ground-truth label",
+  "incomplete_window_policy": "exclude until complete history is available",
+  "model": "DT2",
+  "params": {
+    "criterion": "entropy",
+    "max_depth": 6,
+    "min_samples_leaf": 20,
+    "min_samples_split": 40,
+    "class_weight": "balanced",
+    "max_thresholds": 24,
+    "ccp_alpha": 0.0
+  },
+  "selected_features": [
+    "pm1_0",
+    "pm2_5",
+    "pm4_0",
+    "pm10_0",
+    "voc_index",
+    "nox_index",
+    "co2_ppm",
+    "pm1_0_mean_5s",
+    "pm1_0_mean_10s",
+    "pm1_0_mean_30s",
+    "pm2_5_mean_5s",
+    "pm2_5_mean_10s",
+    "pm2_5_mean_30s",
+    "pm4_0_mean_5s",
+    "pm4_0_mean_10s",
+    "pm4_0_mean_30s",
+    "pm10_0_mean_5s",
+    "pm10_0_mean_10s",
+    "pm10_0_mean_30s",
+    "voc_index_mean_5s",
+    "voc_index_mean_10s",
+    "voc_index_mean_30s",
+    "nox_index_mean_5s",
+    "nox_index_mean_10s",
+    "nox_index_mean_30s",
+    "co2_ppm_mean_5s",
+    "co2_ppm_mean_10s",
+    "co2_ppm_mean_30s"
+  ],
+  "software_versions": {
+    "python": "3.12.13 (main, Aug  7 2026, 02:26:41) [MSC v.1944 64 bit (AMD64)]",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "platform": "Windows-11-10.0.26200-SP0"
+  },
+  "firmware_contract": {
+    "inspected_root": "C:\\Users\\Lab\\pse84ai\\IAQ_PSE",
+    "model_header_included_by": "proj_cm33_ns\\source\\prediction\\sen66_prediction.c",
+    "current_model_header": "sen66_time_tree_model.h",
+    "current_prediction_function": "sen66_time_tree_predict_smoking",
+    "wrapper_api": "bool sen66_prediction_update(uint16_t pm1, uint16_t pm25, uint16_t pm4, uint16_t pm10, int16_t voc, int16_t nox, uint16_t co2, uint8_t *prediction)",
+    "generated_model_style": "pure bool function with scalar float feature arguments",
+    "return_convention": "false/0 = no smoking, true/1 = smoking",
+    "sensor_scaling": "SEN66 integer PM/VOC/NOx inputs are divided by 10.0f; CO2 is used as ppm float",
+    "rolling_owner": "proj_cm33_ns/source/prediction/sen66_prediction.c owns static rolling buffers for the current DT-0 style model",
+    "prediction_cadence": "one prediction per successful SEN66 sample in task_sen66_stream on CM33 non-secure core",
+    "build_requirements": "proj_cm33_ns/Makefile includes source/model and source/prediction; automatic source discovery builds .c files under source/model"
+  },
+  "outputs": {
+    "DT2_ablation_policy.json": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_ablation_policy.json",
+    "DT2_excluded_rows.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_excluded_rows.csv",
+    "DT2_exclusion_mask_report.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_exclusion_mask_report.csv",
+    "DT2_features.c": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_features.c",
+    "DT2_features.h": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_features.h",
+    "DT2_grouped_cv_manifest.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_grouped_cv_manifest.csv",
+    "DT2_model.c": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_model.c",
+    "DT2_model.h": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_model.h",
+    "DT2_model.txt": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_model.txt",
+    "DT2_model_features.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_model_features.csv",
+    "DT2_model_metrics.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_model_metrics.csv",
+    "DT2_model_predictions.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_model_predictions.csv",
+    "DT2_resampling_report.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_resampling_report.csv",
+    "DT2_sensor_group_ablation.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_sensor_group_ablation.csv",
+    "DT2_stage1_temporal_family_results.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_stage1_temporal_family_results.csv",
+    "DT2_stage2_duration_results.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_stage2_duration_results.csv",
+    "DT2_stage4_tree_tuning_candidate_scores.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_stage4_tree_tuning_candidate_scores.csv",
+    "DT2_stage4_tree_tuning_grouped_cv_manifest.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_stage4_tree_tuning_grouped_cv_manifest.csv",
+    "DT2_stage4_tree_tuning_near_best_candidates.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_stage4_tree_tuning_near_best_candidates.csv",
+    "DT2_stage4_tree_tuning_results.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\DT2_stage4_tree_tuning_results.csv",
+    "train_DT2.py": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT2\\train_DT2.py"
+  }
+}

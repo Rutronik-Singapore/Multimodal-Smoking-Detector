@@ -1,0 +1,4 @@
+dataset_id,event_index,event_start_time,event_end_time,event_detected,time_to_first_smoking_prediction,proportion_event_predicted_smoking,time_smoking_predictions_persist_after_event_end,smoking_prediction_persistence_samples_after_event_end,not_ready_startup_samples,operationally_evaluated_rows,transition_rows_retained,startup_rows_marked_not_ready
+11,1,323.0,802.0,True,0.0,0.9453781512605042,104.0,104,30,1073,True,True
+15,1,513.0,1010.0,True,32.0,0.6133603238866396,5.0,5,30,1307,True,True
+16,1,364.0,804.0,True,0.0,1.0,128.0,128,30,940,True,True

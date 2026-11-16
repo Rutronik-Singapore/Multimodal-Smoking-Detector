@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ImagimobStudio version="0.9">
+  <Timeline id="e060e661-e994-4e44-b778-19659641a662">
+    <Tracks>
+      <Track name="sensor" type="datacsv" isLabelTrack="False">
+        <PayloadFile>sensor.csv</PayloadFile>
+        <Shape>
+          <Axis name="" size="7">
+            <Label index="0">pm1_0</Label>
+            <Label index="1">pm2_5</Label>
+            <Label index="2">pm4_0</Label>
+            <Label index="3">pm10_0</Label>
+            <Label index="4">voc_index</Label>
+            <Label index="5">nox_index</Label>
+            <Label index="6">co2_ppm</Label>
+          </Axis>
+        </Shape>
+      </Track>
+      <Track name="label" type="labelcsv">
+        <PayloadFile>label.label</PayloadFile>
+        <Shape>
+          <Axis name="Labels" size="2">
+            <Label index="0">No Smoking</Label>
+            <Label index="1">Smoking</Label>
+          </Axis>
+        </Shape>
+      </Track>
+    </Tracks>
+  </Timeline>
+</ImagimobStudio>

@@ -1,0 +1,58 @@
+DT2 report
+
+Firmware contract summary:
+{
+  "inspected_root": "C:\\Users\\Lab\\pse84ai\\IAQ_PSE",
+  "model_header_included_by": "proj_cm33_ns\\source\\prediction\\sen66_prediction.c",
+  "current_model_header": "sen66_time_tree_model.h",
+  "current_prediction_function": "sen66_time_tree_predict_smoking",
+  "wrapper_api": "bool sen66_prediction_update(uint16_t pm1, uint16_t pm25, uint16_t pm4, uint16_t pm10, int16_t voc, int16_t nox, uint16_t co2, uint8_t *prediction)",
+  "generated_model_style": "pure bool function with scalar float feature arguments",
+  "return_convention": "false/0 = no smoking, true/1 = smoking",
+  "sensor_scaling": "SEN66 integer PM/VOC/NOx inputs are divided by 10.0f; CO2 is used as ppm float",
+  "rolling_owner": "proj_cm33_ns/source/prediction/sen66_prediction.c owns static rolling buffers for the current DT-0 style model",
+  "prediction_cadence": "one prediction per successful SEN66 sample in task_sen66_stream on CM33 non-secure core",
+  "build_requirements": "proj_cm33_ns/Makefile includes source/model and source/prediction; automatic source discovery builds .c files under source/model"
+}
+
+Features (28): ['pm1_0', 'pm2_5', 'pm4_0', 'pm10_0', 'voc_index', 'nox_index', 'co2_ppm', 'pm1_0_mean_5s', 'pm1_0_mean_10s', 'pm1_0_mean_30s', 'pm2_5_mean_5s', 'pm2_5_mean_10s', 'pm2_5_mean_30s', 'pm4_0_mean_5s', 'pm4_0_mean_10s', 'pm4_0_mean_30s', 'pm10_0_mean_5s', 'pm10_0_mean_10s', 'pm10_0_mean_30s', 'voc_index_mean_5s', 'voc_index_mean_10s', 'voc_index_mean_30s', 'nox_index_mean_5s', 'nox_index_mean_10s', 'nox_index_mean_30s', 'co2_ppm_mean_5s', 'co2_ppm_mean_10s', 'co2_ppm_mean_30s']
+Params: {'criterion': 'entropy', 'max_depth': 6, 'min_samples_leaf': 20, 'min_samples_split': 40, 'class_weight': 'balanced', 'max_thresholds': 24, 'ccp_alpha': 0.0}
+Tree depth: 6
+Leaf count: 39
+Python/C-equivalent mismatch count: 0
+
+Test metrics:
+{
+  "test_support": 3140,
+  "test_accuracy": 0.8165605095541402,
+  "test_no_smoking_precision": 0.8946047678795483,
+  "test_no_smoking_recall": 0.777535441657579,
+  "test_no_smoking_f1": 0.8319719953325554,
+  "test_no_smoking_support": 1834,
+  "test_smoking_precision": 0.7360931435963778,
+  "test_smoking_recall": 0.8713629402756509,
+  "test_smoking_f1": 0.7980364656381487,
+  "test_smoking_support": 1306,
+  "test_macro_f1": 0.815004230485352,
+  "test_balanced_accuracy": 0.824449190966615,
+  "test_confusion_tn": 1426,
+  "test_confusion_fp": 408,
+  "test_confusion_fn": 168,
+  "test_confusion_tp": 1138,
+  "test_false_positive_samples": 408,
+  "test_false_positive_samples_per_no_smoking_hour": 435.7164046277069,
+  "test_false_positive_episode_count": 6,
+  "test_false_positive_episodes_per_no_smoking_hour": 6.407594185701572,
+  "test_false_positive_episode_mean_duration": 69.16666666666667,
+  "test_false_positive_episode_max_duration": 168.0,
+  "test_event_count": 3,
+  "test_event_detection_rate": 1.0,
+  "test_mean_detection_delay_seconds": 3.0,
+  "test_prediction_transition_count": 24
+}
+
+Per-session test metrics:
+ test_support  test_accuracy  test_no_smoking_precision  test_no_smoking_recall  test_no_smoking_f1  test_no_smoking_support  test_smoking_precision  test_smoking_recall  test_smoking_f1  test_smoking_support  test_macro_f1  test_balanced_accuracy  test_confusion_tn  test_confusion_fp  test_confusion_fn  test_confusion_tp  test_false_positive_samples  test_false_positive_samples_per_no_smoking_hour  test_false_positive_episode_count  test_false_positive_episodes_per_no_smoking_hour  test_false_positive_episode_mean_duration  test_false_positive_episode_max_duration  test_event_count  test_event_detection_rate  test_mean_detection_delay_seconds  test_prediction_transition_count  dataset_id
+         1013       0.878578                   0.984716                0.795414            0.880000                      567                0.790991             0.984305         0.877123                   446       0.878561                0.889860                451                116                  7                439                          116                                       386.308973                                  2                                          6.660500                                       58.5                                      75.0                 1                        1.0                                7.0                                 4          11
+         1247       0.848436                   0.824236                0.964240            0.888758                      783                0.915408             0.653017         0.762264                   464       0.825511                0.808629                755                 28                161                303                           28                                        76.421531                                  1                                          2.729340                                       28.0                                      28.0                 1                        1.0                                2.0                                16          15
+          880       0.700000                   1.000000                0.454545            0.625000                      484                0.600000             1.000000         0.750000                   396       0.687500                0.727273                220                264                  0                396                          264                                       978.784758                                  3                                         11.122554                                       90.0                                     168.0                 1                        1.0                                0.0                                 4          16

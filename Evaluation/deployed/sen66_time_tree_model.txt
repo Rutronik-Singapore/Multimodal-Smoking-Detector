@@ -1,0 +1,52 @@
+|--- pm2_5_mean_5 <= 9.095145
+|   |--- co2_ppm_max_30 <= 431.000000
+|   |   |--- co2_ppm_max_30 <= 430.500000
+|   |   |   |--- voc_index_delta_5 <= -0.500000
+|   |   |   |   class: no smoking
+|   |   |   |--- voc_index_delta_5 >  -0.500000
+|   |   |   |   class: no smoking
+|   |   |--- co2_ppm_max_30 >  430.500000
+|   |   |   class: smoking
+|   |--- co2_ppm_max_30 >  431.000000
+|   |   |--- pm1_0 <= 0.050000
+|   |   |   class: no smoking
+|   |   |--- pm1_0 >  0.050000
+|   |   |   class: no smoking
+|--- pm2_5_mean_5 >  9.095145
+|   |--- co2_ppm_max_30 <= 589.000000
+|   |   |--- co2_ppm_delta_30 <= 4.500000
+|   |   |   |--- pm1_0 <= 4.800000
+|   |   |   |   class: no smoking
+|   |   |   |--- pm1_0 >  4.800000
+|   |   |   |   |--- co2_ppm_delta_5 <= 2.500000
+|   |   |   |   |   class: smoking
+|   |   |   |   |--- co2_ppm_delta_5 >  2.500000
+|   |   |   |   |   class: no smoking
+|   |   |--- co2_ppm_delta_30 >  4.500000
+|   |   |   |--- pm10_0_mean_30 <= 14.776407
+|   |   |   |   |--- pm2_5_mean_5 <= 9.770000
+|   |   |   |   |   class: no smoking
+|   |   |   |   |--- pm2_5_mean_5 >  9.770000
+|   |   |   |   |   class: smoking
+|   |   |   |--- pm10_0_mean_30 >  14.776407
+|   |   |   |   class: no smoking
+|   |--- co2_ppm_max_30 >  589.000000
+|   |   |--- pm10_0_mean_30 <= 19.958611
+|   |   |   |--- pm1_0 <= 5.500000
+|   |   |   |   |--- co2_ppm <= 612.000000
+|   |   |   |   |   class: smoking
+|   |   |   |   |--- co2_ppm >  612.000000
+|   |   |   |   |   class: no smoking
+|   |   |   |--- pm1_0 >  5.500000
+|   |   |   |   class: no smoking
+|   |   |--- pm10_0_mean_30 >  19.958611
+|   |   |   |--- pm2_5 <= 18.500000
+|   |   |   |   |--- co2_ppm_delta_30 <= -13.000000
+|   |   |   |   |   class: smoking
+|   |   |   |   |--- co2_ppm_delta_30 >  -13.000000
+|   |   |   |   |   class: no smoking
+|   |   |   |--- pm2_5 >  18.500000
+|   |   |   |   |--- pm10_0_mean_30 <= 40.297601
+|   |   |   |   |   class: no smoking
+|   |   |   |   |--- pm10_0_mean_30 >  40.297601
+|   |   |   |   |   class: smoking

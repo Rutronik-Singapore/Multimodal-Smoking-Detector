@@ -1,0 +1,23 @@
+dataset_id,source_rows,resampled_rows,rows_removed_by_duplicate_second_collapse,resampling_method,split
+2,4814,4797,17,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+3,1554,1549,5,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+4,2084,2080,4,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+6,1628,1621,7,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+7,690,690,0,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+8,875,871,4,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+9,698,696,2,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+10,659,659,0,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+12,652,651,1,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+14,1407,1402,5,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+17,504,504,0,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+18,1051,1050,1,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+19,484,484,0,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+20,1145,1143,2,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+21,912,910,2,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+22,799,798,1,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",train
+1,588,586,2,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",validation
+5,2470,2462,8,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",validation
+13,925,924,1,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",validation
+11,1106,1103,3,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",test
+15,1343,1337,6,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",test
+16,970,970,0,"subtract first timestamp, round elapsed seconds to nearest integer, keep last sample per second; no interpolation across sessions",test

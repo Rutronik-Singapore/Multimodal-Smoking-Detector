@@ -1,0 +1,3 @@
+/logs/csv_merge/0408_merge.csv -text
+/logs/csv_log/legacy/** -text
+/logs/csv_log/pse84/** -text

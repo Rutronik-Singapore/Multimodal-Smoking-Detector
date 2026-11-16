@@ -1,0 +1,359 @@
+{
+  "model": "DT0",
+  "run_timestamp": "2026-08-13T10:04:13.262745",
+  "source_csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\model_updates\\0408_merge.csv",
+  "source_csv_hash": "10dee5cdaa9e550e19ae90aa0baa39df4737f5b4aa7f2a49be24a6d81c45f8e3",
+  "partition_manifest": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\session_partitions.csv",
+  "partition_manifest_hash": "27e1e484e59cf65b468a1c563a3da2bfeed08d8cd74dc96dd7bc3b1f26f9fb98",
+  "archive_existing": true,
+  "overwrite": false,
+  "deployment_only": false,
+  "configuration": {
+    "source_summary": {
+      "path": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\model_updates\\0408_merge.csv",
+      "size_bytes": 1215852,
+      "sha256": "10dee5cdaa9e550e19ae90aa0baa39df4737f5b4aa7f2a49be24a6d81c45f8e3",
+      "row_count": 27358,
+      "dataset_count": 22,
+      "columns": [
+        "dataset_id",
+        "elapsed_seconds",
+        "pm1_0",
+        "pm2_5",
+        "pm4_0",
+        "pm10_0",
+        "voc_index",
+        "nox_index",
+        "co2_ppm",
+        "label"
+      ],
+      "label_counts": {
+        "0": 17136,
+        "1": 10222
+      },
+      "rows_per_dataset": {
+        "1": 588,
+        "2": 4814,
+        "3": 1554,
+        "4": 2084,
+        "5": 2470,
+        "6": 1628,
+        "7": 690,
+        "8": 875,
+        "9": 698,
+        "10": 659,
+        "11": 1106,
+        "12": 652,
+        "13": 925,
+        "14": 1407,
+        "15": 1343,
+        "16": 970,
+        "17": 504,
+        "18": 1051,
+        "19": 484,
+        "20": 1145,
+        "21": 912,
+        "22": 799
+      },
+      "elapsed_ranges": {
+        "1": [
+          11.246,
+          601.14
+        ],
+        "2": [
+          141.868,
+          4979.666
+        ],
+        "3": [
+          11.246,
+          1572.094
+        ],
+        "4": [
+          16.249,
+          2109.978
+        ],
+        "5": [
+          11.246,
+          2493.134
+        ],
+        "6": [
+          11.246,
+          1646.66
+        ],
+        "7": [
+          11.297,
+          703.829
+        ],
+        "8": [
+          41.439,
+          919.873
+        ],
+        "9": [
+          11.246,
+          711.82
+        ],
+        "10": [
+          11.246,
+          672.603
+        ],
+        "11": [
+          16.279,
+          1127.09
+        ],
+        "12": [
+          11.246,
+          665.525
+        ],
+        "13": [
+          10.57,
+          939.364
+        ],
+        "14": [
+          10.5,
+          1423.719
+        ],
+        "15": [
+          10.529,
+          1359.379
+        ],
+        "16": [
+          0.0,
+          1002.206
+        ],
+        "17": [
+          0.0,
+          520.309
+        ],
+        "18": [
+          0.0,
+          1086.119
+        ],
+        "19": [
+          0.0,
+          498.519
+        ],
+        "20": [
+          0.0,
+          1180.762
+        ],
+        "21": [
+          0.0,
+          942.08
+        ],
+        "22": [
+          0.0,
+          825.484
+        ]
+      }
+    },
+    "row_count_after_cleaning": 27358,
+    "removed_rows": [],
+    "partition_manifest": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\session_partitions.csv",
+    "historical_baseline": true,
+    "dt0_preserved_rules": {
+      "rolling_base_features": [
+        "pm2_5",
+        "pm10_0",
+        "voc_index",
+        "co2_ppm"
+      ],
+      "windows": [
+        5,
+        10,
+        30
+      ],
+      "min_periods": 1,
+      "delta_fill": 0
+    },
+    "model": "DT0",
+    "params": {
+      "criterion": "gini",
+      "max_depth": 5,
+      "min_samples_leaf": 20,
+      "min_samples_split": 40,
+      "class_weight": "balanced",
+      "max_thresholds": 128
+    },
+    "selected_features": [
+      "pm1_0",
+      "pm2_5",
+      "pm4_0",
+      "pm10_0",
+      "voc_index",
+      "nox_index",
+      "co2_ppm",
+      "pm2_5_mean_5",
+      "pm2_5_max_5",
+      "pm2_5_delta_5",
+      "pm2_5_mean_10",
+      "pm2_5_max_10",
+      "pm2_5_delta_10",
+      "pm2_5_mean_30",
+      "pm2_5_max_30",
+      "pm2_5_delta_30",
+      "pm10_0_mean_5",
+      "pm10_0_max_5",
+      "pm10_0_delta_5",
+      "pm10_0_mean_10",
+      "pm10_0_max_10",
+      "pm10_0_delta_10",
+      "pm10_0_mean_30",
+      "pm10_0_max_30",
+      "pm10_0_delta_30",
+      "voc_index_mean_5",
+      "voc_index_max_5",
+      "voc_index_delta_5",
+      "voc_index_mean_10",
+      "voc_index_max_10",
+      "voc_index_delta_10",
+      "voc_index_mean_30",
+      "voc_index_max_30",
+      "voc_index_delta_30",
+      "co2_ppm_mean_5",
+      "co2_ppm_max_5",
+      "co2_ppm_delta_5",
+      "co2_ppm_mean_10",
+      "co2_ppm_max_10",
+      "co2_ppm_delta_10",
+      "co2_ppm_mean_30",
+      "co2_ppm_max_30",
+      "co2_ppm_delta_30"
+    ],
+    "software_versions": {
+      "python": "3.12.13 (main, Aug  7 2026, 02:26:41) [MSC v.1944 64 bit (AMD64)]",
+      "numpy": "2.3.5",
+      "pandas": "3.0.1",
+      "platform": "Windows-11-10.0.26200-SP0"
+    },
+    "firmware_contract": {
+      "inspected_root": "C:\\Users\\Lab\\pse84ai\\IAQ_PSE",
+      "model_header_included_by": "proj_cm33_ns\\source\\prediction\\sen66_prediction.c",
+      "current_model_header": "sen66_time_tree_model.h",
+      "current_prediction_function": "sen66_time_tree_predict_smoking",
+      "wrapper_api": "bool sen66_prediction_update(uint16_t pm1, uint16_t pm25, uint16_t pm4, uint16_t pm10, int16_t voc, int16_t nox, uint16_t co2, uint8_t *prediction)",
+      "generated_model_style": "pure bool function with scalar float feature arguments",
+      "return_convention": "false/0 = no smoking, true/1 = smoking",
+      "sensor_scaling": "SEN66 integer PM/VOC/NOx inputs are divided by 10.0f; CO2 is used as ppm float",
+      "rolling_owner": "proj_cm33_ns/source/prediction/sen66_prediction.c owns static rolling buffers for the current DT-0 style model",
+      "prediction_cadence": "one prediction per successful SEN66 sample in task_sen66_stream on CM33 non-secure core",
+      "build_requirements": "proj_cm33_ns/Makefile includes source/model and source/prediction; automatic source discovery builds .c files under source/model"
+    },
+    "outputs": {
+      "DT0_fixed_validation_metrics.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_fixed_validation_metrics.csv",
+      "DT0_model.c": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model.c",
+      "DT0_model.h": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model.h",
+      "DT0_model.txt": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model.txt",
+      "DT0_model_features.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model_features.csv",
+      "DT0_model_metrics.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model_metrics.csv",
+      "DT0_model_predictions.csv": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model_predictions.csv",
+      "train_DT0.py": "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\train_DT0.py"
+    }
+  },
+  "metrics": {
+    "test_support": 3419,
+    "test_accuracy": 0.8148581456566247,
+    "test_no_smoking_precision": 0.951171875,
+    "test_no_smoking_recall": 0.7236255572065379,
+    "test_no_smoking_f1": 0.8219409282700422,
+    "test_no_smoking_support": 2019,
+    "test_smoking_precision": 0.7036643653744026,
+    "test_smoking_recall": 0.9464285714285714,
+    "test_smoking_f1": 0.8071885470606153,
+    "test_smoking_support": 1400,
+    "test_macro_f1": 0.8145647376653287,
+    "test_balanced_accuracy": 0.8350270643175546,
+    "test_confusion_tn": 1461,
+    "test_confusion_fp": 558,
+    "test_confusion_fn": 75,
+    "test_confusion_tp": 1325,
+    "test_false_positive_samples": 558,
+    "test_false_positive_samples_per_no_smoking_hour": 580.2649264110954,
+    "test_false_positive_episode_count": 10,
+    "test_false_positive_episodes_per_no_smoking_hour": 10.399013018119991,
+    "test_false_positive_episode_mean_duration": 55.8885,
+    "test_false_positive_episode_max_duration": 162.401,
+    "test_event_count": 3,
+    "test_event_detection_rate": 1.0,
+    "test_mean_detection_delay_seconds": 12.064666666666673,
+    "test_prediction_transition_count": 24,
+    "train_support": 23939,
+    "train_accuracy": 0.8819917289778186,
+    "train_no_smoking_precision": 0.982872407291012,
+    "train_no_smoking_recall": 0.827545147846795,
+    "train_no_smoking_f1": 0.8985455198419824,
+    "train_no_smoking_support": 15117,
+    "train_smoking_precision": 0.7674605298367675,
+    "train_smoking_recall": 0.9752890501020177,
+    "train_smoking_f1": 0.8589826785803424,
+    "train_smoking_support": 8822,
+    "train_macro_f1": 0.8787640992111624,
+    "train_balanced_accuracy": 0.9014170989744064,
+    "train_confusion_tn": 12510,
+    "train_confusion_fp": 2607,
+    "train_confusion_fn": 218,
+    "train_confusion_tp": 8604,
+    "train_false_positive_samples": 2607,
+    "train_false_positive_samples_per_no_smoking_hour": 388.15476974558305,
+    "train_false_positive_episode_count": 60,
+    "train_false_positive_episodes_per_no_smoking_hour": 8.933366392303407,
+    "train_false_positive_episode_mean_duration": 42.90330000000001,
+    "train_false_positive_episode_max_duration": 205.00199999999995,
+    "train_event_count": 24,
+    "train_event_detection_rate": 0.9583333333333334,
+    "train_mean_detection_delay_seconds": 1.9060869565217218,
+    "train_prediction_transition_count": 111,
+    "model": "DT0",
+    "tree_depth": 5,
+    "leaf_count": 26,
+    "candidate_feature_count": 43,
+    "selected_input_feature_count": 43,
+    "unique_features_used_in_tree": 14,
+    "total_split_nodes": 25,
+    "unique_sensor_channels_used": 5,
+    "temporal_feature_families_used": "delta,max,mean,raw",
+    "features_used_in_tree": "pm1_0,voc_index,co2_ppm,pm2_5_mean_5,pm2_5_mean_30,pm10_0_mean_10,pm10_0_mean_30,pm10_0_max_30,voc_index_mean_5,voc_index_delta_10,voc_index_mean_30,co2_ppm_delta_10,co2_ppm_max_30,co2_ppm_delta_30",
+    "criterion": "gini",
+    "min_samples_split": 40,
+    "min_samples_leaf": 20,
+    "python_c_mismatch_count": 0,
+    "validation_support": 3983,
+    "validation_accuracy": 0.827014812955059,
+    "validation_no_smoking_precision": 0.972757162987318,
+    "validation_no_smoking_recall": 0.7664692820133234,
+    "validation_no_smoking_f1": 0.8573794245497826,
+    "validation_no_smoking_support": 2702,
+    "validation_smoking_precision": 0.6596548004314995,
+    "validation_smoking_recall": 0.9547228727556596,
+    "validation_smoking_f1": 0.7802232854864434,
+    "validation_smoking_support": 1281,
+    "validation_macro_f1": 0.818801355018113,
+    "validation_balanced_accuracy": 0.8605960773844915,
+    "validation_confusion_tn": 2071,
+    "validation_confusion_fp": 631,
+    "validation_confusion_fn": 58,
+    "validation_confusion_tp": 1223,
+    "validation_false_positive_samples": 631,
+    "validation_false_positive_samples_per_no_smoking_hour": 567.8182341742789,
+    "validation_false_positive_episode_count": 7,
+    "validation_false_positive_episodes_per_no_smoking_hour": 6.2990929306179915,
+    "validation_false_positive_episode_mean_duration": 89.625,
+    "validation_false_positive_episode_max_duration": 184.9670000000001,
+    "validation_event_count": 3,
+    "validation_event_detection_rate": 1.0,
+    "validation_mean_detection_delay_seconds": 0.0,
+    "validation_prediction_transition_count": 26
+  },
+  "generated_outputs": [
+    "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_fixed_validation_metrics.csv",
+    "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_grouped_cv_folds.csv",
+    "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_grouped_cv_manifest.csv",
+    "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model.c",
+    "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model.h",
+    "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model.txt",
+    "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model_config.json",
+    "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model_features.csv",
+    "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model_metrics.csv",
+    "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model_predictions.csv",
+    "C:\\Users\\Lab\\Documents\\SENSIRION\\SEN66\\DT_models\\DT0\\DT0_model_report.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+criterion,max_depth,min_samples_leaf,min_samples_split,class_weight,max_thresholds
+gini,3,20,40,balanced,32
+gini,3,50,100,balanced,32
+gini,5,20,40,balanced,32
+gini,5,50,100,balanced,32
+entropy,3,20,40,balanced,32
+entropy,3,50,100,balanced,32
+entropy,5,20,40,balanced,32
+entropy,5,50,100,balanced,32
+gini,5,20,40,,32

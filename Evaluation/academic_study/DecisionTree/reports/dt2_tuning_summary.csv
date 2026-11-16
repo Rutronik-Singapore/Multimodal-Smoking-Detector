@@ -1,0 +1,26 @@
+stage,candidate_id,candidate_name,validation_smoking_f1,validation_balanced_accuracy,eligible_row_count,selected
+Temporal family,family_001,raw+mean,0.8715124816446401,0.9304174950298212,22112.0,True
+Temporal family,family_002,raw+mean+max,0.8531791907514451,0.906460646399614,22112.0,False
+Temporal family,family_003,raw+mean+max+delta,0.850281425891182,0.9086651112700376,22112.0,False
+Temporal family,family_000,raw,0.8044094488188975,0.8847866419294991,23877.0,False
+Window duration,duration_001,"[5, 10, 30]",0.8715124816446401,0.9304174950298212,22112.0,True
+Window duration,duration_002,"[10, 30]",0.8715124816446401,0.9304174950298212,22112.0,False
+Window duration,duration_000,"[5, 10]",0.7991028516501122,0.8810246679316889,23259.0,False
+Tree tuning,stage4_tree_tuning_015,stage4_tree_tuning_015,0.8901387326584176,0.9417495029821074,,True
+Tree tuning,stage4_tree_tuning_016,stage4_tree_tuning_016,0.8901387326584176,0.9417495029821074,,False
+Tree tuning,stage4_tree_tuning_017,stage4_tree_tuning_017,0.8828560803272592,0.937375745526839,,False
+Tree tuning,stage4_tree_tuning_008,stage4_tree_tuning_008,0.8760147601476015,0.9332007952286284,,False
+Tree tuning,stage4_tree_tuning_005,stage4_tree_tuning_005,0.8715124816446401,0.9304174950298212,,False
+Tree tuning,stage4_tree_tuning_003,stage4_tree_tuning_003,0.8715124816446401,0.9304174950298212,,False
+Tree tuning,stage4_tree_tuning_004,stage4_tree_tuning_004,0.8715124816446401,0.9304174950298212,,False
+Tree tuning,stage4_tree_tuning_006,stage4_tree_tuning_006,0.871504157218443,0.9248431902267942,,False
+Tree tuning,stage4_tree_tuning_007,stage4_tree_tuning_007,0.8701249526694433,0.9233570774175504,,False
+Tree tuning,stage4_tree_tuning_012,stage4_tree_tuning_012,0.8676900584795323,0.9280318091451292,,False
+Tree tuning,stage4_tree_tuning_013,stage4_tree_tuning_013,0.8676900584795323,0.9280318091451292,,False
+Tree tuning,stage4_tree_tuning_014,stage4_tree_tuning_014,0.8676900584795323,0.9280318091451292,,False
+Tree tuning,stage4_tree_tuning_002,stage4_tree_tuning_002,0.8057347670250897,0.8782338823001334,,False
+Tree tuning,stage4_tree_tuning_000,stage4_tree_tuning_000,0.8057347670250897,0.8782338823001334,,False
+Tree tuning,stage4_tree_tuning_001,stage4_tree_tuning_001,0.8057347670250897,0.8782338823001334,,False
+Tree tuning,stage4_tree_tuning_009,stage4_tree_tuning_009,0.8034310221586848,0.8766434250436723,,False
+Tree tuning,stage4_tree_tuning_010,stage4_tree_tuning_010,0.8034310221586848,0.8766434250436723,,False
+Tree tuning,stage4_tree_tuning_011,stage4_tree_tuning_011,0.8034310221586848,0.8766434250436723,,False

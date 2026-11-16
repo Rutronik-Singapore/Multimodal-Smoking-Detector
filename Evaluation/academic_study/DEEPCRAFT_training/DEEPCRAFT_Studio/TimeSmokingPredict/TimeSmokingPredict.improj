@@ -1,0 +1,771 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ImagimobStudio version="1.1.0">
+  <Job id="5c409e63-9168-11f1-b95e-27e83f40e435" />
+  <ProjectType>Classification</ProjectType>
+  <ProjectId>7ca1e196-aa7b-484d-80de-4a98a75603e9</ProjectId>
+  <Preprocessor inshape="[7]" intype="Float32" infreq="1" outshape="[30,7]" outtype="Float32">
+    <Unit id="Core.Queues.SlidingWindow">
+      <Argument param="input" type="String">data</Argument>
+      <Argument param="time_input" type="String">time</Argument>
+      <Argument param="window_shape" type="Shape">[30,7]</Argument>
+      <Argument param="stride" type="Int32">7</Argument>
+      <Argument param="buffer_multiplier" type="Double">1</Argument>
+      <Argument param="output" type="String">data</Argument>
+      <Argument param="time_output" type="String">time</Argument>
+    </Unit>
+  </Preprocessor>
+  <ModelFactory>
+    <Epochs>100</Epochs>
+    <BatchSize>32</BatchSize>
+    <SplitCount>16</SplitCount>
+    <Patience>20</Patience>
+    <AppendModels>False</AppendModels>
+    <LossFunction>CategoricalCrossentropy</LossFunction>
+    <HardwareType>Infineon</HardwareType>
+    <TrainingEnvironment>
+    </TrainingEnvironment>
+    <ModelFamily>Conv1D</ModelFamily>
+    <ModelFlavor>SmallKern</ModelFlavor>
+    <ClassifierType>GlobalAveragePool</ClassifierType>
+    <Optimization>Balanced</Optimization>
+    <Pooling>True</Pooling>
+    <Downscale>False</Downscale>
+    <LearnRate>Mid</LearnRate>
+    <RegularizationFactor>Low</RegularizationFactor>
+    <LastNetworkInputShape>[30,7]</LastNetworkInputShape>
+    <LastClassCount>3</LastClassCount>
+    <Optimizer>
+      <LearningRate>0.001</LearningRate>
+      <WeightDecay>0.0001</WeightDecay>
+    </Optimizer>
+    <BuildSteps>
+      <Training />
+      <ConfusionMatrix />
+    </BuildSteps>
+    <IsNasEnabled>False</IsNasEnabled>
+  </ModelFactory>
+  <Models>
+    <Model name="conv1d-medium-balanced-0" id="1ae39988-f7f9-4d40-b5a2-49a8734cf1f2">
+      <LossFunction>CategoricalCrossentropy</LossFunction>
+      <Epochs>100</Epochs>
+      <BatchSize>32</BatchSize>
+      <SplitCount>16</SplitCount>
+      <Patience>20</Patience>
+      <TrainingEnvironment>
+      </TrainingEnvironment>
+      <Optimizer>
+        <LearningRate>0.004</LearningRate>
+        <WeightDecay>0.0001</WeightDecay>
+      </Optimizer>
+      <Network inshape="[30,7]" intype="Float32" infreq="0" outshape="[3]" outtype="Float32">
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">12</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">24</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">24</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.MaxPool1D">
+          <Argument param="pool_size" type="Int32">2</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">valid</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">32</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">32</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.MaxPool1D">
+          <Argument param="pool_size" type="Int32">2</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">valid</Argument>
+        </Unit>
+        <Unit id="Core.Layers.GlobalAveragePool1D" />
+        <Unit id="Core.Layers.Dense">
+          <Argument param="units" type="Int32">3</Argument>
+          <Argument param="use_bias" type="Boolean">True</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">softmax</Argument>
+        </Unit>
+      </Network>
+      <BuildSteps>
+        <Training />
+        <ConfusionMatrix />
+      </BuildSteps>
+      <SymbolWeights override="False">
+        <SymbolWeight symbol="unlabeled" weight="1" />
+        <SymbolWeight symbol="No Smoking" weight="1" />
+        <SymbolWeight symbol="Smoking" weight="1" />
+      </SymbolWeights>
+      <Preprocessor override="False" inshape="[7]" intype="Float32" infreq="1" outshape="[30,7]" outtype="Float32">
+        <Unit id="Core.Queues.SlidingWindow">
+          <Argument param="input" type="String">data</Argument>
+          <Argument param="time_input" type="String">time</Argument>
+          <Argument param="window_shape" type="Shape">[30,7]</Argument>
+          <Argument param="stride" type="Int32">7</Argument>
+          <Argument param="buffer_multiplier" type="Double">1</Argument>
+          <Argument param="output" type="String">data</Argument>
+          <Argument param="time_output" type="String">time</Argument>
+        </Unit>
+      </Preprocessor>
+      <Postprocessor override="False" inshape="[128,3]" intype="Float32" infreq="1" outshape="[128,3]" outtype="Float32" />
+    </Model>
+    <Model name="conv1d-medium-balanced-1" id="23731ee8-f8e5-4fa9-a2ea-0ee217f29cad">
+      <LossFunction>CategoricalCrossentropy</LossFunction>
+      <Epochs>100</Epochs>
+      <BatchSize>32</BatchSize>
+      <SplitCount>16</SplitCount>
+      <Patience>20</Patience>
+      <TrainingEnvironment>
+      </TrainingEnvironment>
+      <Optimizer>
+        <LearningRate>0.004</LearningRate>
+        <WeightDecay>0.0001</WeightDecay>
+      </Optimizer>
+      <Network inshape="[30,7]" intype="Float32" infreq="0" outshape="[3]" outtype="Float32">
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">16</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">16</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">16</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.MaxPool1D">
+          <Argument param="pool_size" type="Int32">2</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">valid</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">32</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">32</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.MaxPool1D">
+          <Argument param="pool_size" type="Int32">2</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">valid</Argument>
+        </Unit>
+        <Unit id="Core.Layers.GlobalAveragePool1D" />
+        <Unit id="Core.Layers.Dense">
+          <Argument param="units" type="Int32">3</Argument>
+          <Argument param="use_bias" type="Boolean">True</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">softmax</Argument>
+        </Unit>
+      </Network>
+      <BuildSteps>
+        <Training />
+        <ConfusionMatrix />
+      </BuildSteps>
+      <SymbolWeights override="False">
+        <SymbolWeight symbol="unlabeled" weight="1" />
+        <SymbolWeight symbol="No Smoking" weight="1" />
+        <SymbolWeight symbol="Smoking" weight="1" />
+      </SymbolWeights>
+      <Preprocessor override="False" inshape="[7]" intype="Float32" infreq="1" outshape="[30,7]" outtype="Float32">
+        <Unit id="Core.Queues.SlidingWindow">
+          <Argument param="input" type="String">data</Argument>
+          <Argument param="time_input" type="String">time</Argument>
+          <Argument param="window_shape" type="Shape">[30,7]</Argument>
+          <Argument param="stride" type="Int32">7</Argument>
+          <Argument param="buffer_multiplier" type="Double">1</Argument>
+          <Argument param="output" type="String">data</Argument>
+          <Argument param="time_output" type="String">time</Argument>
+        </Unit>
+      </Preprocessor>
+      <Postprocessor override="False" inshape="[128,3]" intype="Float32" infreq="1" outshape="[128,3]" outtype="Float32" />
+    </Model>
+    <Model name="conv1d-medium-balanced-2" id="1d5a1c87-feb1-4585-a5ac-11441c9e891f">
+      <LossFunction>CategoricalCrossentropy</LossFunction>
+      <Epochs>100</Epochs>
+      <BatchSize>32</BatchSize>
+      <SplitCount>16</SplitCount>
+      <Patience>20</Patience>
+      <TrainingEnvironment>
+      </TrainingEnvironment>
+      <Optimizer>
+        <LearningRate>0.004</LearningRate>
+        <WeightDecay>0.0001</WeightDecay>
+      </Optimizer>
+      <Network inshape="[30,7]" intype="Float32" infreq="0" outshape="[3]" outtype="Float32">
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">16</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">32</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">32</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.MaxPool1D">
+          <Argument param="pool_size" type="Int32">2</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">valid</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">32</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">32</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.MaxPool1D">
+          <Argument param="pool_size" type="Int32">2</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">valid</Argument>
+        </Unit>
+        <Unit id="Core.Layers.GlobalAveragePool1D" />
+        <Unit id="Core.Layers.Dense">
+          <Argument param="units" type="Int32">3</Argument>
+          <Argument param="use_bias" type="Boolean">True</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">softmax</Argument>
+        </Unit>
+      </Network>
+      <BuildSteps>
+        <Training />
+        <ConfusionMatrix />
+      </BuildSteps>
+      <SymbolWeights override="False">
+        <SymbolWeight symbol="unlabeled" weight="1" />
+        <SymbolWeight symbol="No Smoking" weight="1" />
+        <SymbolWeight symbol="Smoking" weight="1" />
+      </SymbolWeights>
+      <Preprocessor override="False" inshape="[7]" intype="Float32" infreq="1" outshape="[30,7]" outtype="Float32">
+        <Unit id="Core.Queues.SlidingWindow">
+          <Argument param="input" type="String">data</Argument>
+          <Argument param="time_input" type="String">time</Argument>
+          <Argument param="window_shape" type="Shape">[30,7]</Argument>
+          <Argument param="stride" type="Int32">7</Argument>
+          <Argument param="buffer_multiplier" type="Double">1</Argument>
+          <Argument param="output" type="String">data</Argument>
+          <Argument param="time_output" type="String">time</Argument>
+        </Unit>
+      </Preprocessor>
+      <Postprocessor override="False" inshape="[128,3]" intype="Float32" infreq="1" outshape="[128,3]" outtype="Float32" />
+    </Model>
+    <Model name="conv1d-medium-balanced-3" id="9de9ec35-92c3-4917-b5ee-5bbf3ac34279">
+      <LossFunction>CategoricalCrossentropy</LossFunction>
+      <Epochs>100</Epochs>
+      <BatchSize>32</BatchSize>
+      <SplitCount>16</SplitCount>
+      <Patience>20</Patience>
+      <TrainingEnvironment>
+      </TrainingEnvironment>
+      <Optimizer>
+        <LearningRate>0.004</LearningRate>
+        <WeightDecay>0.0001</WeightDecay>
+      </Optimizer>
+      <Network inshape="[30,7]" intype="Float32" infreq="0" outshape="[3]" outtype="Float32">
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">16</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">32</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">32</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.MaxPool1D">
+          <Argument param="pool_size" type="Int32">2</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">valid</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">64</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Convolution1D">
+          <Argument param="filters" type="Int32">64</Argument>
+          <Argument param="kernel_size" type="Int32">3</Argument>
+          <Argument param="strides" type="Int32">1</Argument>
+          <Argument param="padding" type="String">same</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+          <Argument param="use_bias" type="Boolean">False</Argument>
+        </Unit>
+        <Unit id="Core.Layers.BatchNormalization">
+          <Argument param="epsilon" type="Double">0.001</Argument>
+          <Argument param="axis" type="Int32">-1</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">relu</Argument>
+        </Unit>
+        <Unit id="Core.Layers.MaxPool1D">
+          <Argument param="pool_size" type="Int32">2</Argument>
+          <Argument param="strides" type="Int32">2</Argument>
+          <Argument param="padding" type="String">valid</Argument>
+        </Unit>
+        <Unit id="Core.Layers.GlobalAveragePool1D" />
+        <Unit id="Core.Layers.Dense">
+          <Argument param="units" type="Int32">3</Argument>
+          <Argument param="use_bias" type="Boolean">True</Argument>
+          <Argument param="activation" type="String">linear</Argument>
+        </Unit>
+        <Unit id="Core.Layers.Activation">
+          <Argument param="activation" type="String">softmax</Argument>
+        </Unit>
+      </Network>
+      <BuildSteps>
+        <Training />
+        <ConfusionMatrix />
+      </BuildSteps>
+      <SymbolWeights override="False">
+        <SymbolWeight symbol="unlabeled" weight="1" />
+        <SymbolWeight symbol="No Smoking" weight="1" />
+        <SymbolWeight symbol="Smoking" weight="1" />
+      </SymbolWeights>
+      <Preprocessor override="False" inshape="[7]" intype="Float32" infreq="1" outshape="[30,7]" outtype="Float32">
+        <Unit id="Core.Queues.SlidingWindow">
+          <Argument param="input" type="String">data</Argument>
+          <Argument param="time_input" type="String">time</Argument>
+          <Argument param="window_shape" type="Shape">[30,7]</Argument>
+          <Argument param="stride" type="Int32">7</Argument>
+          <Argument param="buffer_multiplier" type="Double">1</Argument>
+          <Argument param="output" type="String">data</Argument>
+          <Argument param="time_output" type="String">time</Argument>
+        </Unit>
+      </Preprocessor>
+      <Postprocessor override="False" inshape="[128,3]" intype="Float32" infreq="1" outshape="[128,3]" outtype="Float32" />
+    </Model>
+  </Models>
+  <Database balance="AnnotatedLength" redistributionScope="Everything">
+    <SymbolMap>
+      <Symbol name="unlabeled" id="0" weight="1" />
+      <Symbol name="No Smoking" id="1" weight="1" />
+      <Symbol name="Smoking" id="2" weight="1" />
+    </SymbolMap>
+    <DataSet id="unassigned" targetSize="0" labels="Unassigned" />
+    <DataSet id="train" targetSize="0.6" labels="Complete">
+      <Session name="session_002" sessionId="58740b3d-30a8-4a75-980a-a8790f359bc0" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="False" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916684396896" start="0" length="4837.798">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_002/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_002/session_002.imsession</SessionFile>
+        <LabelFile modified="5250901957632512834">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_002/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="4354.2299999">No Smoking</Label>
+          <Label count="1" length="483.5679999">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_003" sessionId="1ef97ff5-7ed1-4c5d-beba-05640ba4c952" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="False" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916685314022" start="0" length="1560.848">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_003/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_003/session_003.imsession</SessionFile>
+        <LabelFile modified="5250901957757999712">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_003/label.label</LabelFile>
+        <Labels>
+          <Label count="3" length="687.4349999">No Smoking</Label>
+          <Label count="2" length="873.4129999">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_006" sessionId="51fd2c4c-4a0c-4a5c-8dd0-238a9a6d18b4" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="False" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916688630520" start="0" length="1635.414">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_006/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_006/session_006.imsession</SessionFile>
+        <LabelFile modified="5250901958348810471">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_006/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="1111.614">No Smoking</Label>
+          <Label count="1" length="523.7999999">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_007" sessionId="6e8afe2b-2b3a-44f5-ad16-a692701217f8" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="False" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916689737553" start="0" length="692.5319999999999">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_007/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_007/session_007.imsession</SessionFile>
+        <LabelFile modified="5250901958499466302">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_007/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="176.8729998">No Smoking</Label>
+          <Label count="1" length="515.659">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_008" sessionId="e6247f64-05d2-4895-8209-9ece4db8b1e0" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="False" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916690489385" start="0" length="878.4340000000001">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_008/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_008/session_008.imsession</SessionFile>
+        <LabelFile modified="5250901958701098620">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_008/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="406.9989999">No Smoking</Label>
+          <Label count="1" length="471.435">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_012" sessionId="917b3cdc-4d0f-4e66-937a-c9caedc5a0f5" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="False" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916693571545" start="0" length="654.279">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_012/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_012/session_012.imsession</SessionFile>
+        <LabelFile modified="5250901959188806998">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_012/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="256.278">No Smoking</Label>
+          <Label count="1" length="398.001">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_019" sessionId="33802aae-8906-4588-b29d-5b5e31378b32" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="False" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916899698218" start="0" length="498.519">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_019/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_019/session_019.imsession</SessionFile>
+        <LabelFile modified="5250901960765003693">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_019/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="59.899">No Smoking</Label>
+          <Label count="1" length="438.62">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_020" sessionId="59363806-0ece-48ad-938e-b3db69593cc6" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="False" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916900648193" start="0" length="1180.762">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_020/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_020/session_020.imsession</SessionFile>
+        <LabelFile modified="5250901960891586653">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_020/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="738.9829999">No Smoking</Label>
+          <Label count="1" length="441.779">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_004" sessionId="1301acaa-8edf-4468-9438-5e658221b7ed" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916686278024" start="0" length="2093.7290000000003">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_004/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_004/session_004.imsession</SessionFile>
+        <LabelFile modified="5250901957951492824">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_004/label.label</LabelFile>
+        <Labels>
+          <Label count="4" length="532.7299999">Smoking</Label>
+          <Label count="4" length="1560.9989998">No Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_009" sessionId="be64be65-ff67-4512-9fca-77afdaeb09b3" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916691324100" start="0" length="700.5740000000001">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_009/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_009/session_009.imsession</SessionFile>
+        <LabelFile modified="5250901958820964130">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_009/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="317.5729999">No Smoking</Label>
+          <Label count="1" length="383.001">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_010" sessionId="a874cc62-98b4-47dc-ad13-a44aa955101e" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916692043725" start="0" length="661.357">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_010/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_010/session_010.imsession</SessionFile>
+        <LabelFile modified="5250901958939557862">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_010/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="228.1539999">No Smoking</Label>
+          <Label count="1" length="433.203">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_014" sessionId="51cff8ee-5b2f-4d39-9cc5-2a4ac2ad8d18" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916701209887" start="0" length="1413.219">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_014/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_014/session_014.imsession</SessionFile>
+        <LabelFile modified="5250901960004137282">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_014/label.label</LabelFile>
+        <Labels>
+          <Label count="4" length="883.4969999">No Smoking</Label>
+          <Label count="3" length="529.7219998">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_017" sessionId="3f6472e1-85c4-435b-b646-33db333bb2e0" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916897815602" start="0" length="520.309">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_017/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_017/session_017.imsession</SessionFile>
+        <LabelFile modified="5250901960372107873">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_017/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="224.4569999">No Smoking</Label>
+          <Label count="1" length="295.8519999">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_018" sessionId="52e74edc-f158-4ac3-b763-94520676be1b" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916898889602" start="0" length="1086.119">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_018/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_018/session_018.imsession</SessionFile>
+        <LabelFile modified="5250901960584493599">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_018/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="674.4639999">No Smoking</Label>
+          <Label count="1" length="411.6549999">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_021" sessionId="824c6ba0-1e62-431e-ac0e-9bfd31fe7afa" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916901597621" start="0" length="942.08">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_021/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_021/session_021.imsession</SessionFile>
+        <LabelFile modified="5250901961005523704">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_021/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="524.298">No Smoking</Label>
+          <Label count="1" length="417.782">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_022" sessionId="e060e661-e994-4e44-b778-19659641a662" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916902452558" start="0" length="825.484">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_022/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_022/session_022.imsession</SessionFile>
+        <LabelFile modified="5250901961113694341">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_022/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="326.948">No Smoking</Label>
+          <Label count="1" length="498.5359999">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+    </DataSet>
+    <DataSet id="validation" targetSize="0.2" labels="Complete">
+      <Session name="session_001" sessionId="4ce979f0-04d7-49a1-930b-baa230fa1cd1" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916683005128" start="0" length="589.894">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_001/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_001/session_001.imsession</SessionFile>
+        <LabelFile modified="5250900922999226335">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_001/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="234.1509999">No Smoking</Label>
+          <Label count="1" length="355.743">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_005" sessionId="4b03744e-91e1-42af-a5ea-e8b4c5ec55bb" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916687459851" start="0" length="2481.888">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_005/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_005/session_005.imsession</SessionFile>
+        <LabelFile modified="5250901958077454345">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_005/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="2017.468">No Smoking</Label>
+          <Label count="1" length="464.42">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_013" sessionId="bd813ad1-7ddf-497b-afbc-74624daf105b" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916700200603" start="0" length="928.794">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_013/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_013/session_013.imsession</SessionFile>
+        <LabelFile modified="5250901959868993539">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_013/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="461.379">No Smoking</Label>
+          <Label count="1" length="467.4149999">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+    </DataSet>
+    <DataSet id="test" targetSize="0.2" labels="Complete">
+      <Session name="session_015" sessionId="828476da-ddae-4a9b-a4dd-06dd3b3b16a0" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="False" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916702176664" start="0" length="1348.85">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_015/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_015/session_015.imsession</SessionFile>
+        <LabelFile modified="5250901960122618334">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_015/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="850.3349999">No Smoking</Label>
+          <Label count="1" length="498.515">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_011" sessionId="046031e7-5c04-4985-800b-a22fd839e703" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916692917562" start="0" length="1110.811">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_011/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_011/session_011.imsession</SessionFile>
+        <LabelFile modified="5250901959057954978">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_011/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="630.2369999">No Smoking</Label>
+          <Label count="1" length="480.574">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+      <Session name="session_016" sessionId="4d0c082e-046d-4ab8-b918-07e3a42c2c9b" originalSessionId="00000000-0000-0000-0000-000000000000" ownerLocked="True" labelTrack="label" dataTrack="sensor" tags="None">
+        <DataFile shape="[7]" samplerate="1" modified="5250900916896914421" start="0" length="1002.206">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_016/sensor.csv</DataFile>
+        <SessionFile>../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_016/session_016.imsession</SessionFile>
+        <LabelFile modified="5250901960253876624">../../SENSIRION/SEN66/DEEPCRAFT_training/data/session_016/label.label</LabelFile>
+        <Labels>
+          <Label count="2" length="561.688">No Smoking</Label>
+          <Label count="1" length="440.518">Smoking</Label>
+        </Labels>
+        <CustomColumnValues />
+      </Session>
+    </DataSet>
+  </Database>
+</ImagimobStudio>

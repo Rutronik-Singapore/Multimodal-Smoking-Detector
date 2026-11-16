@@ -1,0 +1,58 @@
+DT0 report
+
+Firmware contract summary:
+{
+  "inspected_root": "C:\\Users\\Lab\\pse84ai\\IAQ_PSE",
+  "model_header_included_by": "proj_cm33_ns\\source\\prediction\\sen66_prediction.c",
+  "current_model_header": "sen66_time_tree_model.h",
+  "current_prediction_function": "sen66_time_tree_predict_smoking",
+  "wrapper_api": "bool sen66_prediction_update(uint16_t pm1, uint16_t pm25, uint16_t pm4, uint16_t pm10, int16_t voc, int16_t nox, uint16_t co2, uint8_t *prediction)",
+  "generated_model_style": "pure bool function with scalar float feature arguments",
+  "return_convention": "false/0 = no smoking, true/1 = smoking",
+  "sensor_scaling": "SEN66 integer PM/VOC/NOx inputs are divided by 10.0f; CO2 is used as ppm float",
+  "rolling_owner": "proj_cm33_ns/source/prediction/sen66_prediction.c owns static rolling buffers for the current DT-0 style model",
+  "prediction_cadence": "one prediction per successful SEN66 sample in task_sen66_stream on CM33 non-secure core",
+  "build_requirements": "proj_cm33_ns/Makefile includes source/model and source/prediction; automatic source discovery builds .c files under source/model"
+}
+
+Features (43): ['pm1_0', 'pm2_5', 'pm4_0', 'pm10_0', 'voc_index', 'nox_index', 'co2_ppm', 'pm2_5_mean_5', 'pm2_5_max_5', 'pm2_5_delta_5', 'pm2_5_mean_10', 'pm2_5_max_10', 'pm2_5_delta_10', 'pm2_5_mean_30', 'pm2_5_max_30', 'pm2_5_delta_30', 'pm10_0_mean_5', 'pm10_0_max_5', 'pm10_0_delta_5', 'pm10_0_mean_10', 'pm10_0_max_10', 'pm10_0_delta_10', 'pm10_0_mean_30', 'pm10_0_max_30', 'pm10_0_delta_30', 'voc_index_mean_5', 'voc_index_max_5', 'voc_index_delta_5', 'voc_index_mean_10', 'voc_index_max_10', 'voc_index_delta_10', 'voc_index_mean_30', 'voc_index_max_30', 'voc_index_delta_30', 'co2_ppm_mean_5', 'co2_ppm_max_5', 'co2_ppm_delta_5', 'co2_ppm_mean_10', 'co2_ppm_max_10', 'co2_ppm_delta_10', 'co2_ppm_mean_30', 'co2_ppm_max_30', 'co2_ppm_delta_30']
+Params: {'criterion': 'gini', 'max_depth': 5, 'min_samples_leaf': 20, 'min_samples_split': 40, 'class_weight': 'balanced', 'max_thresholds': 128}
+Tree depth: 5
+Leaf count: 26
+Python/C-equivalent mismatch count: 0
+
+Test metrics:
+{
+  "test_support": 3419,
+  "test_accuracy": 0.8148581456566247,
+  "test_no_smoking_precision": 0.951171875,
+  "test_no_smoking_recall": 0.7236255572065379,
+  "test_no_smoking_f1": 0.8219409282700422,
+  "test_no_smoking_support": 2019,
+  "test_smoking_precision": 0.7036643653744026,
+  "test_smoking_recall": 0.9464285714285714,
+  "test_smoking_f1": 0.8071885470606153,
+  "test_smoking_support": 1400,
+  "test_macro_f1": 0.8145647376653287,
+  "test_balanced_accuracy": 0.8350270643175546,
+  "test_confusion_tn": 1461,
+  "test_confusion_fp": 558,
+  "test_confusion_fn": 75,
+  "test_confusion_tp": 1325,
+  "test_false_positive_samples": 558,
+  "test_false_positive_samples_per_no_smoking_hour": 580.2649264110954,
+  "test_false_positive_episode_count": 10,
+  "test_false_positive_episodes_per_no_smoking_hour": 10.399013018119991,
+  "test_false_positive_episode_mean_duration": 55.8885,
+  "test_false_positive_episode_max_duration": 162.401,
+  "test_event_count": 3,
+  "test_event_detection_rate": 1.0,
+  "test_mean_detection_delay_seconds": 12.064666666666673,
+  "test_prediction_transition_count": 24
+}
+
+Per-session test metrics:
+ test_support  test_accuracy  test_no_smoking_precision  test_no_smoking_recall  test_no_smoking_f1  test_no_smoking_support  test_smoking_precision  test_smoking_recall  test_smoking_f1  test_smoking_support  test_macro_f1  test_balanced_accuracy  test_confusion_tn  test_confusion_fp  test_confusion_fn  test_confusion_tp  test_false_positive_samples  test_false_positive_samples_per_no_smoking_hour  test_false_positive_episode_count  test_false_positive_episodes_per_no_smoking_hour  test_false_positive_episode_mean_duration  test_false_positive_episode_max_duration  test_event_count  test_event_detection_rate  test_mean_detection_delay_seconds  test_prediction_transition_count  dataset_id
+         1106       0.824593                   0.928854                0.748408            0.828924                      628                0.736667             0.924686         0.820037                   478       0.824481                0.836547                470                158                 36                442                          158                                       512.058307                                  3                                          9.722626                                  51.920333                                   115.525                 1                        1.0                             36.194                                 6          11
+         1343       0.879375                   0.948886                0.854782            0.899379                      847                0.787931             0.921371         0.849442                   496       0.874411                0.888076                724                123                 39                457                          123                                       328.279646                                  4                                         10.675761                                  29.924000                                    64.322                 1                        1.0                              0.000                                14          15
+          970       0.714433                   1.000000                0.490809            0.658446                      544                0.605974             1.000000         0.754650                   426       0.706548                0.745404                267                277                  0                426                          277                                       995.005019                                  3                                         10.776228                                  94.476000                                   162.401                 1                        1.0                              0.000                                 4          16

@@ -1,0 +1,4 @@
+Time(Seconds),Length(Seconds),Label(string),Confidence(double),Comment(string)
+0,304.617,No Smoking,1,
+304.617,467.4149999999999,Smoking,1,
+772.0319999999999,156.76200000000006,No Smoking,1,

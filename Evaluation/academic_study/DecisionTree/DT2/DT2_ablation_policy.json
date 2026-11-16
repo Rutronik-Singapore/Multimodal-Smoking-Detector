@@ -1,0 +1,14 @@
+{
+  "mode": "interpretive",
+  "default": "interpretive-only; final model retains all channels unless --ablation-mode formal is implemented deliberately",
+  "channels_retained": [
+    "pm1_0",
+    "pm2_5",
+    "pm4_0",
+    "pm10_0",
+    "voc_index",
+    "nox_index",
+    "co2_ppm"
+  ],
+  "channels_removed": []
+}

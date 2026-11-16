@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pageModels="clr-namespace:BLE_APP.PageModels"
+             xmlns:models="clr-namespace:BLE_APP.Models"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:lvc="clr-namespace:LiveChartsCore.SkiaSharpView.Maui;assembly=LiveChartsCore.SkiaSharpView.Maui"
+             x:Class="BLE_APP.Pages.MainPage"
+             x:DataType="pageModels:MainPageModel"
+             x:Name="IaqPage"
+             Title="PSE84 IAQ">
+
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior
+            BindingContext="{Binding Path=BindingContext, Source={x:Reference IaqPage}, x:DataType=ContentPage}"
+            EventName="Appearing"
+            Command="{Binding AppearingCommand}" />
+        <toolkit:EventToCommandBehavior
+            BindingContext="{Binding Path=BindingContext, Source={x:Reference IaqPage}, x:DataType=ContentPage}"
+            EventName="Disappearing"
+            Command="{Binding DisappearingCommand}" />
+    </ContentPage.Behaviors>
+
+    <Shell.TitleView>
+        <Image Source="pse84_iaq_logo.png"
+               Aspect="AspectFit"
+               WidthRequest="180"
+               HeightRequest="34"
+               HorizontalOptions="Start"
+               VerticalOptions="Center"
+               Margin="0,6,0,6"
+               SemanticProperties.Description="PSE84 IAQ" />
+    </Shell.TitleView>
+
+    <ScrollView>
+        <Grid x:Name="PageGrid"
+              Padding="24"
+              RowSpacing="18"
+              ColumnSpacing="16">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <VerticalStackLayout Grid.Row="0" Spacing="4">
+                <Label Text="PSE84 IAQ Monitor"
+                       FontSize="28"
+                       FontAttributes="Bold"
+                       SemanticProperties.HeadingLevel="Level1" />
+                <Label Text="{Binding StatusText}"
+                       FontSize="16"
+                       TextColor="{StaticResource TextSecondary}" />
+            </VerticalStackLayout>
+
+            <Border Grid.Row="1"
+                    Stroke="{StaticResource BorderColor}"
+                    StrokeThickness="2"
+                    Padding="16"
+                    BackgroundColor="{StaticResource SectionBackground}">
+                <Border.StrokeShape>
+                    <RoundRectangle CornerRadius="6" />
+                </Border.StrokeShape>
+                <Grid x:Name="BleSectionGrid"
+                      RowSpacing="12">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <Grid x:Name="BleHeaderGrid"
+                          ColumnDefinitions="*,Auto"
+                          ColumnSpacing="12">
+                        <VerticalStackLayout Spacing="2">
+                            <Label Text="BLE Connection"
+                                   FontSize="18"
+                                   FontAttributes="Bold" />
+                            <Label Text="{Binding DeviceName}"
+                                   FontSize="13"
+                                   TextColor="{StaticResource TextSecondary}" />
+                        </VerticalStackLayout>
+                        <Label x:Name="ConnectionStateLabel"
+                               Grid.Column="1"
+                               Text="{Binding ConnectionState}"
+                               FontSize="16"
+                               FontAttributes="Bold"
+                               HorizontalTextAlignment="End"
+                               LineBreakMode="WordWrap" />
+                    </Grid>
+
+                    <Grid x:Name="BleSearchGrid"
+                          Grid.Row="1"
+                          ColumnDefinitions="*,Auto,Auto"
+                          ColumnSpacing="10">
+                        <SearchBar x:Name="SearchDevicesBar"
+                                   Placeholder="Search devices"
+                                   Text="{Binding SearchText}"
+                                   HeightRequest="44" />
+                        <Button x:Name="ScanButton"
+                                Grid.Column="1"
+                                Text="Scan"
+                                Command="{Binding ScanCommand}"
+                                HeightRequest="44"
+                                HorizontalOptions="Fill" />
+                        <Button x:Name="CancelScanButton"
+                                Grid.Column="2"
+                                Text="Cancel"
+                                Command="{Binding CancelScanCommand}"
+                                HeightRequest="44"
+                                HorizontalOptions="Fill" />
+                    </Grid>
+
+                    <Grid x:Name="BleDeviceGrid"
+                          Grid.Row="2"
+                          ColumnDefinitions="*,Auto,Auto"
+                          ColumnSpacing="10">
+                        <CollectionView x:Name="DeviceList"
+                                        ItemsSource="{Binding Devices}"
+                                        SelectedItem="{Binding SelectedDevice}"
+                                        SelectionMode="Single"
+                                        HeightRequest="150">
+                            <CollectionView.ItemTemplate>
+                                <DataTemplate x:DataType="models:DiscoveredSensorDevice">
+                                    <Grid Padding="8"
+                                          ColumnDefinitions="*,Auto"
+                                          RowDefinitions="Auto,Auto">
+                                        <VisualStateManager.VisualStateGroups>
+                                            <VisualStateGroup x:Name="CommonStates">
+                                                <VisualState x:Name="Normal" />
+                                                <VisualState x:Name="Selected">
+                                                    <VisualState.Setters>
+                                                        <Setter Property="BackgroundColor" Value="{StaticResource SelectionBackground}" />
+                                                    </VisualState.Setters>
+                                                </VisualState>
+                                                <VisualState x:Name="Focused">
+                                                    <VisualState.Setters>
+                                                        <Setter Property="BackgroundColor" Value="{StaticResource SelectionBackground}" />
+                                                    </VisualState.Setters>
+                                                </VisualState>
+                                            </VisualStateGroup>
+                                        </VisualStateManager.VisualStateGroups>
+                                        <Label Text="{Binding Name}"
+                                               FontAttributes="Bold" />
+                                        <Label Grid.Column="1"
+                                               Text="{Binding SignalStrengthDbm, StringFormat='{0} dBm'}" />
+                                        <Label Grid.Row="1"
+                                               Text="{Binding Id}"
+                                               FontSize="12"
+                                               TextColor="{StaticResource TextSecondary}"
+                                               LineBreakMode="TailTruncation" />
+                                        <Label Grid.Row="1"
+                                               Grid.Column="1"
+                                               Text="IAQ"
+                                               IsVisible="{Binding AdvertisesExpectedService}"
+                                               FontSize="12" />
+                                    </Grid>
+                                </DataTemplate>
+                            </CollectionView.ItemTemplate>
+                        </CollectionView>
+
+                        <Button x:Name="ConnectButton"
+                                Grid.Column="1"
+                                Text="Connect"
+                                Command="{Binding ConnectCommand}"
+                                HeightRequest="44"
+                                VerticalOptions="Start"
+                                HorizontalOptions="Fill" />
+                        <VerticalStackLayout x:Name="DisconnectButtonStack"
+                                             Grid.Column="2"
+                                             Spacing="8">
+                            <Button Text="Disconnect"
+                                    Command="{Binding DisconnectCommand}"
+                                    HeightRequest="44"
+                                    HorizontalOptions="Fill" />
+                            <Button Text="Reconnect"
+                                    Command="{Binding ReconnectCommand}"
+                                    HeightRequest="44"
+                                    HorizontalOptions="Fill" />
+                        </VerticalStackLayout>
+                    </Grid>
+
+                    <Label Grid.Row="3"
+                           Text="{Binding ErrorText}"
+                           TextColor="{StaticResource ErrorText}"
+                           LineBreakMode="WordWrap" />
+                </Grid>
+            </Border>
+
+            <Border Grid.Row="2"
+                    Stroke="{StaticResource BorderColor}"
+                    StrokeThickness="2"
+                    Padding="16"
+                    BackgroundColor="{StaticResource SectionBackground}">
+                <Border.StrokeShape>
+                    <RoundRectangle CornerRadius="6" />
+                </Border.StrokeShape>
+                <Grid x:Name="LoggingSectionGrid"
+                      ColumnDefinitions="*,Auto"
+                      ColumnSpacing="12"
+                      RowSpacing="8">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <VerticalStackLayout Spacing="2">
+                        <Label Text="Logging Folder"
+                               FontSize="18"
+                               FontAttributes="Bold" />
+                        <Label Text="{Binding LogFolderDisplayText}"
+                               FontSize="16"
+                               FontAttributes="Bold"
+                               LineBreakMode="WordWrap" />
+                    </VerticalStackLayout>
+                    <Button x:Name="SelectFolderButton"
+                            Grid.Column="1"
+                            Text="Select Folder"
+                            Command="{Binding SelectLogFolderCommand}"
+                            HeightRequest="44"
+                            VerticalOptions="Center"
+                            HorizontalOptions="Fill" />
+                    <Label Grid.Row="1"
+                           Grid.ColumnSpan="2"
+                           Text="{Binding LoggingStatusText}"
+                           FontSize="13"
+                           TextColor="{StaticResource TextSecondary}"
+                           LineBreakMode="WordWrap" />
+                </Grid>
+            </Border>
+
+            <Border Grid.Row="3"
+                    Stroke="{StaticResource BorderColor}"
+                    StrokeThickness="2"
+                    Padding="16"
+                    BackgroundColor="{StaticResource SectionBackground}">
+                <Border.StrokeShape>
+                    <RoundRectangle CornerRadius="6" />
+                </Border.StrokeShape>
+                <Grid RowSpacing="14">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <Grid ColumnDefinitions="*,Auto" ColumnSpacing="12">
+                        <VerticalStackLayout Spacing="2">
+                            <Label Text="Live readings"
+                                   FontSize="18"
+                                   FontAttributes="Bold" />
+                            <Label Text="{Binding PacketText}"
+                                   FontSize="13"
+                                   TextColor="{StaticResource TextSecondary}" />
+                        </VerticalStackLayout>
+                        <VerticalStackLayout Grid.Column="1"
+                                             HorizontalOptions="End"
+                                             Spacing="2">
+                            <Label Text="Last update"
+                                   FontSize="12"
+                                   HorizontalTextAlignment="End"
+                                   TextColor="{StaticResource TextSecondary}" />
+                            <Label Text="{Binding LatestUpdateText}"
+                                   FontSize="18"
+                                   FontAttributes="Bold"
+                                   HorizontalTextAlignment="End" />
+                        </VerticalStackLayout>
+                    </Grid>
+
+                    <CollectionView Grid.Row="1"
+                                    ItemsSource="{Binding Metrics}"
+                                    SelectionMode="None">
+                        <CollectionView.ItemsLayout>
+                            <GridItemsLayout x:Name="MetricItemsLayout"
+                                             Orientation="Vertical"
+                                             Span="3"
+                                             HorizontalItemSpacing="10"
+                                             VerticalItemSpacing="10" />
+                        </CollectionView.ItemsLayout>
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate x:DataType="models:SensorMetric">
+                                <Border Stroke="{StaticResource BorderColor}"
+                                        StrokeThickness="1"
+                                        Padding="12"
+                                        BackgroundColor="{StaticResource CardBackground}">
+                                    <Border.StrokeShape>
+                                        <RoundRectangle CornerRadius="6" />
+                                    </Border.StrokeShape>
+                                    <VerticalStackLayout Spacing="4">
+                                        <Label Text="{Binding Name}"
+                                               FontSize="13"
+                                               TextColor="{StaticResource TextSecondary}" />
+                                        <Label Text="{Binding Value}"
+                                               FontSize="24"
+                                               FontAttributes="Bold"
+                                               LineBreakMode="TailTruncation" />
+                                        <Label Text="{Binding Unit}"
+                                               FontSize="12"
+                                               TextColor="{StaticResource TextSecondary}" />
+                                    </VerticalStackLayout>
+                                </Border>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+
+                    <FlexLayout Grid.Row="2"
+                                Wrap="Wrap"
+                                Direction="Row"
+                                AlignItems="Stretch"
+                                JustifyContent="Start"
+                                AlignContent="Stretch">
+                        <Border Stroke="{StaticResource BorderColor}"
+                                StrokeThickness="1"
+                                Padding="12"
+                                Margin="0,0,10,10"
+                                FlexLayout.Basis="320"
+                                FlexLayout.Grow="1"
+                                BackgroundColor="{StaticResource CardBackground}">
+                            <Border.StrokeShape>
+                                <RoundRectangle CornerRadius="6" />
+                            </Border.StrokeShape>
+                            <VerticalStackLayout Spacing="8">
+                                <Label Text="Set Manual Label"
+                                       FontSize="13"
+                                       TextColor="{StaticResource TextSecondary}" />
+                                <Label Text="{Binding ManualLabelPendingText}"
+                                       FontSize="12"
+                                       TextColor="{StaticResource TextSecondary}" />
+                                <Grid ColumnDefinitions="*,*"
+                                      ColumnSpacing="8">
+                                    <Button Text="No Smoking"
+                                            Command="{Binding SetNoSmokingCommand}"
+                                            HeightRequest="40"
+                                            HorizontalOptions="Fill" />
+                                    <Button Text="Smoking"
+                                            Grid.Column="1"
+                                            Command="{Binding SetSmokingCommand}"
+                                            HeightRequest="40"
+                                            HorizontalOptions="Fill" />
+                                </Grid>
+                                <Label Text="{Binding ManualLabelText, StringFormat='Confirmed: {0}'}"
+                                       FontSize="12"
+                                       TextColor="{StaticResource TextSecondary}" />
+                            </VerticalStackLayout>
+                        </Border>
+
+                        <Border Stroke="{StaticResource BorderColor}"
+                                StrokeThickness="1"
+                                Padding="12"
+                                Margin="0,0,10,10"
+                                FlexLayout.Basis="320"
+                                FlexLayout.Grow="1"
+                                BackgroundColor="{StaticResource CardBackground}">
+                            <Border.StrokeShape>
+                                <RoundRectangle CornerRadius="6" />
+                            </Border.StrokeShape>
+                            <VerticalStackLayout Spacing="8">
+                                <Label Text="Manual Label"
+                                       FontSize="13"
+                                       TextColor="{StaticResource TextSecondary}" />
+                                <Label Text="{Binding ManualLabelText}"
+                                       FontSize="24"
+                                       FontAttributes="Bold"
+                                       LineBreakMode="TailTruncation" />
+                                <Label Text=""
+                                       FontSize="12"
+                                       TextColor="{StaticResource TextSecondary}" />
+                            </VerticalStackLayout>
+                        </Border>
+
+                        <Border Stroke="{StaticResource BorderColor}"
+                                StrokeThickness="1"
+                                Padding="12"
+                                Margin="0,0,10,10"
+                                FlexLayout.Basis="320"
+                                FlexLayout.Grow="1"
+                                BackgroundColor="{StaticResource CardBackground}">
+                            <Border.StrokeShape>
+                                <RoundRectangle CornerRadius="6" />
+                            </Border.StrokeShape>
+                            <VerticalStackLayout Spacing="8">
+                                <Label Text="Predicted"
+                                       FontSize="13"
+                                       TextColor="{StaticResource TextSecondary}" />
+                                <Label Text="{Binding PredictedText}"
+                                       FontSize="24"
+                                       FontAttributes="Bold"
+                                       LineBreakMode="TailTruncation" />
+                                <Label Text=""
+                                       FontSize="12"
+                                       TextColor="{StaticResource TextSecondary}" />
+                            </VerticalStackLayout>
+                        </Border>
+
+                    </FlexLayout>
+                </Grid>
+            </Border>
+
+            <Border Grid.Row="4"
+                    Stroke="{StaticResource BorderColor}"
+                    StrokeThickness="2"
+                    Padding="16"
+                    BackgroundColor="{StaticResource SectionBackground}">
+                <Border.StrokeShape>
+                    <RoundRectangle CornerRadius="6" />
+                </Border.StrokeShape>
+                <Grid RowSpacing="12">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <VerticalStackLayout Spacing="2">
+                        <Label Text="Live graphs"
+                               FontSize="18"
+                               FontAttributes="Bold" />
+                        <Label Text="Waiting for sensor samples"
+                               FontSize="13"
+                               IsVisible="{Binding IsWaitingForReading}"
+                               TextColor="{StaticResource TextSecondary}" />
+                    </VerticalStackLayout>
+                    <VerticalStackLayout Grid.Row="1"
+                                         x:Name="GraphPanel"
+                                         Spacing="12">
+                        <Grid x:Name="ChartGrid"
+                              ColumnSpacing="12"
+                              RowSpacing="12">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Border x:Name="PmChartCard"
+                                    Stroke="{StaticResource BorderColor}"
+                                    StrokeThickness="1"
+                                    Padding="12"
+                                    BackgroundColor="{StaticResource CardBackground}">
+                                <Border.StrokeShape>
+                                    <RoundRectangle CornerRadius="6" />
+                                </Border.StrokeShape>
+                                <Grid RowSpacing="10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="250" />
+                                    </Grid.RowDefinitions>
+                                    <Grid ColumnDefinitions="*,Auto">
+                                        <Label Text="Particulate Matter"
+                                               FontSize="16"
+                                               FontAttributes="Bold" />
+                                        <Label Grid.Column="1"
+                                               Text="µg/m³"
+                                               FontSize="12"
+                                               TextColor="{StaticResource TextSecondary}" />
+                                    </Grid>
+                                    <FlexLayout Grid.Row="1"
+                                                Wrap="Wrap"
+                                                Direction="Row"
+                                                AlignItems="Center"
+                                                JustifyContent="Start"
+                                                AlignContent="Start">
+                                        <HorizontalStackLayout Spacing="6"
+                                                               Margin="0,0,12,6"
+                                                               VerticalOptions="Center">
+                                            <CheckBox IsChecked="{Binding IsPm1Visible, Mode=TwoWay}"
+                                                      SemanticProperties.Description="Show PM1.0 series" />
+                                            <Border WidthRequest="12"
+                                                    HeightRequest="12"
+                                                    StrokeThickness="0"
+                                                    BackgroundColor="{Binding Pm1SeriesColor}">
+                                                <Border.StrokeShape>
+                                                    <RoundRectangle CornerRadius="6" />
+                                                </Border.StrokeShape>
+                                                <Border.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding TogglePm1Command}" />
+                                                </Border.GestureRecognizers>
+                                            </Border>
+                                            <Label Text="PM1.0"
+                                                   VerticalOptions="Center"
+                                                   VerticalTextAlignment="Center"
+                                                   FontSize="12"
+                                                   LineBreakMode="TailTruncation">
+                                                <Label.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding TogglePm1Command}" />
+                                                </Label.GestureRecognizers>
+                                            </Label>
+                                        </HorizontalStackLayout>
+                                        <HorizontalStackLayout Spacing="6"
+                                                               Margin="0,0,12,6"
+                                                               VerticalOptions="Center">
+                                            <CheckBox IsChecked="{Binding IsPm25Visible, Mode=TwoWay}"
+                                                      SemanticProperties.Description="Show PM2.5 series" />
+                                            <Border WidthRequest="12"
+                                                    HeightRequest="12"
+                                                    StrokeThickness="0"
+                                                    BackgroundColor="{Binding Pm25SeriesColor}">
+                                                <Border.StrokeShape>
+                                                    <RoundRectangle CornerRadius="6" />
+                                                </Border.StrokeShape>
+                                                <Border.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding TogglePm25Command}" />
+                                                </Border.GestureRecognizers>
+                                            </Border>
+                                            <Label Text="PM2.5"
+                                                   VerticalOptions="Center"
+                                                   VerticalTextAlignment="Center"
+                                                   FontSize="12"
+                                                   LineBreakMode="TailTruncation">
+                                                <Label.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding TogglePm25Command}" />
+                                                </Label.GestureRecognizers>
+                                            </Label>
+                                        </HorizontalStackLayout>
+                                        <HorizontalStackLayout Spacing="6"
+                                                               Margin="0,0,12,6"
+                                                               VerticalOptions="Center">
+                                            <CheckBox IsChecked="{Binding IsPm4Visible, Mode=TwoWay}"
+                                                      SemanticProperties.Description="Show PM4.0 series" />
+                                            <Border WidthRequest="12"
+                                                    HeightRequest="12"
+                                                    StrokeThickness="0"
+                                                    BackgroundColor="{Binding Pm4SeriesColor}">
+                                                <Border.StrokeShape>
+                                                    <RoundRectangle CornerRadius="6" />
+                                                </Border.StrokeShape>
+                                                <Border.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding TogglePm4Command}" />
+                                                </Border.GestureRecognizers>
+                                            </Border>
+                                            <Label Text="PM4.0"
+                                                   VerticalOptions="Center"
+                                                   VerticalTextAlignment="Center"
+                                                   FontSize="12"
+                                                   LineBreakMode="TailTruncation">
+                                                <Label.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding TogglePm4Command}" />
+                                                </Label.GestureRecognizers>
+                                            </Label>
+                                        </HorizontalStackLayout>
+                                        <HorizontalStackLayout Spacing="6"
+                                                               Margin="0,0,12,6"
+                                                               VerticalOptions="Center">
+                                            <CheckBox IsChecked="{Binding IsPm10Visible, Mode=TwoWay}"
+                                                      SemanticProperties.Description="Show PM10.0 series" />
+                                            <Border WidthRequest="12"
+                                                    HeightRequest="12"
+                                                    StrokeThickness="0"
+                                                    BackgroundColor="{Binding Pm10SeriesColor}">
+                                                <Border.StrokeShape>
+                                                    <RoundRectangle CornerRadius="6" />
+                                                </Border.StrokeShape>
+                                                <Border.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding TogglePm10Command}" />
+                                                </Border.GestureRecognizers>
+                                            </Border>
+                                            <Label Text="PM10.0"
+                                                   VerticalOptions="Center"
+                                                   VerticalTextAlignment="Center"
+                                                   FontSize="12"
+                                                   LineBreakMode="TailTruncation">
+                                                <Label.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding TogglePm10Command}" />
+                                                </Label.GestureRecognizers>
+                                            </Label>
+                                        </HorizontalStackLayout>
+                                    </FlexLayout>
+                                    <lvc:CartesianChart x:Name="PmChart"
+                                                        Grid.Row="2"
+                                                        BackgroundColor="{StaticResource CardBackground}"
+                                                        DrawMargin="{Binding ChartDrawMargin}"
+                                                        DrawMarginFrame="{Binding ChartDrawMarginFrame}"
+                                                        TooltipBackgroundPaint="{Binding ChartTooltipBackgroundPaint}"
+                                                        TooltipTextPaint="{Binding ChartTooltipTextPaint}"
+                                                        LegendBackgroundPaint="{Binding ChartLegendBackgroundPaint}"
+                                                        LegendTextPaint="{Binding ChartLegendTextPaint}"
+                                                        Series="{Binding PmSeries}"
+                                                        XAxes="{Binding PmXAxes}"
+                                                        YAxes="{Binding PmYAxes}"
+                                                        MinimumHeightRequest="250"
+                                                        HeightRequest="250"
+                                                        HandlerChanged="OnLiveChartHandlerChanged"
+                                                        Loaded="OnLiveChartLoaded"
+                                                        SizeChanged="OnLiveChartSizeChanged" />
+                                </Grid>
+                            </Border>
+
+                            <Border x:Name="VocNoxChartCard"
+                                    Grid.Column="1"
+                                    Stroke="{StaticResource BorderColor}"
+                                    StrokeThickness="1"
+                                    Padding="12"
+                                    BackgroundColor="{StaticResource CardBackground}">
+                                <Border.StrokeShape>
+                                    <RoundRectangle CornerRadius="6" />
+                                </Border.StrokeShape>
+                                <Grid RowSpacing="10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="250" />
+                                    </Grid.RowDefinitions>
+                                    <Grid ColumnDefinitions="*,Auto">
+                                        <Label Text="VOC and NOx"
+                                               FontSize="16"
+                                               FontAttributes="Bold" />
+                                        <Label Grid.Column="1"
+                                               Text="index"
+                                               FontSize="12"
+                                               TextColor="{StaticResource TextSecondary}" />
+                                    </Grid>
+                                    <FlexLayout Grid.Row="1"
+                                                Wrap="Wrap"
+                                                Direction="Row"
+                                                AlignItems="Center"
+                                                JustifyContent="Start"
+                                                AlignContent="Start">
+                                        <HorizontalStackLayout Spacing="6"
+                                                               Margin="0,0,12,6"
+                                                               VerticalOptions="Center">
+                                            <CheckBox IsChecked="{Binding IsVocVisible, Mode=TwoWay}"
+                                                      SemanticProperties.Description="Show VOC series" />
+                                            <Border WidthRequest="12"
+                                                    HeightRequest="12"
+                                                    StrokeThickness="0"
+                                                    BackgroundColor="{Binding VocSeriesColor}">
+                                                <Border.StrokeShape>
+                                                    <RoundRectangle CornerRadius="6" />
+                                                </Border.StrokeShape>
+                                                <Border.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding ToggleVocCommand}" />
+                                                </Border.GestureRecognizers>
+                                            </Border>
+                                            <Label Text="VOC"
+                                                   VerticalOptions="Center"
+                                                   VerticalTextAlignment="Center"
+                                                   FontSize="12"
+                                                   LineBreakMode="TailTruncation">
+                                                <Label.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding ToggleVocCommand}" />
+                                                </Label.GestureRecognizers>
+                                            </Label>
+                                        </HorizontalStackLayout>
+                                        <HorizontalStackLayout Spacing="6"
+                                                               Margin="0,0,12,6"
+                                                               VerticalOptions="Center">
+                                            <CheckBox IsChecked="{Binding IsNoxVisible, Mode=TwoWay}"
+                                                      SemanticProperties.Description="Show NOx series" />
+                                            <Border WidthRequest="12"
+                                                    HeightRequest="12"
+                                                    StrokeThickness="0"
+                                                    BackgroundColor="{Binding NoxSeriesColor}">
+                                                <Border.StrokeShape>
+                                                    <RoundRectangle CornerRadius="6" />
+                                                </Border.StrokeShape>
+                                                <Border.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding ToggleNoxCommand}" />
+                                                </Border.GestureRecognizers>
+                                            </Border>
+                                            <Label Text="NOx"
+                                                   VerticalOptions="Center"
+                                                   VerticalTextAlignment="Center"
+                                                   FontSize="12"
+                                                   LineBreakMode="TailTruncation">
+                                                <Label.GestureRecognizers>
+                                                    <TapGestureRecognizer Command="{Binding ToggleNoxCommand}" />
+                                                </Label.GestureRecognizers>
+                                            </Label>
+                                        </HorizontalStackLayout>
+                                    </FlexLayout>
+                                    <lvc:CartesianChart x:Name="VocNoxChart"
+                                                        Grid.Row="2"
+                                                        BackgroundColor="{StaticResource CardBackground}"
+                                                        DrawMargin="{Binding ChartDrawMargin}"
+                                                        DrawMarginFrame="{Binding ChartDrawMarginFrame}"
+                                                        TooltipBackgroundPaint="{Binding ChartTooltipBackgroundPaint}"
+                                                        TooltipTextPaint="{Binding ChartTooltipTextPaint}"
+                                                        LegendBackgroundPaint="{Binding ChartLegendBackgroundPaint}"
+                                                        LegendTextPaint="{Binding ChartLegendTextPaint}"
+                                                        Series="{Binding VocNoxSeries}"
+                                                        XAxes="{Binding VocNoxXAxes}"
+                                                        YAxes="{Binding VocNoxYAxes}"
+                                                        MinimumHeightRequest="250"
+                                                        HeightRequest="250"
+                                                        HandlerChanged="OnLiveChartHandlerChanged"
+                                                        Loaded="OnLiveChartLoaded"
+                                                        SizeChanged="OnLiveChartSizeChanged" />
+                                </Grid>
+                            </Border>
+
+                            <Border x:Name="HumidityChartCard"
+                                    Grid.Row="1"
+                                    Stroke="{StaticResource BorderColor}"
+                                    StrokeThickness="1"
+                                    Padding="12"
+                                    BackgroundColor="{StaticResource CardBackground}">
+                                <Border.StrokeShape>
+                                    <RoundRectangle CornerRadius="6" />
+                                </Border.StrokeShape>
+                                <Grid RowSpacing="10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="250" />
+                                    </Grid.RowDefinitions>
+                                    <Grid ColumnDefinitions="*,Auto">
+                                        <HorizontalStackLayout Spacing="6"
+                                                               VerticalOptions="Center">
+                                            <Border WidthRequest="12"
+                                                    HeightRequest="12"
+                                                    StrokeThickness="0"
+                                                    BackgroundColor="{Binding HumiditySeriesColor}">
+                                                <Border.StrokeShape>
+                                                    <RoundRectangle CornerRadius="6" />
+                                                </Border.StrokeShape>
+                                            </Border>
+                                            <Label Text="Humidity"
+                                                   FontSize="16"
+                                                   FontAttributes="Bold" />
+                                        </HorizontalStackLayout>
+                                        <Label Grid.Column="1"
+                                               Text="% RH"
+                                               FontSize="12"
+                                               TextColor="{StaticResource TextSecondary}" />
+                                    </Grid>
+                                    <BoxView Grid.Row="1" HeightRequest="22" Opacity="0" />
+                                    <lvc:CartesianChart x:Name="HumidityChart"
+                                                        Grid.Row="2"
+                                                        BackgroundColor="{StaticResource CardBackground}"
+                                                        DrawMargin="{Binding ChartDrawMargin}"
+                                                        DrawMarginFrame="{Binding ChartDrawMarginFrame}"
+                                                        TooltipBackgroundPaint="{Binding ChartTooltipBackgroundPaint}"
+                                                        TooltipTextPaint="{Binding ChartTooltipTextPaint}"
+                                                        LegendBackgroundPaint="{Binding ChartLegendBackgroundPaint}"
+                                                        LegendTextPaint="{Binding ChartLegendTextPaint}"
+                                                        Series="{Binding HumiditySeries}"
+                                                        XAxes="{Binding HumidityXAxes}"
+                                                        YAxes="{Binding HumidityYAxes}"
+                                                        MinimumHeightRequest="250"
+                                                        HeightRequest="250"
+                                                        HandlerChanged="OnLiveChartHandlerChanged"
+                                                        Loaded="OnLiveChartLoaded"
+                                                        SizeChanged="OnLiveChartSizeChanged" />
+                                </Grid>
+                            </Border>
+
+                            <Border x:Name="TemperatureChartCard"
+                                    Grid.Row="1"
+                                    Grid.Column="1"
+                                    Stroke="{StaticResource BorderColor}"
+                                    StrokeThickness="1"
+                                    Padding="12"
+                                    BackgroundColor="{StaticResource CardBackground}">
+                                <Border.StrokeShape>
+                                    <RoundRectangle CornerRadius="6" />
+                                </Border.StrokeShape>
+                                <Grid RowSpacing="10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="250" />
+                                    </Grid.RowDefinitions>
+                                    <Grid ColumnDefinitions="*,Auto">
+                                        <HorizontalStackLayout Spacing="6"
+                                                               VerticalOptions="Center">
+                                            <Border WidthRequest="12"
+                                                    HeightRequest="12"
+                                                    StrokeThickness="0"
+                                                    BackgroundColor="{Binding TemperatureSeriesColor}">
+                                                <Border.StrokeShape>
+                                                    <RoundRectangle CornerRadius="6" />
+                                                </Border.StrokeShape>
+                                            </Border>
+                                            <Label Text="Temperature"
+                                                   FontSize="16"
+                                                   FontAttributes="Bold" />
+                                        </HorizontalStackLayout>
+                                        <Label Grid.Column="1"
+                                               Text="°C"
+                                               FontSize="12"
+                                               TextColor="{StaticResource TextSecondary}" />
+                                    </Grid>
+                                    <BoxView Grid.Row="1" HeightRequest="22" Opacity="0" />
+                                    <lvc:CartesianChart x:Name="TemperatureChart"
+                                                        Grid.Row="2"
+                                                        BackgroundColor="{StaticResource CardBackground}"
+                                                        DrawMargin="{Binding ChartDrawMargin}"
+                                                        DrawMarginFrame="{Binding ChartDrawMarginFrame}"
+                                                        TooltipBackgroundPaint="{Binding ChartTooltipBackgroundPaint}"
+                                                        TooltipTextPaint="{Binding ChartTooltipTextPaint}"
+                                                        LegendBackgroundPaint="{Binding ChartLegendBackgroundPaint}"
+                                                        LegendTextPaint="{Binding ChartLegendTextPaint}"
+                                                        Series="{Binding TemperatureSeries}"
+                                                        XAxes="{Binding TemperatureXAxes}"
+                                                        YAxes="{Binding TemperatureYAxes}"
+                                                        MinimumHeightRequest="250"
+                                                        HeightRequest="250"
+                                                        HandlerChanged="OnLiveChartHandlerChanged"
+                                                        Loaded="OnLiveChartLoaded"
+                                                        SizeChanged="OnLiveChartSizeChanged" />
+                                </Grid>
+                            </Border>
+
+                            <Border x:Name="Co2ChartCard"
+                                    Grid.Row="2"
+                                    Stroke="{StaticResource BorderColor}"
+                                    StrokeThickness="1"
+                                    Padding="12"
+                                    BackgroundColor="{StaticResource CardBackground}">
+                                <Border.StrokeShape>
+                                    <RoundRectangle CornerRadius="6" />
+                                </Border.StrokeShape>
+                                <Grid RowSpacing="10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="250" />
+                                    </Grid.RowDefinitions>
+                                    <Grid ColumnDefinitions="*,Auto">
+                                        <HorizontalStackLayout Spacing="6"
+                                                               VerticalOptions="Center">
+                                            <Border WidthRequest="12"
+                                                    HeightRequest="12"
+                                                    StrokeThickness="0"
+                                                    BackgroundColor="{Binding Co2SeriesColor}">
+                                                <Border.StrokeShape>
+                                                    <RoundRectangle CornerRadius="6" />
+                                                </Border.StrokeShape>
+                                            </Border>
+                                            <Label Text="CO2"
+                                                   FontSize="16"
+                                                   FontAttributes="Bold" />
+                                        </HorizontalStackLayout>
+                                        <Label Grid.Column="1"
+                                               Text="ppm"
+                                               FontSize="12"
+                                               TextColor="{StaticResource TextSecondary}" />
+                                    </Grid>
+                                    <BoxView Grid.Row="1" HeightRequest="22" Opacity="0" />
+                                    <lvc:CartesianChart x:Name="Co2Chart"
+                                                        Grid.Row="2"
+                                                        BackgroundColor="{StaticResource CardBackground}"
+                                                        DrawMargin="{Binding ChartDrawMargin}"
+                                                        DrawMarginFrame="{Binding ChartDrawMarginFrame}"
+                                                        TooltipBackgroundPaint="{Binding ChartTooltipBackgroundPaint}"
+                                                        TooltipTextPaint="{Binding ChartTooltipTextPaint}"
+                                                        LegendBackgroundPaint="{Binding ChartLegendBackgroundPaint}"
+                                                        LegendTextPaint="{Binding ChartLegendTextPaint}"
+                                                        Series="{Binding Co2Series}"
+                                                        XAxes="{Binding Co2XAxes}"
+                                                        YAxes="{Binding Co2YAxes}"
+                                                        MinimumHeightRequest="250"
+                                                        HeightRequest="250"
+                                                        HandlerChanged="OnLiveChartHandlerChanged"
+                                                        Loaded="OnLiveChartLoaded"
+                                                        SizeChanged="OnLiveChartSizeChanged" />
+                                </Grid>
+                            </Border>
+                        </Grid>
+                    </VerticalStackLayout>
+                </Grid>
+            </Border>
+
+        </Grid>
+    </ScrollView>
+</ContentPage>
